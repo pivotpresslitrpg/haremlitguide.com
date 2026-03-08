@@ -1,0 +1,435 @@
+TITLE: Dungeon Champions Book 3
+AUTHOR: Adam Lance & Leon West
+SERIES: Dungeon Champions (Book 3)
+WORDS EXTRACTED: 6009
+============================================================
+
+Dedication
+
+This book is dedicated to our Discord fans. You know who you are. When you stop by and tell us how much you enjoy our books, it means the world.
+
+Author’s Notes
+
+Our biggest take-away from Book 2 was how many level-ups and stat sheets this series has. That’s not going to change (this is a full-fledged, team-building LitRPG story). But! Your authors have done their best to put all of the character sheet stuff in separate, skippable, chapters.
+
+Bonus! Based on feedback from Book 2, we’ve moved the starting character sheets, spells, quests, and gear for the party moved to Appendix 4.
+
+What’s Next: Although this book is relatively light on the intense combat, especially compared to Book 2, you should expect Book 4 to be downright brutal (and come with the associated level-ups).
+
+Book 1 Recap
+
+I awoke in the Fae Wilds with no memory, inheriting a Battle Scholar class from a fallen adventurer. After striking a deal with the Dungeon Core of the dungeon I’d woken up in, I rescued four ex-members of the Sisterhood: Merielle, a stoic and reliable elf warrior woman; Nym, an adorable catgirl battle mage and her spicy feline familiar, Sadie; a bratty celestial healer named Britnayel; and Zuri, an alluring half-medusa woman who happens to be an excellent cook. I also befriended Skullie, a snarky lich who became my familiar.
+
+Because of my class, I was able to offer the ex-Sisterhood members temporary Tablets, giving them classes, and we formed the Society of the Defiant.
+
+We traveled to Boulibar Bay, where we established ourselves by completing quests for the locals. Our party grew stronger, but tensions arose, particularly with Britnayel, who struggled to adapt to our new situation. We focused on gaining levels and improving our relationships with the town. Our efforts were interrupted by a sudden monster attack on the town, which we successfully repelled, pushing our abilities to the limit.
+
+The mayor of Boulibar Bay, Mayor Regan, approached us with a secret quest to investigate disruptions to the town’s trade routes. Our resulting sea voyage revealed a smuggling operation involving powerful artifacts and elemental beings. We faced numerous challenges, including battles with sirens and a massive sea monster known as the Old Man of the Sea. Eventually we made it to Lans, where we learned of a larger conspiracy involving the Trade Regulation Bureau.
+
+Returning to Boulibar Bay, we were tasked with investigating a suspected dungeon site in relation to that conspiracy. We discovered it was part of “Project Synthesis,” an attempt to create controlled dungeons using a combination of technology and magic. We battled through the corrupted facility, facing horrifying abominations and twisted artificial intelligence that had taken control.
+
+In a climactic confrontation, we destroyed the dungeon’s artificial Dungeon Core, collapsing the facility and saving the region. Our victory earned us hero status in Boulibar Bay, along with a grand house from Mayor Regan. But our work has only just begun, as we still have to get stronger so we can take on a list of challenges, including a Demon Core beneath the Goblin King’s city, and a corrupt Celestial Queen (who happens to be Britney’s stepmother).
+
+Book 2 Recap
+
+We established ourselves in Boulibar Bay, completing quests and growing stronger as a team. Recently, we were gifted a house called Logan’s Peak after saving the town. While there, we hired Meekin Teenywizzle as our property administrator after narrowly avoiding his obsessive cousin Nori.
+
+Things had gotten complicated. I was forming a harem, with Zuri already part of it and Merielle recently joining after our romantic date. Britney had been acting out, struggling with her role in the party despite having powerful abilities. And I had just learned that Sadie wasn’t just Nym’s familiar—she was actually a cursed ratgirl who had sacrificed herself to save Nym from a Pact Demon years ago.
+
+We were about to head out on a quest to claim a silver mine, but there was so much more going on. The Sisterhood’s Matriarchs were hunting us, we had multiple major quests pending including dealing with a Demon Core, and I had promised to help break Sadie’s curse. Plus, we needed to earn money to upgrade our home’s defenses and build Merielle a training room.
+
+My memory of Earth was still spotty, but I was focused on leading this team and protecting the family we were building in the Fae Wilds. We had come a long way, but we clearly had much further to go.
+
+After claiming the silver mine, my team and I encountered a Veil Tear and some powerful demons on a nearby island. During our investigation, I fell into an underground chamber after fighting a dangerous creature, where I met an entity called the Maker. They granted me some powerful artifacts—a legendary spear and armor—in exchange for helping restore their constructs and close the Veil Tear.
+
+Meanwhile, my team infiltrated a demon stronghold and managed to gather valuable resources and information. We also learned that Britney’s stepmother Leah may have been involved in concerning activities in Celestia. This led Britney to decide to go undercover there to gather intelligence, while the rest of us prepared to help free Sadie from a curse.
+
+We had grown significantly stronger as a team, reaching Level 8 (Level 13 in my case), and gained new abilities and quest opportunities. We were developing plans to potentially start our own adventuring guild to help make positive changes in the Fae Wilds.
+
+I had an enlightening conversation with Warden Tyler, who gave me both subtle warnings and helpful advice about balancing ambition with taking care of those close to me. He also helped finalize our claim on the silver mine.
+
+We ended up in Debosa, preparing to track down the person responsible for Sadie’s curse. We had a lot of challenges ahead—dealing with demons, investigating corruption in Celestia, and growing stronger as a team. But I believed in our abilities and our cause. We would face whatever came next together.
+
+The Fates seemed to have plans for us, though their exact intentions remained unclear. For then, we focused on our immediate goals while staying alert to the larger forces at play.
+
+On our first night in Debosa, Nym finally got her wish and shared a special night with me. We agreed to wait until Sadie was cured to enjoy full consummation, but that didn’t keep us from having an amazing night together.
+
+Tablet State Recap
+
+Battle Scholar: Jordan’s Battle Scholar class lets him generate [Epic] tablets that he has Command Authority over. He can Graduate members, giving them permanent control over their Tablets once they reach Level 10. If they do, he may generate new Tablets over time. The current party level (minus Jordan) is 8.
+
+Normalized Experience: The team currently has [normalized] experience enabled, with one caveat. If [Sadie] chooses to accept a Tablet, she will begin as Level [7]. Experience point distributions between qualifying Society members will be adjusted to ensure she gains double the normal rewards until she catches up. This means everyone else will get less, but likely only for a short period. The “catchup” will end once she’s the same level as the rest of the party, excluding the party leader.
+
+Britnayel is Deployed: She cannot level up, but she can accrue experience points (which will be normalized) once the party is back together.
+
+Chapter 1: A Friend In Me
+
+Nym giggled, the mischievous sound music to my ears. Wiggling against me, she reiterated the earlier promise, “Even the weird ones.”
+
+I nuzzled the catgirl in my arms. She was soft and warm and still slightly damp from our bath. I wasn’t entirely sure what “weird ones” entailed as far as holes went, and I tried not to let my mind wander.
+
+Something told me that if I could think of it, she would request it. That was just who she was: delightfully curious and eternally optimistic.
+
+Releasing my hold on her, we strode from the bathroom together.
+
+…And that’s when I realized everyone had heard us.
+
+Zuri was at the counter with our host, Erma, making dinner. The tiny lizard woman was standing on a stool and still barely came up to the middle of Zuri’s toned back. Without her mask on, Zuri’s skin was a warm brown, barely concealed by the dancer’s outfit she was wearing. My half-gorgon lover was making small talk, clearly trying to keep the lizard woman distracted.
+
+Hearing us walk in, Zuri dropped her shoulder and glanced over, giving me a playful wink.
+
+At the table, Merielle—my redheaded elf warrior—was chatting with someone new.
+
+She had to be Erma’s daughter, but that gave me a lot of questions about the girl’s father. Where Erma was short and petite, the woman lounging next to Merielle was big in every way. Not fat, just big. Tall, broad, and muscular. Each of her forearms were the size of my head, her thighs double, and she had a long, lean belly with two rows of the kinds of abs you only got with a lot of dehydration. She had two small flesh-colored horns poking out of the top of her head, and wickedly sharp fangs pushing out of her lower lip like tusks.
+
+I’d always thought of Merielle as muscular. She wasn’t bulky, but she still had a fighter’s build. In comparison with the potential demonic monster next to her, Merielle was downright svelte.
+
+Nym was right, though—those were nice…teeth. They were barely covered by a thin white tank top that made it very clear the woman wasn’t wearing a bra and was either cold, aroused, or pierced.
+
+Maybe all three.
+
+Sadie must have caught me staring because the black cat launched herself into my arms with a snarl. She rubbed her face aggressively against my neck and chin, tiny front paws perched on my chest. My armor (set to look like a casual cloth outfit) protected me from the angry tips of her claws.
+
+For a ratgirl trapped inside the body of a cat, she was basically ninety-percent cat.
+
+Nym made a mewling sound next to me and tried to pull the feline away. Sadie latched on with claws and teeth in a way that made it very clear it was her turn to have my attention.
+
+The last of our gathered group was Skullie, my lich familiar—and he was currently hanging from a metal hook on the ceiling by his tailbone. The sight of him dangling there made me snort a laugh. The lich turned his head slightly, pinning me with empty black eye sockets. He still hadn’t had enough time to regenerate any tissue after he lost his last body in the mines.
+
+“Finally. Can you please let me down?”
+
+I gave my familiar a flat look. “Depends. What’d you do to get put up there?”
+
+“Absolutely nothing!”
+
+“He tried to claim he was in charge while you were ‘indisposed,’” Merielle said, motioning with her fingers to accent the air quotes. “Apparently he can feel the call of nearby necromancy and wanted to investigate.”
+
+“There might be monsters out there!” Skullie said in a weak whimper. “Dangerous undead! We should deal with them! And maybe rummage around in their things for bodies for me to attach to? Without the celestial here, I’m a lot less picky on the age of the body.”
+
+The celestial.
+
+Britney.
+
+Her missing presence was like a wound I didn’t realize I had until I saw it. And then it ached.
+
+Britney’s leaving had been mostly mutual; we’d sure discussed it enough. She was going to Celestia to gather intel—to spy on her stepmother and father and figure out what the hell was going on while we dealt with Sadie’s little problem.
+
+But that didn’t mean I didn’t worry about her. Or miss her.
+
+I suppressed the urge to check my Tablet, knowing what I’d see. Her status was Deployed, which limited her functions in the group menu. I had no reason to be worried, not yet. She was safely on a boat. Until she arrived at her destination and started gathering intelligence, it did me no good to feed my anxiety.
+
+Something must have crossed my face because Merielle snarled. “See? Now you’ve done it.” She stood up, hands slamming down on the table. “I should toss you outside. Maybe a stray will—”
+
+“It’s fine,” I said, smiling at the grumpy elf. “He didn’t mean anything by it.”
+
+“Yes, yes! Of course, I didn’t! We’re friends, best friends!” Skullie paused, his jaw clicking. “What did I not mean anything by?”
+
+I ignored him, leaving him hanging from his perch. It would be better than him awkwardly resting across my shoulder, anyway.
+
+“Sorry about that,” I said, turning toward the woman next to Merielle. “I’m Jordan. Leader of this ragtag party.”
+
+“Kuir,” the woman said, not getting up from her seat. She looked me up and down, sizing me up in possibly more than one way. “Sounds like you know how to show a girl a good time, Jordan.”
+
+Nym giggled. “Really good.”
+
+Where some men would have blushed and stammered, I smiled. “Nothing is too good for my companions.”
+
+Kuir stretched, arms languidly going behind her head, pushing her chest out as she did. Her long black hair swept back from her shoulders. “And what does it take to become a companion? I could go for a good time with a strapping man like you.”
+
+Sadie hissed from my arms. Almost simultaneously, Nym’s white tail puffed out behind her, standing nearly straight in the air.
+
+“He’s mine!”
+
+Another hiss, this time followed by a low yowling growl.
+
+“Fine. Ours!” Nym huffed and crossed her arms over her chest. “The point is, we don’t pick up strays.”
+
+Kuir turned to Nym, something crass likely lurking behind her lips, but Erma whistled. The sharp, shrill noise caught everyone’s attention, and all eyes turned her way.
+
+“There will be none of that, Ku’,” the lizard woman said with a click of her tongue.
+
+“Dinner’s almost ready anyway,” Zuri added. I expected to see the same jealousy lurking in her eyes that I saw in Nym’s, but the medusa-kin was all confident smiles.
+
+She knew I didn’t have eyes for anyone outside our party.
+
+I put Sadie down—much to the cat’s displeasure—and helped set the table. The tight space meant we had to all crowd around, but I purposefully made sure Kuir was on the other side away from me.
+
+As much fun as it was to see Sadie and Nym flustered, I didn’t want to ruin dinner by tempting the horned woman to flirt.
+
+The spread of food was impressive. We had roasted potatoes, some sort of curry with big chunks of basilisk meat floating in it, charred yellow beans, and as much rice as we were willing to eat. There was even a green salad that Erma said Ku’ had provided the nutritious ingredients for.
+
+Everyone murmured compliments as they dished themselves out.
+
+Zuri’s specialty was enchanting food to have unique properties. In the past, she’d produced a basilisk meal that, while having physical benefits, also made us sluggish. She’d cooked this meal differently, as none of those effects came up.
+
+We discussed all sorts of things while we ate. Between the myriad compliments to both chefs—and a fair bit of acknowledged help in preparation thrown my way—we talked about Debosa and Avigo, Duke Jakken and his particular brand of ruling, and the dangers of the region.
+
+I also learned Kuir was a half oni on her father’s side, and half dragon-kin on her mother’s.
+
+Erma’s true form was twelve feet tall and quite scary, and I was suddenly very glad we’d taken the woman up on her offer of staying here, versus the ill-named Kiss Of Fate tavern. Nothing—not even Duke Jakken himself—was going to disturb our rest, not if she had anything to do with it.
+
+During our conversations, I learned quite a bit about our surroundings, too.
+
+The first was that Duke Jakken was every bit of a nasty piece of work as I thought he was. Erma and Kuir had only bad things to say, and they repeated them often and loudly, almost as if daring the Duke to somehow overhear them. He was a womanizer, a skinflint, a user, and tyrannical. His men—only men, Duke Jakken thought women were only for breeding and cooking—were everywhere.
+
+Kuir had very many things to say about those who worked for Jakken or thought themselves in his good graces.
+
+I also learned that Jakken had been, indirectly, involved with the death of many of the decent menfolk in Debosa. He’d done some conscription a few years back, pretending to be a warlord. Kuir had only been twelve when her father left, and he’d still yet to return, even though Jakken’s little war effort was long over.
+
+“We only assume the worst,” Erma said in a tight tone. “Only so many nights you can hope.”
+
+I silently vowed to make him tell me what happened to the poor man.
+
+My Tablet, it seemed, was in agreement. It appeared in its disguised form, showing as a purple lined Epic artifact, rather than its true state.
+
+***
+
+Quest: All The Duke’s Men—find out what happened to Debosa’s conscripted men.
+
+Assigned to: [none].
+
+Estimated Time to Completion: Unknown.
+
+Estimated Risk: Variable.
+
+Reward: Unknown.
+
+Details: While your goal should be locating Erma’s husband, Dilmore, there are many other good men from Debosa that never came home. Finding out what happened to them would bring peace to this region. If they are alive, you should try to bring them home.
+
+***
+
+I wondered who was behind that quest—the Fates or the sealed god that was currently occupying my Tablet. Although my relationship with Okanthis, God of Judgment, was relatively new, I had a strong feeling that he’d have opinions about blackhearted dictators.
+
+It was just one reason our pairing on the island had gone as smoothly as it had.
+
+Regardless of the source, I accepted the quest and pushed it to my party with a telepathic message to keep it quiet.
+
+Well, three of my party members, at least.
+
+There wasn’t a need to share it with Britney, since she couldn’t join in.
+
+After the meal was done, I volunteered to help Erma and Zuri clean the kitchen while Merielle, Nym, and Kuir got the guest room set up. We set up a decent assembly line, with Zuri washing, me drying, and Erma putting the dishes away. She thanked us both, even making me kneel so she could pinch and kiss my cheeks like she was an old Italian grandma.
+
+It was easier than putting a hole in her roof by assuming her full form.
+
+Our accommodations were cramped and modest. Barely more than a few blankets tossed together on the floor of a guest room that had more storage than floor space.
+
+No one complained. It was warm, vermin free, and comfortable.
+
+I fell asleep with Zuri curled up on one side of me, Nym on the other, with Merielle resting her head on my belly and curling her long body along my leg protectively. Sadie slept in the center of my chest, purring contentedly.
+
+Skullie, of course, spent the night hanging from the ceiling in the kitchen.
+
+I swear I didn’t forget about him.
+
+Interlude: Platinum Dreams
+
+“Welcome to the Hall of Masks.”
+
+The god’s voice was deep, sepulchral. In other circumstances, I might have found it threatening, if not intimidating. Yet I felt humor and approval. Comradery. Welcome.
+
+I looked around, studying an endless hall filled with masks. Okanthan society had been big on masks. They hung suspended in the air, each one unique yet following the same almost round design. Branching arms like insect mandibles formed the outer part of the masks. Spiraling patterns adorned their edges, while abstract eye-slits and elongated, vertical mouth openings gave them the suggestion of faces.
+
+Just not anything from this plane of existence.
+
+Some of the masks were weathered with age, others pristine as if freshly created.
+
+Light shone from the cunningly carved artifacts, appearing to push a clinging darkness away. The surfaces of the masks captured and refracted the light in impossible ways—not reflecting it, but seeming to generate it from within.
+
+Between the masks, threads of silvery light connected some to others, forming constellations of relationships I couldn’t begin to understand. As I moved though the hall, the masks rotated slightly to track my progress, their empty eyes somehow attentive.
+
+There was no sign of the god or my Tablet. And yet I didn’t feel alone.
+
+“I thought you weren’t supposed to be able to talk to me. You’re bound.”
+
+One of the masks changed. As if coming alive. From the eye sockets pulsed a strange blue light. My instincts told me it was laughter. “Dreams are fuzzy things, my friend.”
+
+Another mask lit up. This one had green light from the eyes. “In dreams, there are ways to whisper.”
+
+“And what are you whispering to me here?”
+
+A different mask, this one farther down the hall, throbbed with purple light. Tendrils of that light like smoke reached out from the sides of the mask, not for me, though. “Only that I approve, Jordan. It has been far too long since a bringer of justice walked these lands.”
+
+When I tried to respond, I found myself without a voice.
+
+When I tried to move, I found myself without a body.
+
+When I tried to think about what to do, I found myself without thought.
+
+“I am most pleased that my freedom was granted through a man such as you.”
+
+The space near my consciousness—for that was all I was left with—shimmered, taking on the outline of my Tablet. As it manifested, the dream faded, leaving me only with the gods’ last words.
+
+Who will hold evil accountable, other than the hand of judgment?
+
+Chapter 2: The In-Between
+
+We woke early in the morning. Pushing away the remnants of the strange dream, I fetched Skullie. He complained about being left out, but only half-heartedly. That became full-heartedly when I shoved him in my backpack.
+
+After the team had breakfast, we donned our Okanthan masks and said goodbye to our hosts. Debosa was barely awake when we left, but it didn’t make sense for us to go unmasked, in case someone was watching us. The same people leaving Erma’s home that entered it kept all of us safe.
+
+Nym grabbed my hand as we turned to leave town, and Sadie jumped from her head to my shoulder, much to the catgirl’s dismay. The ratgirl-turned-familiar was anxious, tail thrashing. Perching on my shoulder seemed to soothe her.
+
+Slightly.
+
+The road from Debosa to Avigo was made of ancient cobblestones that were cracked and worn. It would be just enough to keep the path from running to mud at the first drops of rain. Glancing up, I saw turbulent skies off the horizon, but clear in the direction we were headed. It felt like a metaphor. Britney’s absence was a cloud, and ahead was… What? Smoother sailing? Less drama?
+
+Maybe both. Either way, it was less her, and I didn’t like that.
+
+Mostly, I wanted her to be safe.
+
+Forests lined either side of the road. They were overgrown, with well-worn trails suggesting the presence of hunters. I was surprised there wasn’t more farmland. Maybe more people in Debosa had family garden plots, like Erma and Kuir. They were also a port town, so it was likely there was a bit of trading happening with traveling merchants.
+
+Once we were a few miles away from the city, I gave the signal, and we all pulled off our masks and put them into our individual storage. I also grabbed Skullie out of my backpack and sat him on my shoulder. Sadie hissed and swatted at the addition of the skull before hopping down to walk beside us instead.
+
+“Ah, that’s better,” he said, wiggling his spine to get into his normal comfortable position.
+
+“I need to get you another saddle setup. Can’t tuck you into my armor now.”
+
+“But I like being on your shoulder. It’s neat. Plus, whenever you try to glare at me, you can’t.” His jaw waggled against me.
+
+Brow furrowing, I reflexively tried to meet his eyeless gaze. That earned a rasping laugh from the lich and peals of giggles from Nym.
+
+Addressing the catgirl, I asked, “Can you tell us anything else about Avigo, or Donnie, or even Jakken?”
+
+All signs of humor left her face. Ears flattening, she looked away from the road, gaze tracking across the vaguely ominous forests on either side. It took her a few minutes of gathering her thoughts before she replied.
+
+“Jakken inherited his father’s Royal Tablet when he was in his teens. He wasn’t a good person, not to anyone. I never met him, but I heard enough. He used gangs to collect taxes from the people. The Slicers were tolerated because they bribed his folks. Back then, Donnie wasn’t anyone that important. Just someone trying to make a name for himself.”
+
+“How’d he get allied with a Pact Demon?” Merielle asked from a few feet away. The warrior had her hands free, fingers relaxed. Almost like she was expecting something or someone to come out of the woods.
+
+My Battle Scholar instincts approved of her wariness.
+
+Nym shook her head vigorously. “I didn’t even know he had one. Right before the…incident, he got a common Tablet. He told everyone he’d gone into one of the little dungeons near the city and gotten it from a treasure chest.”
+
+Sliding next to my other side, Zuri reached out to take my hand. “Are there many Dungeon Cores in the area? What about monsters?”
+
+“Plenty of both,” Nym said. “Boulibar Bay just had the three or four nearby. They are thick as lice over here. Even when Sadie and I were little, adventurers coming through the cities were super common.”
+
+“That explains the Sisterhood’s presence,” I said, seeing the hints of connections. “A corrupt royal with no sense of morality on top of lots of dungeons. It all adds up to the very thing the Sisterhood would want to exploit for their arrangements.”
+
+Zuri squeezed my hand. “It could also point to how Donnie got a Tablet. Luring adventurers into dungeons would be a great way to level up the Cores. If the Sisterhood somehow arranged for Donnie to find one and spread word they are inside, it would trigger quite the frenzy in that community. High-level adventurers, especially those with Tablets, would be quite the feast.”
+
+I’d already decided to deal with Donnie as soon as we arrived. Now, I saw other possibilities. “If—and this is a big if—we get there and can find out anything about the Sisterhood, it might be advantageous to do that as well.”
+
+Nym made an unhappy, squawking sound. “Why didn’t we think about any of this before Britney left? She might have stayed if we’d had this discussion.”
+
+I knew the answer, but Zuri got to it before I said anything.
+
+“Her leaving wasn’t about quests,” the half-gorgon said plainly. “She’s worried about her father. We couldn’t have helped with that aspect. On top of that, she’s developing feelings for Jordan. And she has opinions about harems. Or maybe she’s thinking of how her people would look at her if she joined us. Whichever. But Britnayel’s leaving was more about her figuring out what she wants than anything else.”
+
+“Oh.” Nym’s eyes narrowed in focused thought, then widened as realization set in. “That actually makes a lot of sense. I didn’t even realize she had feelings for him.”
+
+Merielle shook her head. Turning around, she walked backwards so she could watch our faces. “She was getting jealous that Jordan wouldn’t take her ass before any of ours. Shouldn’t that have clued you in?”
+
+“Uh,” I said.
+
+“Hey!” Nym blushed, gemstone eyes darting from Merielle to my face. “I was going to talk about that with Jordan later.”
+
+“Do I get a say in this?”
+
+“No,” all three of them said simultaneously.
+
+Laughing together eased the tension.
+
+We made good time. Part of that was because the road was relatively intact, but the truth was our Tablet-enhanced Attributes gave us all an unfair advantage. In a lot of ways, having a Tablet might seem like getting a class from a fantasy game back on Earth. In reality, it was closer to becoming superheroes. It was just one reason my class was overpowered: by creating and administrating Epic tablets, I was functionally a sort of anti-Dungeon Core.
+
+Miles vanished as we settled into an amiable silence, broken with occasional discussions about numerous topics. My favorite topic was combat tactics. I wanted to go over how we’d need to adjust things without Britney, but with Nym in an emotionally delicate state, I opted to keep it to the basics.
+
+“Your upgraded Consumption to Touch is going to be the key,” I said to Zuri. “We need to get you more healing recipes. The fact that it will only work on a target once will be one heck of a limiting factor, not to mention the mana cost.”
+
+She nodded agreement. “I can’t believe there was a quest like that available to me. It opens up an entire world of new possibilities. Now, more than ever, I’ll be able to support Nym and the rest of the team. I just need time to experiment and fresh parts.”
+
+“Which means dungeons,” Merielle said, finishing the thought. “If Dungeon Cores will unlock upgrades for the team, it makes absolute sense for us to go harvesting them.”
+
+I agreed.
+
+Dungeons seemed to be the quickest, and most logical way, to get our team in the sort of fighting shape we’d need to be in to face down truly prepared rivals—like Tanin and his group.
+
+Maybe we could even harvest their Tablets. Now that would open up a world of potential I hadn’t considered until now. I made a mental note to query my Tablet about the benefits of acquiring rival Tablets during a future rest.
+
+The forests gradually transitioned to a mixture of swamp on one side and clear-cut marsh on the other. I spotted distant structures in the swamp that looked like crypts, or half-drowned mausoleums. Ephemeral shapes, likely ghosts or one of the many subtypes, darted around, using the shade of the canopy to shield them from the sun’s dangerous rays.
+
+“Monsters out in the open like that means one thing,” I said, frowning.
+
+“What’s that?” Merielle asked.
+
+Skullie provided the answer, adopting a lecturing tone. “There’s a Dungeon Core near here that’s overflowing. If it’s got a breeding population of monsters and not enough time to expand, the excess will spill out. If there are ghosts, that can only mean one thing.”
+
+“A lot of death,” I said.
+
+“Death and necromancy. We’ll probably find liches in the area if we look hard. Say, boss…”
+
+Lips tightly compressed, I resisted the urge to agree with my familiar’s sentiment. We needed a target rich environment to hone our skills and collect loot. If phylacteries were what it would take to get my familiar to the next evolution, this would be the place to do it. But we had other plans. “Sadie, then we’re leaving, remember? We have our home in Boulibar Bay.”
+
+“I do like the idea of going home,” Nym said, watching blue and green ghosts flitting about just beyond the edge of the road. “But this could be a chance for me to complete the Overcharged Minions quest. That would open up entirely new avenues for my spellcasting.”
+
+Skullie positively vibrated with delight. “That’s the spirit!”
+
+“Oh. Oh, no.” Nym spun to face me. “My library book! I still have it. It’ll be due before we return.” She crossed her arms over her chest. “I didn’t even get to finish it.”
+
+“At least our adventures in the mines means we’ll be able to cover the late fee.”
+
+“But what if they take away our passes?”
+
+I shrugged. “We’ll just need to get Scholar Landon to issue us new ones. I’m sure he’ll have some obscure thing he needs help with.”
+
+“He does seem the type,” Nym replied, visibly relaxing.
+
+Our levity and casual conversation continued for a while longer, until we arrived at the slums.
+
+At first, I didn’t understand what we were seeing. It looked like a bunch of trash on the marshy side of the road, where I had yet to see any ghosts or other monsters. Then I saw the people, and realized what I was seeing were tattered bits of cloth used to create tents, or wood stacked to form the most basic shelter.
+
+“Nym,” Zuri said, tucking her hair into one of her cloth wraps. “Was this here when you left?”
+
+“No,” the catgirl said, sounding horrified. “There were always slums in Avigo, but nothing like this.”
+
+As we approached, I became increasingly captivated and appalled at the sight of old people, women, and even children moving among the squalor. There must have been hundreds of people there, mostly lined up right next to the road, where the day’s light was brightest.
+
+Empty eyes and hollow cheeks met ours as we drew even with the folks. They took one look at us and a murmur of, “Adventurers,” went up among them. Like one organism, they drew back, the terror of a wounded animal replacing hopelessness.
+
+My stomach clenched as, for once, I regretted having a high Cunning score. It didn’t take it to see what was going on, but the Attribute made the recognition far more vivid than it would have been otherwise.
+
+In my mind’s eye, I saw what must have happened as adventurers passed this way, the downtrodden people beseeching for food or coin. I imagined the response and knew that the looks on these people’s faces wouldn’t have come from one bad altercation, but many.
+
+“How do they survive when it turns dark?” I whispered to Skullie.
+
+Matching my discretion, he murmured, “Monster wards on the road, boss. Look down. They are spaced out every hundred feet or so, probably to keep the road clear. As long as those folk stay within thirty feet or so, they probably won’t get eaten unless an elite, or high-level one comes hunting.”
+
+Looking down, I spotted a gently glowing rock not far from where we were walking, right on the edge of the marsh and a tent.
+
+Merielle: How can these people live like this? Right next to the undead. Maybe even their own family and friends who got turned?
+
+I didn’t have an answer to the telepathic question.
+
+My tablet vibrated with a notification.
+
+***
+
+Zuri (to Team): I could set up a makeshift kitchen and cook these folk some of the spare meat we’ve got. There’s plenty.
+
+***
+
+The tactician in me told me to say no, that we should get to Avigo and find out the situation before we tried to change something. Then I heard a child’s wailing, desperate screams.
+
+I didn’t know anything about kids. None of my skills dealt with them. None of my Earth memories did, either.
+
+But with that cry, coupled with the looks of the people around us, I felt a shifting inside my chest. It was like a lock starting to turn.
+
+***
+
+Quest: Help the people of Avigo.
+
+Assigned to: Society of the Defiant.
+
+Estimated Time to Completion: Unknown.
+
+Estimated Risk: Variable.
+
+Reward: Variable.
+
+Details: Many things could be done to improve the lives of those living in the slums outside Avigo. Food would be an enormous help, as would clearing out some of the ghosts that threaten to harm those who stray too close. Improved shelters, including waste disposal, would be a larger task, and finding some way to provide clothing and work for them would be even larger.
+
+***
+
+I accepted the quest as passed it along to Nym, Zuri, and Merielle.

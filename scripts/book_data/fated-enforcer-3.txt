@@ -1,0 +1,403 @@
+TITLE: Fates Enforcer (Fated Enforcer Book 3)
+AUTHOR: Adam Lance
+SERIES: Fated Enforcer (Book 3)
+WORDS EXTRACTED: 6012
+============================================================
+
+Fate’s Enforcer 3
+
+Author’s Note
+
+This is a HaremLit action-adventure story with a GameLit system. Check Appendix 1 for a refresher of what came before, and the final quests that carried over from the end of the first book. During the course of this story, Alex gets access to some higher-level powers. We’ve added those to Appendix 2. If you like crunch, feel free to reference that for just how epic he can get (under the right circumstances).
+
+Cosmology
+
+Fate’s Enforcer takes place in what we’re loosely calling the Fateforged universe. Each story in that universe shares the same basic system. We’ll also have some corresponding events and character cameos from one series to the other. These are not required reading to follow the story – just fun Easter eggs for fans.
+
+Starting Character Sheet: Alexander Colin
+
+Note: Your Tablet allows you to gain 5 attribute points per level, although no more than 3 may be placed in any one attribute per level. Your attributes, including their effects and names, have been customized to fit your class.
+
+Age: 34
+
+Level: 10
+
+Class: Echo Parasite (Legendary)
+
+Templates: Fated Enforcer, Omnessence Annealed
+
+Progress to Level 11: 0%
+
+Species: Human
+
+Hit Points (Endurance + 3 per Level): 55
+
+Attributes
+
+·     	Strength: 22 (You have exceeded traditional human strength and deal 5 extra damage with unarmed attacks)
+
+·     	Endurance: 23 (You get an extra 3 hit points per level and need only 3 hours of rest each night)
+
+·     	Agility: 19 (You have exceeded traditional human agility, and have a 20% heightened dodge rate)
+
+·     	Focus: 20 (You perform any task requiring focus or will with 20% increased efficiency)
+
+·     	Sharpness: 20 (You have greatly enhanced recall and puzzle solving skills)
+
+·     	Resistance: 14 (You take [30%] less damage than normal from attacks. Negative effects with an extended duration last [30%] less than normal.)
+
+Core Skills:
+
+Note: Your Tablet allows you to allocate 3 skill points per level. Each skill point represents a full year of focused, optimized study and may generate supernatural benefits.
+
+· 	      	Investigation: 10. This skill helps in all manner of investigation, including observing details others might miss.
+
+· 	      	Negotiation: 10. This skill will allow you to understand the needs and desires of others. Combined with Investigation, it will make your job as an Enforcer easier.
+
+· 	      	Fae Law: 10. This skill provides you with insights into the laws and contracts of the Fae and Magical community. It also updates your Tablet with local Accords and customs when you move into a new area.
+
+Fated Enforcer Template
+
+You have been granted the Fated Enforcer template. It grants you all of the following benefits, some of which scale with your level.
+
+Timeless: You no longer age and remain in peak physical condition naturally. This does not convey immunities to poisons, toxins, etc.
+
+Veil Perception: You can see through illusions, enchantments, and fae misdirection. Using this ability requires conscious activation and deactivation, but it has no maximum duration. Bonus: Your Tablet will remain invisible on Earth by default. Using this power will allow you to see and interact with it covertly. Warning: Use of this ability can be distracting.
+
+Dungeon Upgrade: With 30 seconds of concentration, you may pierce the Veil and see into the Fae Wilds.
+
+Unbound: You are capable of breaking almost all bindings, be they magical or physical. This only applies as it relates to quests specifically granted by the Fates. If a binding would prevent you from accepting a quest from the Fates, the binding is removed.
+
+Fortified Mind: You are immune to all negative mind-control or mind-influencing effects.
+
+Pierce the Veil: Twice per day, you may cross the Veil. You may take up to [5] willing people with you for the crossing. These numeric values increase by 1 at class level 7, 9, 11, etc.
+
+Fate’s Justice: If you discover conclusive evidence that any of Fate’s laws have been broken, Fate’s Justice will activate. It will remain active until justice is met. While it is active, you gain 10 levels and +10 in all your Attributes. See Fate’s Laws for additional details.
+
+Thousand Tongues: Starting at level 8, you can communicate with any intelligent creature.
+
+High Ruling: You may oversee bonds, pacts, and agreements. By doing so, you can “Seal them to Fate” – effectively ensuring an Enforcer will be notified if either side breaks the bond. Limitation: This ability makes the written agreements between the Enforcer and another party Sealed. If the Enforcer was tricked or coerced, this does not apply.
+
+Eternal Ties: You may form a bond with a supernatural or fae creature known as an Eternal Tie. If you do so, that person may choose one of the following benefits: Veil Perceptions, Fortified Mind, Timeless, or Pierce the Veil. These gifts are known among the fae and considered of extreme value.
+
+Historically, Eternal Ties were used to deputize assistants for Fate’s Enforcers.
+
+In exchange for an Eternal Tie, you gain enhanced awareness of the bonded person. You can find them at will and can observe their status at all times. If they break any of Fate’s Laws, you will instantly be aware of it (and be responsible for remedying the situation). As you have the [Echo Parasite] class, you may also gain 1 special ability from the bonded person that becomes a permanent effect, unless the bonded person dies.
+
+Limitation: You may bond up to 4 entities. This increases by 1 at levels 9, 11, 13, and 17, and 20.
+
+Omnessence Annealed Template
+
+You have been unified – this includes your Tablet, class abilities, templates, and more. Moreover, this unification was fueled by aether, which was twisted by your Legendary Class. The results are as follows:
+
+The source of your power is omnessence. This is the fundamental, pure energy of constructive magic. Think of it as the opposite of Aether, although that isn’t quite true. It is a form of energy more akin to gods and Fates than people.
+
+Omnessence allows you to interact with, bypass, and resist Aether as if it were regular magic. In effect, you passively neutralize its special properties.
+
+You have become Annealed. This means your Tablet, class, templates, and all soul-bonds (such as with your familiar) have become permanent. Your Tablet cannot be suppressed as a separate object. Given that it is fueled by omnessence, the odds of anything short of a god being able to attempt such a thing are slim.
+
+Smolder’s source of demonic power has become twinned. She is now able to tap into omnessence. This makes the Fates very nervous.
+
+Class Benefits for Echo Parasite
+
+Granted Power: When you are affected by any magical or fae effect, you gain the ability to duplicate it as if you were the original source, only at your level and with your attributes. Gaining an ability in this way also provides you with complete insight as to how to use the effect properly. The duplicated ability is called an Echo. If the ability costs mana to use, you effectively have unlimited mana for the duration of the adaptation. You may only echo one ability at a time. If you are affected by a new magic or fae power, you may opt to replace the current adaptation with the new one.
+
+Duration: This ability lasts up to 1 minute per your level.
+
+Special Enhancement (Due to Dungeon Reward): You suffer 50% less damage from any source you have Echoed. At level 10, this increases to 80% and at level 20 this increases to 91%.
+
+Limitation One: It will not substantially alter your appearance: being struck by dragon’s breath will grant you the same power, but you will remain overtly human in appearance. Depending on the potency of the attack, you might get glowing eyes or a dragon’s aura. If you are struck by a creature with alternative limb structures as a supernatural power, you gain those limbs as ephemeral extensions of your body.
+
+Limitation Two: Duplicated spells may not be [2] levels higher than your overall level. Example: You could duplicate a level [3] fireball while you are level [1], but you could not duplicate a level [4] until you are level [2].
+
+Level 1: While you have no Echoed abilities, you suffer 2 less damage from all sources. This resistance increases as follows:
+
+·     	4 points at level 9
+
+·     	9 points at level 15
+
+·     	20 points at level 20
+
+Level 3: You may Echo a second ability. This increases as follows:
+
+·     	3rd ability at level 8
+
+·     	4th ability at level 14
+
+·     	5th ability at level 18
+
+Level 5: While you have no Echoed abilities, you gain a +3 innate bonus to resist any non-instantaneous damage, such as poisons, toxins, curses, etc. This resistance increases as follows:
+
+·     	+9 points at level 9
+
+·     	+12 points at level 15
+
+·     	+15 points at level 20
+
+Level 7: All of your numeric variables (attributes, level, etc.) are considered [3] higher for your Echoed abilities. Thus, if a vampire’s bite damage is based on Strength, and you Echo it, your Strength attribute is considered [3] higher. This increases to [6] higher at level 14, and [9] higher at level 20.
+
+In effect, this temporarily makes you superior to the originators of echoed sources.
+
+Chapter 1: Power Plays
+
+The secure chamber within the Golden Gate Casino hadn't changed in the month since Alex had helped banish Calvin. Dark wood paneling lined the walls, varnish shining enough to suggest someone had recently gone through and replaced sections of them.
+
+Probably to remove the listening devices, Alex thought in wry amusement, studying the baseboards. Symbols carved deeply into the wood suggested old magic of a kind he didn’t immediately recognize. The bulge in his breast pocket kept him confident that whatever those wards or spells were, they weren’t a threat.
+
+Brass light fixtures cast a warm glow across the walnut conference table, illuminating a gathering that would have seemed impossible mere weeks ago. The changes in Las Vegas' power structure were still settling, like sand shifting beneath the city's glittering surface.
+
+Alex sat with his back to the wall, grateful for the perfect fit of his enchanted suit. The Warden's wardrobe had saved his life more than once, though today's negotiations weren't likely to involve demons or Aether-twisted monsters. Still, he couldn't help but notice how the fabric seemed to pulse against his skin, as if it sensed the tension in the room.
+
+Laura and Lana flanked him, a position that had become natural since their soul-bond had been formalized. Both kitsune wore their formal police uniforms, the dark blue material tailored to emphasize their athletic frames without sacrificing professionalism. Gold buttons caught the light when they moved, matching the badges that marked them as liaisons between fae law enforcement and the Enforcer's office.
+
+Laura's long black hair was pulled back in a severe braid that emphasized her sharp cheekbones. Her ears, usually animated, remained perfectly still as she focused on the meeting. Every few seconds, her honey-colored eyes darted to the doorway, marking entrance and exit points with the precision of a trained officer.
+
+Beside her, Lana's shorter hair framed a face that was identical to her partner's, yet somehow more expressive. Her tails, visible now that they were on the fae side of the Veil, swished with barely-contained energy. Both women had changed since formally joining Alex's household. Their newfound connection to an Enforcer had elevated their standing in the supernatural community, though they wore that authority with careful humility.
+
+Miss Walker sat across the ornate table, her diminutive green-skinned, goblin form perched atop three cushions that had been enchanted to remain perfectly stable. Her leathery skin caught the light from recessed fixtures, making her look almost gem-like. Unlike their previous meeting in her home, where she'd played at being nothing more than a simple business owner, she'd dressed for corporate warfare. Her tailored pantsuit was cut from material that seemed to drink in the light.
+
+Dwayne's representative, a troll named Bartholomew, occupied most of the space on Miss Walker's side. Unlike most trolls Alex had met, Bartholomew was rail thin, with ash-gray skin that spoke of too much time in accounting offices. All four of his arms were wrapped in an Italian suit that had been specifically tailored for his unique physiology. A pair of golden spectacles perched on his flat nose, making him look more like a university professor than a mob enforcer.
+
+"I have spoken with the other signatories of the local Accords. I speak for all when I say we require certain considerations." Bartholomew's voice filled the room with the practiced tone of someone used to being heard. "Allowing the Goblin King to claim significant territory, let alone join our ranks, is complicated. Besides keeping the Fates happy, we must ensure proper support for local infrastructure."
+
+The troll, whose chest merged with his head, making turning his head almost impossible, shifted to look at Alex. “As Fate’s envoy and the Enforcer of our Accords, what do you have to say?”
+
+Alex kept his expression neutral as his Tablet appeared. The device floated next to his face, its presence enough to remind the gathering of who he was and who he represented. Platinum-white with a patina of pearlescent omnessence in the filagree framing it, the device resembled an oversized iPad and displayed text on one side.
+
+* * *
+
+Fate’s Ruling: Enforcer Alex, King Thomas has agreed to assist us in matters of state, both in the Fae Wilds, and on Earth. Provided all signatories agree, and every effort is made to protect humanity from the truth of the fae, we agree to his terms and requests.
+
+* * *
+
+“The Fates approve,” he announced, not elaborating on the details as to why. Those were private. “However, they reiterate the need for discretion and the sanctity of the Accorded Signatories of this region. They will allow the additional staff and personnel King Thomas has requested, but that is all.”
+
+At his announcement, the troll envoy brought a briefcase up to the table’s surface. Opening it, he shuffled around several stacks of paper before settling on a document. “We thought that was a possibility. Here are our terms and conditions.”
+
+He slid the paper across the table, its surface thick and clearly enchanted.
+
+Alex’s Tablet spun over the document, providing a translation for the spell in play.
+
+* * *
+
+Fraud and Privacy Enchantment: These papers cannot be changed or revealed to anyone else, even digitally, without consent from authorized parties
+
+* * *
+
+“That works,” he mused, shuffling through the complex legalese until he arrived at the Terms and Conditions. A quick glance at the Donation Required table revealed numbers that made his eyebrows climb toward his hairline.
+
+His companions shifted to read over his shoulder. "A hundred and twenty million?" Laura's voice carried a note of disbelief that Alex had rarely heard from her. Since becoming his liaison, she'd developed an impressive poker face. "For infrastructure improvements and community support?"
+
+"The kitsune enforcement division would benefit greatly from the thirty million we’ve carved out as their portion of the donation," Bartholomew said, adjusting his glasses with one hand while the other three remained folded in his lap. "As we are all aware, the new headquarters, while nice, requires certain, eh, renovations, does it not?"
+
+He gestured towards Laura and Lana. “Why not add important facilities for your new appointments? As official liaisons for Mr. Alex here, you’ll need dedicated space. Perhaps that means accommodations like a kitchen, gym, or maybe,” his tone dropped, bordering on the salacious, “a communal shower?”
+
+Alex felt both girls tense, Laura more than Lana.
+
+To his surprise, Laura brushed the suggested insult aside. "You are correct. We need funding. Not just for facilities, but to deal with the uptick in covert requirements. Bribes, spells of forgetting. All of it costs money."
+
+"And our officers could use better equipment," Lana added, though her tails betrayed her discomfort at agreeing with the troll. "Recent events have shown us how unprepared we were for certain threats."
+
+Alex studied the document more carefully, drawing on his years of practicing law and his growing knowledge of fae customs. The numbers were carefully structured, with addendums and subdivisions that would have made a tax accountant proud. "These estimates seem inflated, even accounting for the scope of proposed development."
+
+"King Thomas concurs."
+
+Miss Walker's voice cut through the tension like a silver blade. She hadn't looked up from her phone, her fingers flying across the screen as she continued, "Which is why we're prepared to offer the full amount plus an extra ten million, with the stipulation that the extra sum be earmarked for anyone displaced by construction."
+
+The silence that followed her announcement was profound enough that Alex heard Smolder snicker from his breast pocket. The demon had been unusually quiet during the meeting, but clearly found the situation amusing.
+
+Bartholomew's jaw worked silently. All four of his hands clenched into fists, knuckles going pale. "An extra ten million?"
+
+Miss Walker finally looked up, her expression carrying the same boredom she might show a particularly dull theater production. "My employer believes in investing in communities he enters. Would you prefer to see the transfer of funds now, or shall we move on to discussing zoning requirements?"
+
+Alex cleared his throat. "Before we proceed further, I'd like to review Section 47 of the Accords. Specifically, the portions regarding proportional representation in management positions."
+
+"Already prepared." Miss Walker produced a stack of papers from within an extradimensional space concealed in her suit jacket. The motion was smooth, practiced, suggesting she'd anticipated his concerns. "We're prepared to maintain a sixty-forty split between human and fae employees, with no less than twenty percent of leadership positions held by local fae. We've also drafted guidelines for handling disputes that may arise between different fae species."
+
+Alex accepted the papers, impressed despite himself. The documents were thorough, citing specific precedents from similar arrangements in other cities. He recognized several cases he'd studied during his early days as an Enforcer, including some that weren't widely known outside of specialist circles.
+
+"These will need to be reviewed by our legal team," Laura said, her professional mask firmly in place. Only the slight twitch of her ear betrayed her surprise at the goblin's preparation.
+
+"Naturally." Miss Walker stood, smoothing her already immaculate suit. "Shall we reconvene next week? That should provide adequate time for all parties to review the proposals and draft any counteroffers."
+
+Bartholomew rose as well, using all four arms to gather his papers into a leather briefcase. "Dwayne and the other signatories will want to review these personally."
+
+"I'm certain he will." Miss Walker's tone suggested the troll kingpin's opinion ranked somewhere between irrelevant and amusing. "Mr. Colin, would you mind walking me out? There are several minor points of fae law I'd like to discuss."
+
+The meeting broke up with surprising efficiency. As Alex escorted Miss Walker to the lobby, he couldn't shake the feeling that everything had gone exactly as the goblin had planned. The question was why?
+
+He'd have to figure that out before their next meeting. One thing was certain - King Thomas wasn't simply trying to buy property in Las Vegas. He was making a statement. And Alex had a feeling this was just the opening move in a much larger game.
+
+Behind him, he heard Laura speaking quietly with Lana about expansion plans. The kitsune had come into their own since joining his household, their natural talents enhanced by the authority his position granted them. They would be invaluable allies in whatever game the Goblin King was playing.
+
+Alex just hoped they were all ready for what came next.
+
+Chapter 2: Kisses and Concerns
+
+The four of them exited the private room, located on the Golden Gate’s third floor. Passing down the long corridor, to the elevator, Miss Walker said, “That was well done, Enforcer Thomas.”
+
+He snorted. “You barely needed me for any of that. It sounds to me like King Thomas has excellent legal counsel.”
+
+“That he does,” she replied, lips curling at the corners. “Now, you should know there are a few stipulations that the King would like to discuss with you, as well.”
+
+“Oh? And what does an Enforcer have to do with a fae King?”
+
+“Given that you, as a mortal man,” she replied, emphasizing the last words, “have a vested interest in keeping one of his daughters safe, it would seem that the stipulations cross jurisdictions. Do they not?”
+
+“His daughter?” Alex’s eyes widened. “Wait, you’re not suggesting…”
+
+“She hasn’t told you?” The goblin grinned, showing teeth. “Bobbi is his daughter. One of many, but a favorite. It just so happens that recent events have led to him wanting a proper foothold on Earth. That you, one of Fate’s Enforcers, have ended up in her close orbit, well. Let’s just say he’d like to make sure she is protected and taken care of. Here’s his formal request.”
+
+At those words, she withdrew an envelope from her personal storage space. Handing it over, he saw the title across the top was, Request for Audience, Thomas, the Goblin King.
+
+Laura and Lana, who’d remained quiet during the exchange, showed signs of interest at the paperwork.
+
+“I’ve heard Thomas has over a thousand kids, most of them daughters,” Lana piped up. “Someone even said they are making all kinds of waves all over the fae wilds, and even on Earth.”
+
+“Sure. I’ll look this over.” Alex waved at the elevator, his tone indicating he was done with the discussion where Dwayne’s security could overhear.
+
+He had not developed a relationship with Bobbi or Stella, not yet at least. The two of them needed him to help purge Stella’s aether. Those ceremonies were surprisingly intimate, and equally important for all involved. But he certainly wasn’t rushing into bed with either of them.
+
+As far as he was concerned, his romance with Laura, Lana, Mei, and Grace was more than enough. Not that he didn’t find the nymph or the demoness appealing in their own way; rather, that his schedule was far too full for him to be that ambitious.
+
+They rode the elevator down together. At the bottom level, Miss Walker pointed to a hall leading to a side exit. “I’m sure Thomas looks forward to seeing you soon,” she said, leaving trio alone.
+
+With a quick exchange of looks, the group made their way through the Golden Gate’s ‘fae only’ portion of the building.
+
+Several employees nodded respectfully as Alex and the kitsune passed. A young satyr carrying drink orders paused to give them space, his hooves clicking against the polished floor. The fear that had once tainted the air around the supernatural staff was gone, replaced by something closer to cautious optimism.
+
+"Well, that was interesting," Lana said, her tails swishing playfully behind her as they walked. Her police uniform drew appreciative glances from the patrons, though none dared to stare too long. "Did you see Bartholomew's face when Miss Walker upped the offer?"
+
+Laura's ears flicked forward, her expression thoughtful. Despite her formal bearing, she couldn't hide her amusement. "I thought he was going to swallow his glasses."
+
+Alex guided them past the busy poker tables, remembering his first undercover mission here. Back then, he'd only known Laura and Lana as friends. Now he couldn't imagine his life without them.
+
+"The money isn't what interests me," he said, lowering his voice as they passed a group of tourists. "King Thomas is moving fast. We could say it’s about Bobbi, but that can’t be it. I want to know what’s going on."
+
+Lana skipped ahead, turning to walk backwards so she could face them. Her shorter hair bounced with each step, framing her playful grin. "Maybe he just really likes Las Vegas?"
+
+"Nobody likes Vegas that much," Laura replied, reaching out to steady her partner when she nearly bumped into a slot machine. "Besides, that man is known for careful planning, not rushed investments. I don’t know all the details, but I hear he outmaneuvered a demon king and took the man’s wife as a member of his harem."
+
+“Now that sounds like an interesting story.” One aspect of fae life that Alex had come to appreciate was the fact that harems, and other non-traditional relationships, were just a fact of life.
+
+They emerged into the bright Nevada sunlight. The heat hit like a physical wall after the casino's carefully controlled climate. Even in the parking lot, the air shimmered with mirages, making the cars look like they were floating.
+
+"Speaking of investments," Lana said, pointing across the lot. "There's your new baby, Alex. Still can't believe Smolder managed to get you something so fancy."
+
+The car stood out among the dusty pickup trucks and rental sedans. It appeared to be a sleek, black Mercedes S-Class at first glance. The closer they got, however, the more otherworldly it seemed.
+
+The metal had an odd sheen, almost like oil on water. Protective runes were barely visible along the trim, their magic subtle but potent. Smolder wouldn’t say where she got it, or how, other than to admit ‘people with a vested interest in keeping her happy’ had contributed.
+
+She’d also assured him the magic was only visible to the fae, or humans with awakened magic.
+
+"It's certainly an upgrade from your old car," Laura said, running her fingers along the hood. The metal seemed to respond to her touch, shimmering like silk. "Though I miss the character of that beat-up sedan."
+
+Lana snorted, her tails swishing with amusement. "You mean the one that the dark elves blew up? Such character. Much wow."
+
+"At least this one has enough room for everyone," Alex said, thinking of how the interior could expand to accommodate his growing family. The magic that made it possible was beyond him, but he appreciated the results.
+
+Laura checked her phone, her ears drooping slightly. "We should get going. Miss Macy will want our report on the meeting." She looked up at Alex through her lashes. "But we'll see you at Mei's graduation ceremony?"
+
+"Wouldn't miss it," he assured her. "I just need to stop by the mansion first. Grace mentioned something about making sure I cleaned up and put on proper attire first. "
+
+Both girls laughed, not doubt suspecting precisely what Grace had in mind. Not that any of them cared. As far as they were concerned, there was plenty of Alex to go around.
+
+Lana bounced over, pressing herself against his chest. Her ears tickled his chin as she nuzzled close. "Smart man. Though I like you in anything." She emphasized her point by running her hands down his chest, smoothing his tie.
+
+Laura rolled her eyes, but there was fondness in her expression. She stepped closer, sandwiching Lana between them. "We really do need to go."
+
+Alex caught Laura's chin with gentle fingers, tilting her face up. Her honey-colored eyes widened just before he kissed her. She melted into it, sighing against his mouth.
+
+Lana made an impatient sound, turning her head to claim her own kiss. Where Laura was sweetness and warmth, Lana was playful passion. Her sharp canines grazed his bottom lip as she pulled away.
+
+"Now we really need to go," Laura said, her cheeks flushed. She tugged Lana toward their car, though her partner made token protests about wanting more kisses.
+
+Alex watched them drive away, his heart full. Only after their car disappeared around a corner did he slide into his new vehicle. The leather seats adjusted automatically, and the engine purred to life with barely a whisper.
+
+"They've come a long way," Smolder observed from his pocket. The demon's eyes glowed like embers in the shadow of his suit jacket. "From flirty friends to being part of your harem."
+
+“They call it a pack most of the time,” he corrected, pulling out of the parking lot and letting the magical car's navigation guide him toward the Veil crossing. The familiar route would take them past the strip, then north toward the abandoned gas station where reality grew thin.
+
+"A lot has changed," he agreed, thinking of how the kitsune had slowly gone from professional allies to something more. Their soul-bond meant they felt each other's emotions, making their transition into lovers both natural and intense.
+
+"Including the power dynamics in the city," Smolder added. The demon crawled out of his pocket to perch on the dashboard. Her coal-black form caught hints of sunlight, making her look almost crystalline.
+
+Traffic thinned as they left the tourist areas behind. Alex's thoughts drifted to the meeting, to Miss Walker's casual confidence. The goblin was nothing like she'd appeared during their first encounter.
+
+"King Thomas isn't just trying to establish a presence here," Alex mused, remembering the detailed proposals. "He's making a statement about his reach and resources."
+
+Smolder's ember-red eyes pulsed thoughtfully. The demon had been unusually quiet during the meeting, but clearly she'd been paying attention. "Modern goblins, the ones I was familiar with before my imprisonment anyway, were not traditionally known for playing long games. The old ones, however, were quite different."
+
+“Oh? How so?”
+
+“It’s a long story. Needless to say, they managed to get whole islands in the Wilds united against them. It led to a near-genocide.”
+
+“Ah. Well, let’s avoid anything like that here.”
+
+His familiar rumbled with thoughtful agreement. “I’m sure if this King Thomas is as smart as the ladies say, that’ll be on his mind too.”
+
+They passed the last major intersection before the Veil crossing. The buildings grew sparse, replaced by endless desert and scrub brush. Heat waves made the horizon dance.
+
+"But why Vegas?" Alex asked, more to himself than Smolder. "Why now, when things are still unstable from the aether incidents?"
+
+"Maybe that's exactly why," Smolder replied. Her legs clicked against the dashboard as she turned to face him. "The power vacuum left by Calvin's exile, combined with the revealed weakness in the Wardens' network, makes this the perfect time to move."
+
+Alex slowed as they approached the gas station. The abandoned building looked exactly as it had the first time he'd crossed here, though now he could see the subtle markers of magic woven into its decay.
+
+"We should warn Mei and Grace," he said, thinking of how his lovers would want to know about these developments. The mage and puca had keen insights into supernatural politics.
+
+Smolder made a sound of agreement. "After the graduation ceremony. Let Mei have her moment first."
+
+The Veil shimmered ahead of them, a heat-haze that wasn't caused by the desert sun. Alex felt the familiar tingle of his Tablet responding to the crossing. Soon they'd be on their own slice of the Fae Wilds, where Winchester Academy and the Enforcer Mansion waited.
+
+"You know what worries me most?" Alex asked as they approached the barrier between worlds. "Miss Walker didn't even try to negotiate. "
+
+"As if the money means nothing compared to what they really want," Smolder agreed. Her form flickered as they passed through the Veil, the transition smooth thanks to Alex's key.
+
+Lush greenery replaced desert scrub as they emerged onto the familiar road leading to the mansion. The car adjusted seamlessly to the different reality, its magic harmonizing with the local energies.
+
+Alex took the winding path slowly, savoring the shade of ancient trees. His thoughts kept circling back to the meeting, to the subtle currents of power shifting beneath the surface. Something big was coming.
+
+"At least we're not alone anymore," he said, thinking of his growing family. Between the kitsune's connections, Mei's magic, Grace's insights, and his own abilities, they made a formidable team.
+
+Smolder's eyes sparkled with amusement. "No, you're definitely not alone. Though I notice you're taking the long way to the mansion."
+
+"Maybe I just need time to think," Alex replied, though they both knew he was also avoiding Grace's inevitable fussing over his graduation attire. Some battles weren't worth fighting.
+
+The road curved ahead, leading toward home and whatever challenges awaited. Alex had faced demon lords and aether gods. Somehow, the thought of goblin politics felt just as daunting.
+
+But first, he had a graduation to attend. His mage was becoming a proper scholar, and nothing - not goblins, trolls, or supernatural politics - would keep him from celebrating that achievement with his family.
+
+Chapter 3: The Heart of Home
+
+The new car purred as Alex turned onto the mansion's winding drive. Ancient oaks lined the path, their branches creating dappled shadows across pristine lawns. The magical vehicle responded to every curve as if it could read his mind.
+
+The sound of music drew his attention to the front gardens. "Is that... hip hop?" he asked, more to himself than to Smolder. The Pact Demon’s eyes glinted with cherry red amusement from his pocket.
+
+A group of large figures occupied the lawn near the fountain. Four female ogre magi, each nearly nine feet tall, moved with determination. Their flapper dresses sparkled in the late afternoon sun as they attempted to copy what appeared to be a TikTok dance on someone's phone.
+
+One ogre, her purple dress catching the light, counted out loud. "Five, six, seven, eight!" Her companions swayed in time, though their movements were about as graceful as a herd of elephants attempting ballet.
+
+Near the fountain, another cluster of ogre magi watched a video on a tablet. They wore pinstripe suits that had clearly been tailored for their unique proportions. One would occasionally pause the video to demonstrate what appeared to be a very complex handshake.
+
+Brokenail emerged from behind a hedge, his bowler hat sitting at what he probably thought was a casual angle. The battle-scarred ogre's face split into a wide grin. "Lord Alex! You have returned to us."
+
+"Just Alex is fine," he replied, though they both knew the ogre would never drop the honorific. "What's happening out here?"
+
+"We practice Earth customs," Brokenail said, his deep voice carrying pride. "Grace shows us moving pictures from small screen. Says we must understand human dancing to truly understand Earth culture."
+
+Alex couldn't help but smile at the mental image of Grace teaching the ogre magi to dance. "How long has she been at it?"
+
+"Many hours." Brokenail's expression grew solemn. "She is most patient instructor. Even when Grenda step on her foot." He pointed to where the purple-dressed ogre was still attempting to lead her group. "Grace went inside short time ago. Said something about special ceremony this evening."
+
+The warrior's face lit up. "Oh! Must show you new greeting. Is called 'casual fist bump with explosion.' Very modern." He demonstrated an elaborate sequence that involved at least seven distinct movements.
+
+After indulging his bodyguard, Alex gently extricated himself from the increasingly social magi and headed for the mansion's entrance. The enormous double doors swung open at his approach, responding to the ambient magic that seemed to grow stronger every day. The entrance hall's crystals lights brightened in welcome.
+
+A gentle breeze carried the scent of fresh-baked cookies through the foyer. Alex followed his nose toward the kitchen, pausing in the doorway as his breath caught in his throat.
+
+Grace stood at the center island, bathed in afternoon sunlight streaming through tall windows. She was arranging flowers in a crystal vase, her movements precise and graceful. The sun caught her hair and the soft fur of her ears, creating a halo effect that made her seem to glow.
+
+She wore a dress that made his mouth go dry. Pale blue fabric clung to her curves before flowing out at her hips, the hem swishing just above her knees as she moved. A string of perfectly matched pearls drew his eyes to the elegant line of her throat.
+
+When she turned, Alex's heart did a backflip in his chest. Her face lit up at the sight of him, pure joy radiating from every feature. Her eyes, large and expressive, sparkled with warmth and mischief.

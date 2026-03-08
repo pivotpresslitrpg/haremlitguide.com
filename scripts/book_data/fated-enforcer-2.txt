@@ -1,0 +1,469 @@
+TITLE: Fated Enforcer Book 2
+AUTHOR: Adam Lance
+SERIES: Fated Enforcer (Book 2)
+WORDS EXTRACTED: 6041
+============================================================
+
+Fate’s Enforcer 2
+
+Author’s Note
+
+This is a HaremLit action-adventure story with a GameLit system. Check Appendix 1 for a refresher of what came before, and the final quests that carried over from the end of the first book. During the course of this story, Alex gets access to some higher-level powers. We’ve added those to Appendix 2. If you like crunch, feel free to reference that for just how epic he can get (under the right circumstances).
+
+Cosmology
+
+Fate’s Enforcer takes place in what we’re loosely calling the Fateforged universe. Each story in that universe shares the same basic system. We’ll also have some corresponding events and character cameos from one series to the other. These are not required reading to follow the story – just fun Easter eggs for fans.
+
+Starting Character Sheet: Alexander Colin
+
+Age: 34
+
+Level: 6
+
+Class: Echo Parasite (Legendary)
+
+Template: Fated Enforcer
+
+Progress to Level 7: 0%
+
+Species: Human
+
+Hit Points (Endurance + 2 per Level): 31
+
+Attributes
+
+Tablet Wielders gain 5 attribute points per level but may not assign more than 3 to a single attribute at a time.
+
+·     	Strength: 17 (You are at peak human strength)
+
+·     	Endurance: 19 (You get an extra 1 hit point per level and need only 5 hours of rest each night)
+
+·     	Agility: 18 (You are a peak human agility and have a 10% increased chance to dodge attacks you are aware of)
+
+·     	Focus: 18 (You perform any task requiring focus or will with 20% increased efficiency)
+
+·     	Sharpness: 19 (You have greatly enhanced recall and puzzle solving skills)
+
+·     	Resistance: 10 (You take [20%] less damage than normal from attacks. Negative effects with an extended duration last [20%] less than normal.)
+
+Core Skills
+
+Tablet Wielders get 3 skill points per level. Each skill point represents 1 year of focused, idealized training.
+
+· 	      	Investigation: 6. This skill helps in all manner of investigation, including observing details others might miss.
+
+· 	      	Negotiation: 5. This skill will allow you to understand the needs and desires of others. Combined with Investigation, it will make your job as an Enforcer easier.
+
+· 	      	Fae Law: 7. This skill provides you with insights into the laws and contracts of the Fae and Magical community. It also updates your Tablet with local Accords and customs when you move into a new area.
+
+Fated Enforcer Template
+
+You have been granted the Fated Enforcer template. It grants you all of the following benefits, some of which scale with your level.
+
+Timeless: You no longer age and remain in peak physical condition naturally. This does not convey immunities to poisons, toxins, etc.
+
+Veil Perception: You can see through illusions, enchantments, and fae misdirection. Using this ability requires conscious activation and deactivation, but it has no maximum duration. Bonus: Your Tablet will remain invisible on Earth by default. Using this power will allow you to see and interact with it covertly. Warning: Use of this ability can be distracting.
+
+Dungeon Upgrade: With 30 seconds of concentration, you may pierce the Veil and see into the Fae Wilds.
+
+Unbound: You are capable of breaking almost all bindings, be they magical or physical. This only applies as it relates to quests specifically granted by the Fates. If a binding would prevent you from accepting a quest from the Fates, the binding is removed.
+
+Fortified Mind: You are immune to all negative mind-control or mind-influencing effects.
+
+Pierce the Veil: Twice per day, you may cross the Veil. You may take up to [5] willing people with you for the crossing. These numeric values increase by 1 at class level 7, 9, 11, etc.
+
+Fate’s Justice: If you discover conclusive evidence that any of Fate’s laws have been broken, Fate’s Justice will activate. It will remain active until justice is met. While it is active, you gain 10 levels and +10 in all your Attributes. See Fate’s Laws for additional details.
+
+Thousand Tongues: Starting at level 8, you can communicate with any intelligent creature.
+
+High Ruling: You may oversee bonds, pacts, and agreements. By doing so, you can “Seal them to Fate” – effectively ensuring an Enforcer will be notified if either side breaks the bond. Limitation: This ability makes the written agreements between the Enforcer and another party Sealed. If the Enforcer was tricked or coerced, this does not apply.
+
+Eternal Ties: You may form a bond with a supernatural or fae creature known as an Eternal Tie. If you do so, that person may choose one of the following benefits: Veil Perceptions, Fortified Mind, Timeless, or Pierce Veil. These gifts are known among the fae and considered of extreme value.
+
+Historically, Eternal Ties were used to deputize assistants for Fate’s Enforcers.
+
+In exchange for an Eternal Tie, you gain enhanced awareness of the bonded person. You can find them at will and can observe their status at all times. If they break any of Fate’s Laws, you will instantly be aware of it (and be responsible for remedying the situation). As you have the [Echo Parasite] class, you may also gain 1 special ability from the bonded person that becomes a permanent effect, unless the bonded person dies.
+
+Limitation: You may bond up to 4 entities. This increases by 1 at levels 9, 11, 13, and 17, and 20.
+
+Class Benefits for Echo Parasite
+
+Granted Power: When you are affected by any magical or fae effect, you gain the ability to duplicate it as if you were the original source, only at your level and with your attributes. Gaining an ability in this way also provides you with complete insight as to how to use the effect properly. The duplicated ability is called an Echo. If the ability costs mana to use, you effectively have unlimited mana for the duration of the adaptation. You may only echo one ability at a time. If you are affected by a new magic or fae power, you may opt to replace the current adaptation with the new one.
+
+Duration: This ability lasts up to 1 minute per your level.
+
+Special Enhancement (Due to Dungeon Reward): You suffer 50% less damage from any source you have Echoed. At level 10, this increases to 80% and at level 20 this increases to 91%.
+
+Limitation One: It will not substantially alter your appearance: being struck by dragon’s breath will grant you the same power, but you will remain overtly human in appearance. Depending on the potency of the attack, you might get glowing eyes or a dragon’s aura. If you are struck by a creature with alternative limb structures as a supernatural power, you gain those limbs as ephemeral extensions of your body.
+
+Limitation Two: Duplicated spells may not be [2] levels higher than your overall level. Example: You could duplicate a level [3] fireball while you are level [1], but you could not duplicate a level [4] until you are level [2].
+
+Level 1: While you have no Echoed abilities, you suffer 2 less damage from all sources. This resistance increases as follows:
+
+·     	4 points at level 9
+
+·     	9 points at level 15
+
+·     	20 points at level 20
+
+Level 3: You may Echo a second ability. This increases as follows:
+
+·     	3rd ability at level 8
+
+·     	4th ability at level 14
+
+·     	5th ability at level 18
+
+Level 5: While you have no Echoed abilities, you gain a +3 innate bonus to resist any non-instantaneous damage, such as poisons, toxins, curses, etc. This resistance increases as follows:
+
+·     	+9 points at level 9
+
+·     	+12 points at level 15
+
+·     	+15 points at level 20
+
+Prelude: Choices
+
+Current Scorecard
+
+Alexander: Combat (10), Social (10), Intellect (9)
+
+Akira: Combat (7), Social (4), Intellect (6)
+
+Frost limned the interior wall of the tunnel. Their breath visible in the frigid air, Alex and Akira panted as they came to a stop.
+
+The path forked. To their left was an ice-covered hall ending at a stone altar. Hovering above the altar was a purple Tablet, the edges covered in elaborate filigree.
+
+Breathing deeply, Akira forced himself to stand tall. He adjusted the cloth strips wound around his torso. The fabric was barely intact, showing signs of acid, fire, and blood. Between strips, the frayed edges of the cash he’d asked for at the start of the dungeon was visible.
+
+Looking between the hall with the Tablet on one side and down the other hall that would have him continue on, the short man frowned. “I’m done, Alex. It may not be gold, but at least it’s not silver. I’ll settle for epic.”
+
+A fairy blinked into view between the two men. “You may both choose this exit. You more than qualify.”
+
+The pack of cigarettes strapped to Alex’s arm warmed. Although he no longer had the abilities of an Enforcer, he could feel the familiar bond between himself and the pact demon. It settled in the back of his mind like a phantom appendage, giving him a sense of her attitude and location.
+
+“There’s a potent source of magic nearby,” she rasped, two hellfire eyes blinking up at Alex from the cigarettes. “If you would like, I will lead you to it. It might be another upgrade, or it could be an optional reward.”
+
+Alex looked at his final companion. “What do you say? A couple more halls?”
+
+“No.” Akira shook his head. “I have what I wanted. Money for my family. Whatever the Tablet gives me, whatever class I’m offered, doesn’t matter as much as getting home alive. I’m done.”
+
+The dungeon was only becoming more difficult with every hall he passed. Alex also knew without Akira he’d be far more likely to suffer an injury he couldn’t recover from, or even die.
+
+Glancing over at the scoreboards, projected on the nearby wall like a three-dimensional overlay, he hesitated. All it took was a five in any one area to earn an exit. According to the rules, the higher those scores were, the better the rewards would be – if he acquired a Tablet.
+
+“Remind us. What’s the difference between an epic Tablet and a legendary one?” Alex asked the fairy.
+
+“All Tablets in this dungeon grant access to a selection of three classes. The selection will be based on who you are, combined with your final scores. The main difference is in the degree of power. In gaming terms, a common Tablet might give you access to a Fighter class. An epic Tablet might grant you a Sword Sage, or other nuanced hybrid.”
+
+“And legendary?”
+
+“Legendary Tablets break the rules. They allow their wielders to do things no other Tablets can.”
+
+Smolder piped up, “Tell him where they came from.”
+
+The fairy’s light pulsed, but she did not reply.
+
+“Fine. I will.” The demon’s eyes flared with mischief. “Legendary Tablets were forged using the oldest techniques, Alex. They predate modern magic.”
+
+“I have no clue what that means,” he said.
+
+“If there is any chance at all for you to get one in this dungeon, you should.”
+
+“Is it worth risking my life over?”
+
+The demon shifted, making the cellophane wrapped around her home crinkle. “I can’t decide that for you.”
+
+The temptation to leave was real. Alex had been through more in the past days, or however long he’d been in Fate’s Dungeon, than he had in years in the Forces. But something inside him hesitated.
+
+What if? The nagging of opportunity pulled at his spirit. For some reason, the feeling reminded him of the determination it had taken to leave his father’s house for the military, all those years ago. The world was a bigger place than all he’d seen so far. He could sense he was on the cusp of something else, something new.
+
+“We’re here for a reason,” Alex said after a moment of contemplation. “I won’t settle for being second-best. I’m staying.”
+
+Akira walked over, extending a hand. “I’m done. Like I said, my family is what matters.”
+
+They shook hands and Akira turned, walking down the hall to the Tablet. He touched it and the floating artifact grew still, text appearing on the surface.
+
+[Akira] Dungeon Completion Rewards
+
+You have earned an [Epic] Tablet with three class options. [One] of these will allow you to join the ranks of [Fate’s Wardens]. If you choose this option, you will undergo a period of conditioning and training, after which your job will be to protect a region near your homeland. The remaining [Two] classes function as auxiliaries. Your role would be to assist the Fates and their emissaries as needed. Choose carefully.
+
+Class Name: Fate’s Warden (Epic)
+
+Description: Fate’s Wardens are the martial enforcers of the Fates. They have access to incredible martial and magical powers. If you accept this role, you will gain the [Warden] template. After that, you will be provided with a list of [2] martial classes the Fates handpick for you to choose from.
+
+Experience Criteria: Wardens gain experience based on tasks completed for the Fates.
+
+Class Name: Logistician (Epic)
+
+Description: An epic logistician gains powers relating to storing and moving goods. They are not overtly useful in combat. However, their access to a full inventory management ability grants them incredible utility.
+
+Experience Criteria: Logisticians gain experience from assisting the Fates’ and their agents with material goods.
+
+Class Name: Tactician (Epic)
+
+Description: An epic tactician gains powers relating to the disposition and movement of military personnel. Their job is to plan for the future, and enable Fates’ agents to overcome a variety of challenges.
+
+Experience Criteria: Tacticians gain experience when their skills help win in a conflict.
+
+“I’m taking Logistician,” Akira said, looking over his shoulder at Alex. “I’m not looking to fight, and I certainly am not going to be guiding others in combat.”
+
+At his words, the Tablet flashed and vanished. It reappeared over Akira’s head, hovering like a halo before settling into orbit next to his face. Once it did, the wall behind the altar swirled, becoming a misty blue portal.
+
+The fairy intoned, “You may leave.”
+
+With a final wave, Akira stepped through the portal. It closed, and a new purple Tablet appeared over the altar.
+
+Alex turned and went in the opposite direction. “Okay, Smolder. Lead the way.”
+
+Chapter 1: Utter Chaos
+
+“Alex! Can you come help with this couch!?”  Grace’s sultry voice called down from the second floor.
+
+Alex, who’d retreated to the kitchen with his laptop, looked up at the sound of her call. He opened his mouth to reply, when Mei yelled his name.
+
+“Alex! I need Smolder! Would you come down into the laboratory?”
+
+“She needs me,” Smolder said in her thick Russian accent, sounding smug. “Provide me with an easement and I will happily negotiate with her for my guidance.”
+
+Alex glanced down at the pack of cigarettes next to the laptop. Smolder, a pact demon, glimmered like a single burning coal nestled within. “Haven’t you fed enough lately?”
+
+“A lady could always use a top off.”
+
+With a dismissive snort, he tucked the pack into a breast pocket and made his way from the kitchen into the main hall. He squeezed past a pair of satyrs in white overalls, part of a fae moving company. They were carrying stacks of books from his apartment into the mansion’s library. When they saw him, both tipped their heads respectfully.
+
+“Enforcer,” one said in a deep voice.
+
+“No need for all that. Thanks for taking care of the move for me.” Thanks to allowances from the Fates, Alex not only had a solid chunk of change in his bank account for the first time in a while, but he also had his own staff.
+
+In addition to the movers, which he’d hired himself, a team of Fated Craftspeople had been busy around the mansion, renovating and updating it to modern standards. With the help of some tech savvy thralls, those that were in the know about the existence of magic and fae, Mei had figured out how to get the internet working through the Veil.
+
+“Alex!” Grace called, only to be echoed by Mei a beat later.
+
+Walking down the hall to the stairwell leading to the lower levels, Alex shouted. “Grace needs me to move something, can you give me five minutes?”
+
+“Sure, just hurry. I think I’m close to a breakthrough!”
+
+Well, that’s amazing. Less than a week had passed since the end of the case that had brought the trio together, both romantically and in a formal capacity. If the brilliant mage had already made progress, it would be just another sign of how gifted she was.
+
+“Grace, I’m coming!” Alex called up to the second story as he made his way down the hall, and to the second story stairwell.
+
+Behind him, Mei replied with a snicker, “Already?”
+
+To which Grace called down, “Again?”
+
+“I swear they are coordinating this stuff,” he mumbled.
+
+“Good bet,” Smolder said wryly.
+
+The second story of the Warden’s Mansion – now officially rebranded as the Enforcer’s Mansion – had two hallways on the opposite side of the main stair. Originally, during the founding of the local magical academy, the first dean had partnered with a Warden to help build and protect the space.
+
+Now that the mansion was formally assigned to Alexander, he’d made a few changes. What had once belonged to the Dean was going to be a guest wing. As an Enforcer, his job was to negotiate treaties and bargains between the various factions on Earth and the Fae Wilds. No doubt, he’d have guests at some point.
+
+The old Warden’s wing belonged to him. Since it had plenty of rooms for himself, Grace, Mei, and a plethora of others, he figured it just made sense. Besides, so far, the girls seem to prefer to sleep in my room.
+
+Not that he could blame them. He had the biggest and most comfortable bed in the place.
+
+He found Grace in one of the new guest rooms. She was dressed sensibly, in a pair of dark overalls and construction boots. It just so happened that the ridiculously curvaceous bunny-girl had chosen to pair the overalls with a lacy white bra that cupped her cleavage to a ridiculously distracting degree.
+
+“There you are!” She smiled at him brightly, her eyes dancing. “I want to move this couch into a kind of a boxy arrangement, so when the girls come over to discuss cases with us, we can all face each other.”
+
+The room in question was maybe twenty feet per wall, and already had one other couch and two love seats arranged to create three sides to a rectangle. A long, polished table flanked the scene, ready to be slotted into place once the couch was where she wanted it.
+
+“No problem.” He walked over to the other end of the couch, crouched, and lifted with his legs. Since his last assignment, Alex had greatly enhanced his Strength attribute. Although it didn’t show, he was at least as strong as most Olympic-level athletes. Moving slowly, careful not to knock Grace over, he helped her get the furniture where she wanted it.
+
+Once it was in place, he also helped with the table.
+
+“So, how’s being my official assistant treating you?” he asked once they were done.
+
+She looked at him and stuck her tongue out. “It’s the worst thing I could possibly imagine. You can’t know just how disappointed I am every single morning when I wake up and think about what my life has become, compared to what it was.”
+
+Technically, Grace wasn’t actually a “bunny girl” in the traditional sense. Although she had the ears and the tail, everything else was basically human. She was a fae species called a puca, and if she didn’t lie every so often, she’d literally become ill. Alex and Mei had both learned to watch her body language and expressions for the tells of when that was happening.
+
+“Uh huh,” he said, pointing. “Your tongue was just waving hello, making me think you miss having something in that naughty mouth of yours. Say that again without the tongue and maybe I’d believe you more.”
+
+Pouting, she crossed her arms beneath her ample breasts, creating a valley of cleavage so enticing that Alex had to use all his willpower to keep his eyes on her face. “I don’t miss anything, thank you very much.”
+
+Her tall, fuzzy, white-furred ears twitched.
+
+With a fond laugh, Alex looked over the room. “You’re really taking this assistant stuff seriously, aren’t you? This is the last room you’re redecorating, right?”
+
+Walking over, she wrapped her arms around his chest and pressed her cheek to his shoulder. Inhaling deeply, she sighed. “It’s my job, Alex. The Fates made me your personal assistant. When you said you wanted this wing to be for formal meetings and guests, I made it my business to get it ready.”
+
+“You didn’t have to do it so fast.”
+
+She peeked up at him through silvery bangs. “My job is to make your life easier. And doing these things while you work on one of your two jobs makes me feel closer to you. Even when you’re on Earth and I’m here.”
+
+“Well, when you say it that way…” Leaning down, he nuzzled her nose, then kissed her.
+
+Grinning against his mouth, she reached out, grabbing the edges of his sports jacket to pull him closer. “What was that you said earlier? Oh, yeah. You’re coming. Well… Why don’t we…”
+
+Mei’s voice came from the air next to them. “It’s been five minutes. Grace, you better not be distracting him while I have important work. You know what I’ll do to you later.”
+
+“I’m being perfectly well-behaved,” Grace protested, even as she took a step back and waved toward the door. “I’ll do some tidying up. The girls say they want to come out and chat you up about some things today, so I want everything in order.”
+
+“Chat me up?” Alex arched a brow. “Are you watching British Bake-Off shows or something?”
+
+“Well, yes. I love the accents. Plus, baking is super fun.” This time, Grace’s expression was entirely earnest, with an innocence that only she could manage.
+
+Laughing, he left to see what Mei needed.
+
+Chapter 2: Witchy Ways
+
+The mansion’s first sub-floor was far larger than it had any right to be. It had an aged gym, an indoor tennis court, and several rooms dedicated to a variety of specialties. Alex had yet to explore it all in depth, but he was confident he could tempt his brother to visit more often if Matty knew the mansion had what looked to be a lot like a magical smithing chamber.
+
+Alex found Mei inside a room close to the stairs, with the heavy door wide open. Kneeling on a cushion on the floor, she had drawn several complex diagrams in chalk in front of her. Inside each diagram was a bullet, the encapsulated tip filled with churning, static-colored energy. Three books were open next to the diagrams, the pages covered in tiny letters.
+
+Seeing her perched there, Alex blinked a few times before announcing himself with, “Mei, what are you wearing?”
+
+Mei was Asian, with bright pink hair that framed her cheekbones and bubblegum-colored lips. She was wearing a thigh-length pleated skirt, and a lacy purple bra with nothing else. Her multitude of esoteric tattoos, in addition to her gorgeous assets and petite frame, were on nearly full display.
+
+“I kept dragging my sleeves through the chalk. Besides, it’s super stuffy down here,” she retorted, eyeing his suit. “How do you not feel it?”
+
+“I'm used to working in a suit. It’s a workday for me, you know? I do have clients.” He didn’t dare mention his Endurance attribute. Not only did it allow him to go without the same amount of rest as normal people, but it also gave him passive resistance to environmental changes. Ever since he’d reached level six, unless it was very hot, he simply didn’t feel it.
+
+“You have one new client, as far as I’ve been told,” she corrected playfully. "One."
+
+“Grace told you?”
+
+“Of course she did.” Waving him in, she added, “Now, if you don’t mind, I would like to borrow Smolder. My finals are in a couple weeks, and I need to wrap this aether stuff up so I can get back to preparing for my exams.”
+
+“You’re experimenting on ancient, otherworldly magic while preparing for your exams?”
+
+“Yeah. When else would I do it? My life didn't stop when the Fates gave me a job. I’m serious about graduating school, but I'm also serious about seeing this thing with the Fates through.”
+
+Crossing the floor, Alex crouched next to her. He chuckled. “Grace said something similar when I went to see her.”
+
+“Oh?”
+
+“I pointed out she doesn’t have to redecorate the entire mansion in a week, but she said she wants to take her new role seriously.”
+
+Mei grinned. She was in her mid-twenties, but her features were so playful that her smile came across as positively impish. “We both do. Now, can you translate for me? I want to ask Smolder to review my patterns. See if she spots any flaws in the bindings.”
+
+Rather than wait for Alex to relay the message, Smolder crawled out of Alex’s breast pocket. Like a spider made of soot, albeit with demonic red eyes, she jumped down onto the floor.
+
+She walked around the perimeter of the spell circles, the ember at her core pulsing as she mumbled to herself. Finally, she announced, “I am not an aether specialist, but from what I can see of your bindings, they are near perfect.” Extending a sharp-tipped little leg, she pointed. “However, there is a break in the mana flow on that one.”
+
+Mei bent down to study the spot, chalk poised in one hand to correct any flaws.
+
+“What are we working on here?” Alex asked, settling back on his heels to watch.
+
+“It’s a locator spell.” Mei gestured at several symbols he didn’t recognize. “These bullets were all made at the same time, so their materials have synergy. I’m trying to create a triangulation link between these, so we can create a sort of homing beacon to find any more.”
+
+“Ah. You’re thinking there might be more aether artifacts out there that we didn’t get?”
+
+Using her thumb, the mage carefully smudged a line, then re-drew it. “Absolutely. That show room couldn’t have been everything Calvin made.”
+
+“I need to speak with Dwayne.” Alex frowned, not looking forward to that. Considering his role in killing the troll’s son, it probably wouldn’t lend itself to an easy conversation.
+
+Then again, Calvin got a resurrection spell and has been exiled somewhere in the Fae Wilds now, so maybe that will balance things out a bit.
+
+Smolder said, “There you go. No leakage. Beautiful job, dearie.” With that, the demon crawled back to Alex’s breast pocket.
+
+Mei stood, dusting her hands off and carefully stepping over the ritual circles. “Having a demon who can see magic’s flows at such a microscopic level is far more useful than I could have imagined.”
+
+“You are most welcome, child,” Smolder said in a warm, approving tone.
+
+Looking away from the spell circle, Mei came up to her tip toes and pressed a kiss to the side of Alex's mouth. Then, very deliberately, she turned to gather her shirt. Bending at her hips, she “accidentally” managed to get the hem of her long skirt just high enough for him to glimpse a flash of purple that matched her lacy bra.
+
+“Hey now,” he said as she tugged her shirt on. The long sleeves certainly could have gotten in the way of her drawing, or maybe she’d just wanted Alex to show up and see her half-dressed. Either way, Mei certainly was less shy about her body than she had been.
+
+Mei’s preferred mode of dress was conservative. Many other mages, especially those who attended Winchester Academy, her school, used sex or the lure of sexuality to get special magical benefits.
+
+Not Mei. She’d gone the opposite route, using purity and focus to earn her enhanced magical potency. Alex was glad they'd met after she'd maxed out that particular way of building her magic.
+
+Their love had unlocked the young woman’s needs, allowing her to express her sexuality with absolute abandon. That hadn’t changed who she was outside of their relationship, however. Grace might be an unintentional tease, but Mei was anything but.
+
+Eyes half-lidded, the mage slid a hand up against his chest. She kissed him again and their psychic bond, which had attenuated but still remained intact, gave him an echo of what she felt in that moment.
+
+“Hey yourself,” she replied, voice a little husky. She heaved a rueful sigh, the inhale pressing her breasts more firmly against his chest. “It really is too bad I have finals to study for.”
+
+A dim mental image of the two of them in a bed flashed in Alex’s mind. In the imaginary scenario, he ‘heard’ Grace calling out in indignation, running into the room, and belly flopping onto the bed to join them.
+
+It was a hilarious and arousing mental image, one that made him breathe faster.
+
+“I’ve got work to do,” he said, trying to put steel in his voice. “New clients.”
+
+“Client,” she corrected. “Surely we have time for just a little diversion?”
+
+“If that little imaginary scenario happens, you and I both know it’ll be at least an hour before we get back to work.”
+
+She blushed but didn’t correct him.
+
+“And,” he reminded her, “the kitsune girls are due to stop by any minute to discuss work.”
+
+Mei’s playful expression softened a bit. “Oh, wait. It's more than just work, right? Tonight's your first official date, isn't it?”
+
+“Mhm. Didn’t you and Grace arrange all the details? I seem to remember finding tickets to the Sphere next to my dresser, along with a little pink sticky note that said something like…”
+
+Mei waved for him to stop. “I remember, I remember! I just forgot that tonight was the night.”
+
+He chuckled, then leaned down to kiss her soft mouth again. “You’ve got your magic finals, plus the aether investigation. I don’t blame you.”
+
+“You’d better not, mister.” Looking down at her creased long sleeve shirt and rumpled skirt, she sighed. “I should go and get cleaned up. I don’t want Laura and Lana to see me looking like this.”
+
+Alex started to reply when he heard a clomping and scraping sound from the hallway beyond the open door. That sounds like hooves, he thought, just before his instincts kicked in. He dove, tackling Mei to the ground as a ball of fire ignited directly in the air above where they’d been standing.
+
+Chapter 3: Pyrotechnics
+
+WOOSH!
+
+A wave of white-hot fire slammed into Alex’s back as he wrapped himself around Mei, shielding her from the spell. This wasn’t a typical fireball type effect either. It was a flamethrower of constant fire against his back.
+
+Thankfully, his suit came from the previous Warden’s collection and was covered in protective enchantments. Even so, the pain was acute.
+
+Notice: You have been affected by a pyrokinetic spume effect. This is a level [7] spell. Do you wish to echo it?
+
+The words appeared out of the corner of his eye, as his golden-edged Tablet appeared.
+
+“Fuck yes, I wish to echo it!” With no effects echoed, he gained a small boost to his resistance. Any spell he echoed, however, would deal half the damage against him.
+
+Plus, he could return fire.
+
+A sensation rippled through his scalp, tingling as it spread into his limbs. An instant, instinctive knowledge of how to use the spell came to him, as naturally as speaking.
+
+Spell: Pyrokinetic Spume
+
+Effect: Creates a 30’ cone of fire that deals between 2-4 damage per second to all vulnerable targets within range. This is a fire effect, so objects may ignite and cause secondary damage. Limitation: Cover may reduce or mitigate this damage.
+
+Unknown Bonus Effect: This spell has been enhanced by aether. You cannot echo this bonus effect, nor can your Tablet identify it at this time.
+
+Duration: Ongoing. This spell consumes 3 mana per second and can persist as long as the wielder supplies it with fuel.
+
+Jerking a hand back toward the door, he opened his palm. The spell hurled from his hand, burning a hole through the attacker’s spell like a torpedo through water.
+
+A surprised yelp came from the door as the attacker’s spell dropped. Only then did Alex realize it wasn’t one person, but two. It was a pair of satyrs, the moving team he’d hired. The one closest to them was a charred mess, the brief blast of his own spell enough to cost him his life. Behind the body, the second charred satyr turned to run.
+
+Mei shifted beneath Alex. The girl’s skin had taken on the blue tinge of a protective spell. At the sight of the second attacker taking off, she hissed several words, and a tentacle of green mist manifested out of the air. It wound around the man’s leg, yanking him to the ground.
+
+“Got em!” She said triumphantly, coming to her feet.
+
+Alex spared a glance, just long enough to see that she was fine, before sprinting out of the room. “There are two more movers! I need to check on Grace!”
+
+She called at his back, “I’ll secure this one and be right behind you.”
+
+As he sprinted up the stairs, listening for further sounds of conflict, Smolder growled. “If those assholes did anything to Grace, I’ll torment their souls for eternity.”
+
+Normally, he would have reminded his familiar that they didn’t do things like that. Between the pain from being nearly burned to death and concern for his lover, he didn’t care.
+
+The main floor was empty and quiet, with no sign of the remaining movers. When he took the stairs leading to the second story, a dark furred satyr looked down at him. The fairy’s eyes were wide, rimmed in purple, and filled with static.
+
+With a bleating noise, the satyr extended a thick-fingered hand. Fire sparked in his palm. It looked as if a vortex of light were appearing in front of the fairy’s flesh, twisting into a braid of magma red heat.
+
+Alex didn’t hesitate. Using the Echoed spell from below, he brought up both hands, sending a spray of stolen magic at the satyr.
+
+The two spells met in the middle, the fire fountaining away from the point of impact like two waterspouts. Orange and white sparks cascaded across the floor, glowing against the carpet.
+
+Magic crackled through the air as the mansion's protection spells kicked in and a silvery blue mist appeared along the carpets, absorbing the heat and preserving the floors.
+
+Alex kept running, hands extended. The enemy’s fire scorched his arms and hands, threatening to take what remaining hit points he had. On the opposite side of the colliding fire spells, he saw the satyr’s arms blackening.
+
+The creature’s static-filled eyes were wide and manic as he leaned forward, apparently determined to kill Alex no matter the price.
+
+“Alex! He’s being remotely empowered.” Smolder’s voice broke above the sound of mixing magic. “I can feel it. There’s a tunneling effect. Whoever is on the other side of these things has a lot of mana, but he won’t be able to keep it up forever.”
+
+Through gritted teeth, Alex retorted, “Doesn’t matter. Got to get to Grace.”
+
+He leaped the last steps to the satyr. With his hands outstretched, the effect was enough to force his echoed spell past the barrier of the other. Fire licked at his face, but his body was mostly protected, the fire rebuffed by his suit. The satyr lacked such protection and went down in a smoldering, stinking, heap.
+
+Alex didn’t want to look at his hands or arms, and he certainly wasn’t about to summon his Tablet long enough to check his hit points. He felt like he was probably down to the last few. But it didn’t matter. Not if Grace was in danger.

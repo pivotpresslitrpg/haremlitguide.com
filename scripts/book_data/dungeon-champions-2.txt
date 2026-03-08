@@ -1,0 +1,761 @@
+TITLE: Dungeon Champions Book 2
+AUTHOR: Adam Lance & Leon West
+SERIES: Dungeon Champions (Book 2)
+WORDS EXTRACTED: 6001
+============================================================
+
+Dedication
+
+The authors would like to dedicate this book to all table-top gamers who happen to love anime.
+
+A Note on Cosmology
+
+Dungeon Champions is part of the Fateforged universe. This series, Isekai Emperor, Dark City Girls, and Fate’s Enforcer all have some overlap, including cameos. The greater cosmology is loosely linked. Readers are not expected to have read any of the other books to understand this one.
+
+***
+
+LitRPG Elements
+
+Dungeon Champions includes a variety of LitRPG elements, including team management. Expect character sheet management, discussions about skill acquisition, and adventures. Wherever possible, we’ve put those in their own chapters. The final character sheets from the previous books have been duplicated as starting character sheets in this one.
+
+Of note: Everyone but Jordan qualifies for Level 6 but has yet to claim it.
+
+***
+
+About the Character Sheets
+
+We have a lot. Wherever possible, we’ve tried to avoid repetition or simplify mechanics. But, well, this is LitRPG. In our defense, we put most of it in stand-alone chapters. Also, if you notice some differences between character sheets in Book 2 versus Book 1, it’s because we’ve added clarification or updates based on reader feedback.
+
+Recap
+
+I awoke in the Fae Wilds with no memory, inheriting a Battle Scholar class from a fallen adventurer. After striking a deal with the Dungeon Core of the dungeon I’d woken up in, I rescued four ex-members of the Sisterhood: Merielle, a stoic and reliable elf warrior woman; Nym, an adorable catgirl battle mage and her spicy feline familiar, Sadie; a bratty celestial healer named Britnayel; and Zuri, an alluring half-medusa woman who happens to be an excellent cook. I also befriended Skullie, a snarky lich who became my familiar.
+
+Because of my class, I was able to offer the ex-Sisterhood members temporary Tablets, giving them classes, and we formed the Society of the Defiant.
+
+We traveled to Boulibar Bay, where we established ourselves by completing quests for the locals. Our party grew stronger, but tensions arose, particularly with Britnayel, who struggled to adapt to our new situation. We focused on gaining levels and improving our relationships with the town. Our efforts were interrupted by a sudden monster attack on the town, which we successfully repelled, pushing our abilities to the limit.
+
+The mayor of Boulibar Bay, Mayor Regan, approached us with a secret quest to investigate disruptions to the town’s trade routes. Our resulting sea voyage revealed a smuggling operation involving powerful artifacts and elemental beings. We faced numerous challenges, including battles with sirens and a massive sea monster known as the Old Man of the Sea. Eventually we made it to Lans, where we learned of a larger conspiracy involving the Trade Regulation Bureau.
+
+Returning to Boulibar Bay, we were tasked with investigating a suspected dungeon site in relation to that conspiracy. We discovered it was part of “Project Synthesis,” an attempt to create controlled dungeons using a combination of technology and magic. We battled through the corrupted facility, facing horrifying abominations and twisted artificial intelligence that had taken control.
+
+In a climactic confrontation, we destroyed the dungeon’s artificial Dungeon Core, collapsing the facility and saving the region. Our victory earned us hero status in Boulibar Bay, along with a grand house from Mayor Regan. But our work has only just begun, as we still have to get stronger so we can take on a list of challenges, including a Demon Core beneath the Goblin King’s city, and a corrupt Celestial Queen (who happens to be Britney’s stepmother).
+
+Prelude: A Gathering of Queens and Kings
+
+The door to her private sanctum clicked shut, and Queen Leah activated the Aether Cage.
+
+Static glowed along wires covering the circular walls of the relatively small, thirty-foot diameter room. The magic developed gradually, like salt crystals across twine. Next to her face, Leah’s Royal Tablet appeared, its golden light steady.
+
+She watched for notifications or any other indication that the device, or its creators, was aware of what she did. There was no sign. Minutes crept by as, unblinking, the woman waited for the crystals to finish growing.
+
+A subtle flicker ran across the smooth surface of the Tablet. Extending a delicate finger, she probed the surface. It did not respond. Sliding her gaze from the legendary artifact, she took in the room.
+
+With the Aether Cage active, it appeared that she stood in a realm covered in rainbow-colored static, interrupted by thin vines of glowing rainbow crystal. Four mirrors decorated one wall, each barely larger than a Tablet. Appearing only once the Aether Cage was established, each mirror was wrapped in an elaborate wire mesh that seemed to blend into the static.
+
+“I’m here,” she announced. “The room is secure.”
+
+At her words, the mirrors darkened, replaced with the outline of four others. One held the silhouette of a dragon. Another held the distinct shape of King Vugnek, ruler of a local demon cohort. The final held what might have been an elven man wearing a robe.
+
+Assuming her role as leader, Leah pointed at the dragon. “Great old one. Would you present us with your progress?”
+
+“It is slow, but steady, Queen Leah.” The dragon had a deep, cultured accent. Humans from Earth might have labeled it ‘Proper English.’ “The information our scientists have extracted from the Dungeon Core has been priceless. Combined with imports from the Veil Tear, we should have working prototypes within the year. If all goes as planned, in a decade or two, we will have tools to rival the Fates.”
+
+King Vugnek shifted, speaking in his bestial tongue. “I want one of those prototypes as soon as they are ready. The upstart Goblin King has become a bigger problem than any of us anticipated. He’s marrying the troll princess. My wife”—he said the word like a curse—“has even taken an interest in him. I want him removed.”
+
+The elf said, “What about Reginald? I thought he was your proxy in that area.”
+
+“He’s proven to be weak. If I am to continue with my part of the bargain, I need Thomas gone. If he continues to gain power, it may slow our plans.”
+
+Leah waved to silence the debate. “Vugnek, you will be provided what resources we can safely offer. Remember, subtlety is of paramount importance, especially near the Concord Islands. We have reason to believe they are monitoring the area, which means teleportations are entirely out of the question.”
+
+The implicit threat hung over all of them. If the Fates became directly involved, it could lead to Warden intervention, which none of them wanted.
+
+She briefly considered whether to inform them of the so-called ‘Society of the Defiant’ and their recent success in destroying the research facility.
+
+No, she decided. Why should I get my hands dirty? Betsy made the mess; she can clean it up.
+
+“I think,” she said, adopting her most diplomatic voice, “we should discuss our contingency plan. If we’re close to having our own Tablets, we will need our own Wardens as well. I’ve been studying their dreams and found an excellent candidate. She’s on Earth, in the Las Vegas area.”
+
+Jordan Cash Starting Character Sheet
+
+Name: Jordan Cash
+
+Age: 31
+
+Level: 12
+
+Class: Battle Scholar (Legendary)
+
+Experience to Level 13: 167
+
+Species: Human Changeling
+
+Hit Points (Endurance X Level): 240
+
+Mana (Magic + Level): 25
+
+Attributes
+
+Strength: 21 (Add five [5] to ten [10] to your weapon damage; this is multiplied on a critical attack.)
+
+Endurance: 20 (You are supernaturally durable and can resist magical attacks normal humans cannot; you only need four [4] hours of sleep a night.)
+
+Agility: 20 (You are incredibly agile and can jump three times the standard distance, with twice the peak movement speed for one of your size; you also have a passive 20% chance to dodge most attacks.)
+
+Cunning: 19 (Enhancing your thoughts allows you to communicate telepathically with greater ease, particularly during group conversations. You also become resistant to most mid-level illusions and mind-influencing effects)
+
+Discipline: 17 (You have attained a heightened level of concentration and focus; you may now multitask during combat, specifically with regards to team management and your Tablet with a reduced chance to be distracted; you are also 25% more resistant to distracting effects of all sorts.)
+
+Magic: 13
+
+Core Skills
+
+Adventure Historian: 15 (You are now familiar with all but the rarest lore around dungeons, monsters, adventurers, and items surrounding adventuring.)
+
+Dungeoneering: 13 (You may now craft [disguised] traps, and attempt to [bypass] dungeon traps, or even change their triggering mechanisms.)
+
+Potion Brewing: 11 (This skill grants you exhaustive insight into how to create and brew non-magical and low-level magical potions. Touch for more details about the potions you know to brew.)
+
+Titles
+
+Champion of Wind: Earned by freeing and befriending Ulene, Crown Princess of the Elementals of the Plane of Air, and gaining her trust. Your movement speed is increased by 25% when outdoors. Once per day, you can summon a gust of wind to push back enemies or propel yourself forward.
+
+Equipment
+
+Weapons
+
+Axe of Felling: This axe deals five (5) to eight (8) base damage. This damage is doubled against inorganic material, as well as plants. This includes plant-type monsters.
+
+Fast Sword of Bloodletting: This sword deals two (2) to six (6) base damage. Any enemy with blood struck by the sword continues to bleed for one (1) to four (4) damage every six (6) seconds, or until the wound is healed or treated. As a Fast weapon, your normal rate of attacks is increased by 50% while wielding it.
+
+Bow of Sight-Blinding: This magical bow enchants any arrow shot from it to deal two (2) to four (4) damage. There is a [significant] chance any enemies struck by it will be blinded for ten (10) seconds.
+
+Accurate Dagger of Cruelty: This throwing dagger has its critical attack threshold doubled. It deals two (2) to six (6) base damage if thrown, or one (1) to four (4) with a melee strike. If you throw it, and it deals a critical attack, it lodges itself inside the opponent, causing them to bleed for one (1) damage every six (6) seconds. Removing the Cruel weapon causes it to deal critical damage again.
+
+Armor
+
+Tyrant’s Armor: You are immune to all [Common] and [Uncommon] environmental and magical effects. These include [scorching] and [freezing] environments. You also take significantly reduced damage against [Epic] or [Legendary] environmental and magical effects, such as being immersed in a pool of acid.
+
+Gauntlets of Grappling: You cannot be grappled or held against your will, unless the being doing so is three (3) or more levels higher than you.
+
+Trackless Boots of Levitation: Your movement rate is doubled, and your footsteps no longer leave footprints or evidence of your passage. These boots can levitate one (1) inch over any substance, effectively allowing you to walk over water, or pools of acid or lava, etc.
+
+Cloak of Shadows: You gain the Stealth skill. It is equal to your level.
+
+Belt of Rejuvenation: You heal one (1) hit point per minute. Note: This belt is attuned to you. Attunement requires twenty-four (24) hours of continuous wear.
+
+Other Equipment
+
+Platinum: 750
+
+Gold: 6,233
+
+High-Quality Magic Gems: 12 (6 empty of mana)
+
+Mid-Grade Mana Gems: 20 (all empty of mana)
+
+Low-Grade Mana Gems: 50 (all empty of mana)
+
+Lich Phylactery: 1
+
+Storage Pouch: x10. Each of these pouches can hold 100 lbs. of material in an extra dimensional space.
+
+Adventuring Kit: This basic kit includes rope and pitons, bedding, and rations for three (3) days.
+
+Arrows: x290. Located in storage pouches.
+
+Vials of Healing (Greater): x4
+
+Map of the Chaos Dungeon
+
+Map of the Area
+
+Teleportation Scroll (Keyed to Vanduul)
+
+Fae Lodging (One-Night Accommodations): x4
+
+Basilisk Parts: meat (100 lbs.), intact scales 30 yards, 1x heart, 1x gizzard, 1x liver, and 1x eye
+
+Diamond Claws: x14
+
+Legendary Quality Unopened Chest: x1
+
+Laboratory Goods: 85 assorted books, 13 pieces of random experimental equipment, 3 full kits of alchemist/necromancer/science experimentation tools (legendary quality), and random bits stolen from the final dungeon.
+
+Veil [Tablet Altering Enchantment]: This enchantment alters the appearance and perceived power of the user’s Tablet, reducing its visible quality by one tier. The spell manifests as a shimmering, translucent layer over the Tablet, shifting its color to match that of a lower-tier Tablet. This illusory mask can be activated or dispelled at will by the user. It will only fool a casual viewer and can be seen through by detection skills, abilities, or equipment.
+
+Battle Scholar Abilities
+
+Experience Criteria: Battle Scholars gain experience by mentoring and helping others. They gain reduced experience from standard combat.
+
+The Price of Level Disparity: If you are mentoring adventurers more than three (3) levels below yours, if you deal combat damage to enemies the adventurers are fighting, the experience they receive is reduced by an amount proportional to your intervention. Feel free to be creative about avoiding this penalty.
+
+Granted Powers: A Battle Scholar can generate up to one (1) Epic Class Tablet per three (3) of their levels plus one (+1). At Level 12, this is five (5). They have Command Authority over these Tablets. The Battle Scholar may assign these Tablets to willing recipients. Note: The assignment process wipes away any current levels granted by other Tablets. The assignee retains all other skills and knowledge.
+
+Graduation: Once the recipient has gained ten (10) levels the Battle Scholar may give the person ownership of their Tablet. If this happens, the Scholar may manifest a new Epic Tablet. The manifestation process takes 120 days.
+
+Reassignment: It is possible to remove and reassign a Tablet, however doing so strips the person it was removed from of all experience. Long press for more information.
+
+Level 1: You gain a special skill called “Adventure Historian.” This skill grants extensive knowledge into combat, adventuring, classes and class abilities, monsters, and more.
+
+In addition, you possess an extradimensional holding space. You may use this space to summon and store any weapons or armor you possess at will. If these items are taken from you, you must retrieve them before you can use this ability. You may also use this space to store supplementary adventuring materials, up to a maximum of 50 lbs. per your level.
+
+Level 3: You become proficient in all standard adventuring equipment. This includes familiarity with all commonly known weapons, armor, and magical items (such as wands and scrolls). You may not cast spells like a spellcaster, but if a spell scroll does not require a spellcasting class, you can use it. This proficiency is sufficient that you may teach others how to use the equipment, even if you have had no prior familiarity before getting this power.
+
+Level 5: The time it takes you to train others in any combat skills you are familiar with decreases by 50%.
+
+Level 7: You and anyone with one of your Epic Class Tablets share a telepathic bond. This allows you to provide direct directions and mental guidance. The time it takes you to train your allies decreases by another 10%.
+
+Level 9: You, and any allies with an Epic Class Tablet within [medium range] gain [modest] resistance to non-damaging attacks. This includes spells, curses, and some traps.
+
+Level 11: You are considered “Lucky.” This benefit may activate up to once per day. When it does, a variable, random outcome will tilt in your favor. The degree of the tilt will depend on circumstances and how many of your team members are in danger.
+
+Merielle Starting Character Sheet
+
+Name: Merielle Nightbreeze
+
+Age: 24
+
+Level: 6* (Level not yet claimed)
+
+Class: Ballistic Knight (Epic)
+
+Experience to Level 7: 52
+
+Species: Elf
+
+Hit Points (Level X Endurance + class bonus): 95
+
+Mana (Level X Magic): 25
+
+Attributes
+
+Strength: 17
+
+Endurance: 17
+
+Agility: 23 (You now have a passive [25 percent] chance to dodge any attack you can see coming.)
+
+Cunning: 10
+
+Discipline: 10
+
+Magic: 5
+
+Core Skills
+
+Combat Tactics: 6
+
+Field Medicine: 1
+
+Acrobatics: 5
+
+Special Equipment
+
+Limited, Elemental Fighter’s Gloves: Add two (2) to four (4) [Elemental] typed damage to your melee attacks. Can be activated or deactivated with a command word. Upon activation, you may select which type of element. Only Fire, Ice, Electricity, and Acid may be used with this model.
+
+Handshake of the Titans: The hammer grows in size and mass upon command, increasing its reach by five (5) feet and its damage. Limitation: While enlarged, the hammer has reduced accuracy against smaller or nimble targets. The growth can only be activated three (3) times per day.
+
+Veil [Tablet Altering Enchantment]: This enchantment alters the appearance and perceived power of the user’s Tablet, reducing its visible quality by one tier. The spell manifests as a shimmering, translucent layer over the Tablet, shifting its color to match that of a lower-tier Tablet. This illusory mask can be activated or dispelled at will by the user. It will only fool a casual viewer and can be seen through by detection skills, abilities, or equipment.
+
+Ballistic Knight Class Abilities
+
+Description: Gain enhanced maneuverability and abilities to defend and protect your allies.
+
+Experience Criteria: Gain experience from challenging combats.
+
+Granted Powers: Your movement rate increases by 25%. While in combat, your Agility score decreases the chances of an enemy dealing a critical attack to you, or any nearby allies you are actively defending.
+
+Level 1: You gain 10 hit points.
+
+Level 3: Knight’s Move When you drop an opponent—either by knocking them unconscious, killing them, or merely pushing them over, you gain a slight burst of speed and may move an additional [six (6) feet] as a [reaction]. This benefit may trigger up to [three (3)] times per combat, and you may choose when to use it.
+
+Level 5: Shield of Duty You gain [significant] resistance against any immobilizing or mind-influencing effects while in combat.
+
+Nym Starting Character Sheet
+
+Name: Nym Swiftpaw
+
+Age: 19
+
+Level: 6* (Level not yet claimed)
+
+Class: Scouring Tyrant (Epic)
+
+Special: [Cat Familiar] Sadie
+
+Experience to Level 7: 52
+
+Species: Catgirl
+
+Hit Points (Level X Endurance): 75
+
+Mana (Level X Magic + 5): 173
+
+Attributes
+
+Strength: 8
+
+Endurance: 15
+
+Agility: 16
+
+Cunning: 13
+
+Discipline: 6
+
+Magic: 24
+
+Core Skills
+
+Arcane Familiarity: 4 (You can identify most basic spells and enchantments at a glance.)
+
+Spell Memorization: 6 (You can rapidly memorize new spells. You may learn a number of spells equal to your class level plus this skill plus three [3]. Currently fourteen [14].)
+
+Animal Friendship: 1 (You know how to befriend or communicate with a variety of animals.)
+
+Special Equipment
+
+Magical Defense Amulet: This amulet decreases the damage you suffer from magical attacks by three (3) to five (5) points of damage. Non-instantaneous, negative, magical effects have a [small] chance to fail.
+
+Wand of the Oceans (Lesser): This epic-tier magical item comes with three enchantments. These benefits become available after an owner has held the wand for [one (1)] hour. They are as follows:
+
+Waterbreathing/Airbreathing: The owner may breathe in either an aquatic or air-based environment without harm. This benefit applies so long as the wand is in the possession of the attuned person—meaning it need not be held.
+
+Water Movement: The wielder may move underwater freely, at full speed and with [high] levels of speed and maneuverability. This benefit applies so long as the wand is in the possession of the attuned person.
+
+Aquatic Enhancement: All [water-based] spells are cast [two (2)] levels higher and cost [two (2)] fewer mana (down to a minimum of one (1). The wielder may change their spells’ elemental types to water on the fly, for free. For example, Nym may now change Scouring Blast to Sand Blast, altering the heat/fire component to water. If she does, the spell will cost [three (3)] mana instead of [five (5)]. As the spell has no level-dependent aspects, it would not otherwise be enhanced.
+
+Veil [Tablet Altering Enchantment]: This enchantment alters the appearance and perceived power of the user’s Tablet, reducing its visible quality by one tier. The spell manifests as a shimmering, translucent layer over the Tablet, shifting its color to match that of a lower-tier Tablet. This illusory mask can be activated or dispelled at will by the user. It will only fool a casual viewer and can be seen through by detection skills, abilities, or equipment.
+
+Scouring Tyrant Class Powers
+
+Description: You specialize in magic related to the theme of cleaning, or transformation.
+
+Experience Criteria: Gain experience from using offensive spells in combat or overcoming difficult cleaning tasks.
+
+Granted Powers: You are treated as two (2) levels higher when determining what spells you can learn and your total mana. You begin with [5] additional mana, and can learn spells from any list, provided it relates to cleaning or transformation.
+
+Level 1: The duration of your non-offensive spells is increased by a small amount. This increases in proportion to your level.
+
+Level 3: Cleaning Burst. [Once] per combat, you may deal an additional [50%] damage with one of your spells.
+
+Level 5: Your class receives no new benefits at Level 5.
+
+Nym Spell List
+
+Scouring Blast
+
+Mana Cost: 5 Mana
+
+Range: Short
+
+Duration: 6 Seconds
+
+Area of Effect: 30-foot cone, emanating from the caster
+
+Damage: Three (3) to six (6)
+
+Details/Effect: This spell sends a blast of superheated sand into the cone’s radius. The damage is a combination of heat and sand.
+
+Quick Combust
+
+Mana Cost: 3
+
+Range: 15 feet
+
+Duration: Instantaneous
+
+Area of Effect: 15-foot radius around the caster
+
+Damage: Everything in the area takes two (2) points of damage
+
+Details/Effect: This spell is excellent for rapidly cleaning an area. Note: This spell uses fire, so it may set combustible materials ablaze.
+
+Minor Repair
+
+Mana Cost: 2
+
+Range: Touch
+
+Duration: Instantaneous
+
+Area of Effect: A surface that has suffered up to two (2) hit points worth of damage
+
+Details/Effect: This spell mends or repairs up to two (2) hit points of damage to a non-magical object. This process cannot create new material.
+
+Purification Transformation
+
+Mana Cost: 5
+
+Range: 5 feet
+
+Duration: Instantaneous
+
+Area of Effect: A 5-foot cube
+
+Details/Effect: This transformation spell purifies anything impure within the affected area. Magical impurities may resist this spell.
+
+Summon Broom
+
+Mana Cost: 4
+
+Range: 30 feet
+
+Duration: 10 minutes
+
+Area of Effect: One (1) broom per your Cunning attribute
+
+Damage: One (1) if used as a weapon
+
+Details/Effect: This spell summons up to the indicated number of brooms. They act on your commands, and can deal up to one (1) point of damage if used as a weapon. They cannot make critical strikes or deal critical damage. You may not summon more than the maximum number of brooms at a time [currently 11].
+
+Watery Death
+
+Cost: 16 Mana
+
+Range: Medium
+
+Duration: 40 Seconds
+
+Area of Effect: One target; magic resistance applies
+
+Damage: One (1) point of [Endurance] damage every [three (3)] seconds
+
+Details/Effect: This spell creates a ball of water on a target’s head. This is normal water, although the volume is always beyond what the creature could drink or naturally consume—meaning it out scales stomach volume. While the ball is in place, the target’s vision and hearing are [obscured] they are [muted]. Every [three (3)] seconds, they suffer [one (1)] point of [Endurance] damage. If their [Endurance] reaches [one (1)] they become unconscious. If it reaches [zero (0)], they die. Various circumstances, such as vigorous activity, may cause the damage to repeat faster as the target runs out of oxygen.
+
+Healed by Water
+
+Cost: 20 Mana
+
+Range: Touch
+
+Duration: 16 Seconds
+
+Area of Effect: One (1) touched target
+
+Details/Effect: The target of this spell must be at least [60%] immersed in water. They gain [Regeneration: 1]—allowing them to regenerate limbs and restore lost hit points at a rate of one (1) per four (4) seconds. Note: It may take multiple castings to regenerate limbs.
+
+Alter Liquid
+
+Cost: 5 Mana
+
+Range: Close
+
+Duration: Permanent
+
+Volume Affected: Up to one (1) gallon of liquid per two (2) of the caster’s levels.
+
+Details/Effect: The caster transforms one type of liquid to another, up to the maximum volume. Note: The caster must have tasted the target liquid before to create it with this spell. This ability will not work on magical liquids that cost more than [four (4)] mana to create.
+
+Speak to Aquatic Life
+
+Cost: 3 Mana
+
+Range: Touch
+
+Duration: 1 hour
+
+Details/Effect: The touched target may speak with aquatic life.
+
+Britney Starting Character Sheet
+
+Name: Britnayel “Britney” Dawnglow
+
+Age: 32
+
+Level: 6* (Level not yet claimed)
+
+Class: Thorned Angel
+
+Experience to Level 7: 52
+
+Species: Celestial
+
+Hit Points (Level X Endurance): 80
+
+Mana (Level X Magic): 110
+
+Attributes
+
+Strength: 10
+
+Endurance: 16
+
+Agility: 11
+
+Cunning: 18
+
+Discipline: 10
+
+Magic: 22
+
+Core Skills
+
+Combat Tactics: 4 (You are familiar with combat concepts, including common tactics and strategy.)
+
+Field Medicine: 4 (You can provide quick medical assistance. This includes recognizing basic poisons and other maladies. Using this skill immediately after combat can heal one [1] to two [2] points of damage without consuming mana.)
+
+Planar Theory: 4 (You have gained significant insights into planar theory. Due to your recent interactions with Veil-level threats, your Tablet has been enhanced with relevant information on preserving and protecting the Veil, as it relates to Planar Theory.)
+
+Special Equipment
+
+Belt of [Liquid Motion]: You become [Modestly Resistant] to being grappled or held in place, either physically or magically.
+
+Veil [Tablet Altering Enchantment]: This enchantment alters the appearance and perceived power of the user’s Tablet, reducing its visible quality by one tier. The spell manifests as a shimmering, translucent layer over the Tablet, shifting its color to match that of a lower-tier Tablet. This illusory mask can be activated or dispelled at will by the user. It will only fool a casual viewer and can be seen through by detection skills, abilities, or equipment.
+
+Awakened Racial Power
+
+Flight: You may spend [five (5)] mana to fly with [poor] maneuverability and [modest] speed for [five (5)] minutes. Note: This racial ability has been formally awakened and unlocked upon your achieving Level 4.
+
+Thorned Angel Class Powers
+
+Description: You use your magic to deal retributive damage to your foes. At higher levels, you will gain access to powerful healing and curse magic.
+
+Experience Criteria: Gain experience from combat. You also gain bonus experience when your magic saves an ally’s life.
+
+Granted Powers Thorns: Target yourself or an ally within thirty (30) feet. Whenever that ally takes damage, reduce it by three (3) points. The enemy takes three (3) points of retributive [holy] type damage whenever they damage the ally. You may only have one (1) active protected ally at a time. Using this ability costs [three (3)] mana to activate, and an additional [three (3)] per [six (6)] seconds it remains active.
+
+Level 1: When your retributive effect ends, the ally is healed by four (4) hit points.
+
+Level 3: Expanded Thorns You may apply the Thorns effect to up to two (2) allies, and the blocked and retributive damage increases to [five (5)].
+
+Level 5: Extended Thorns The range you may apply the thorns effect increases to 50 feet. The damage/absorption is increased from [five (5)] to [seven (7)].
+
+Britnayel Spell List
+
+Minor Healing
+
+Mana Cost: 5 Mana
+
+Range: Touch
+
+Area of Effect: Target
+
+Details/Effect: This spell heals the target of their minor wounds, typically two (2) to six (6) hit points.
+
+Zuri Starting Character Sheet
+
+Name: Zuri Stonecoil
+
+Age: 108
+
+Level: 6* (Level not yet claimed)
+
+Class: Surprise, I’m a Chef!
+
+Experience to Level 7: 52
+
+Species: Medusa—Path of Humanity
+
+Hit Points (Level X Endurance): 100
+
+Mana (Level X Magic): 110
+
+Attributes
+
+Strength: 14
+
+Endurance: 20
+
+Agility: 15
+
+Cunning: 16
+
+Discipline: 14
+
+Magic: 22
+
+Core Skills
+
+Combat Tactics: 3
+
+Field Medicine: 4
+
+Monstrous Chef: 5
+
+Special Equipment
+
+Miscellaneous Bits: Zuri has collected a variety of aquatic ingredients for future cooking experimentation.
+
+Cooking Kit: [Common] and [Uncommon] Herbs and Spices, along with a magical cooking kit that will reduce your cooking time by a [Significant] amount. This kit integrates with your class abilities, allowing you to summon and dismiss them. These items remain “in state” meaning if you store an object while it’s hot, it will remain the same temperature until it is retrieved.
+
+Veil [Tablet Altering Enchantment]: This enchantment alters the appearance and perceived power of the user’s Tablet, reducing its visible quality by one tier. The spell manifests as a shimmering, translucent layer over the Tablet, shifting its color to match that of a lower-tier Tablet. This illusory mask can be activated or dispelled at will by the user. It will only fool a casual viewer and can be seen through by detection skills, abilities, or equipment.
+
+Surprise, I’m a Chef! Class Powers
+
+Experience Criteria: Gain experience when you help contribute to combat. Gain bonus experience from having a direct hand in acquiring new materials for your recipes or when your cooking directly helps your allies overcome an obstacle.
+
+Granted Powers: You can manifest a portable cooking table, complete with a small selection of Epic-grade tools at will. If you acquire additional tools of at least [Epic] quality, you may add them to this cooking table. This power grants you extradimensional storage for ingredients, preserving them at the moment they are stored. You may store up to [two (2) pounds] of these ingredients per your level. You learn [five (5)] special recipes and may acquire more through experimentation or adventuring.
+
+Level 1: You become immune to any negative effects from sampling your own concoctions. You also gain significant resistance to diseases or other side-effects from ingredients you harvest.
+
+Level 3: Quick Combine Three (3) times per day, you may combine ingredients to create a meal, brew, or other consumable that falls within your class domain instantly. This will produce up to [one (1)] serving per [three (3)] of your [Cunning] attribute. Currently: five (5). Use of this power requires no equipment, preparation or anything else—it simply combines the ingredients using your skills, as if you had optimal conditions and time to craft the results. Limit: This may not be used on recipes that have a significant degree of risk or failure—such as ones with reactive magical components, legendary recipes, etc.
+
+Level 5: Bonus Meat! When harvesting materials from monsters, including monstrous plants, you get double the normal uses.
+
+Zuri Concoctions and Recipes
+
+Healing Concoction
+
+Mana Investment: 5 Mana
+
+Special Ingredient (s) Required: [Common] magical herbs or biological components from monsters or magical creatures
+
+Duration: Instantaneous
+
+Details/Effect: This concoction heals between one (1) to four (4) hit points for the consumer. Flavor depends on the ingredients.
+
+Harmful Concoction
+
+Mana Investment: 5 Mana
+
+Special Ingredient (s) Required: [Common] magical herbs or biological components from monsters or magical creatures
+
+Duration: Instantaneous
+
+Details/Effect: This concoction deals between four (4) to eight (8) hit points for the consumer. Flavor depends on the ingredients. Your [Monstrous Chef] skill will allow you to both hide the toxic nature of this brew and delay the onset of negative effects.
+
+Questionable Attractant
+
+Mana Investment: 10 Mana
+
+Special Ingredient (s) Required: Biological components from a member of the target monster type
+
+Duration: 10 minutes.
+
+Details/Effect: This concoction will lure monsters (or other magical beings) to the location. The type of monster is based on the ingredients used. This is an aerosol effect, with an area of effect proportional to the amount of fire and ingredients. Your [Monstrous Chef] skill will allow you to manipulate the attitude of the attracted monsters. Note: This concoction has an element of Chaos in it. Monsters so summoned may randomly mutate to [Elite] variations. Magical monsters have a chance to resist. Furthermore, experience points awarded for monster kills may be greatly depreciated if this concoction is used in an abusive manner.
+
+Black Wash
+
+Mana Investment: 3 Mana
+
+Special Ingredient (s) Required: N/A
+
+Duration: Instantaneous
+
+Details/Effect: This creation, when consumed, instantly purges the consumer of impurities. As a side-effect, it also acts as a full night’s sleep, completely energizing the consumer. Be aware, this potion tastes awful, and can result in extreme vomiting. If poured over a creature, it removes all external impurities, perfectly cleaning living beings. Note: It also deals two (2) points of damage to any non-living object it touches, so it will melt away most clothing. Your [Monstrous Chef] skill will allow you to manipulate the variables associated with this potion, including its flavor and the damage it deals.
+
+Alter Form (Minor)
+
+Mana Investment: 12 Mana
+
+Special Ingredient (s) Required: Two (2) hit points of the recipient’s blood
+
+Duration: 4 hours
+
+Details/Effect: This spell acts as a minor shapeshifting effect for the consumer. It cannot be used to grant new special abilities or attacks.
+
+Skullie Starting Character Sheet
+
+Name: Skullie
+
+Age: 394
+
+Level: 7
+
+Class: Necromancer
+
+Species: Lesser Lich Spawn [Evolving]
+
+Hit Points (Endurance + Level): 10
+
+Mana (Magic + Level): 25
+
+Attributes
+
+Strength: 4
+
+Endurance: 3
+
+Agility: 1
+
+Cunning: 20
+
+Discipline: 18
+
+Magic: 18
+
+Regeneration Notice: As a familiar with a phylactery, Skullie can only be destroyed if both his phylactery and his bonded master, [Jordan], are killed. If his body and phylactery are destroyed, the familiar’s master must use another phylactery to regenerate his body. If his body is destroyed but his phylactery is intact, it will regenerate him at a rate of one (1) hit point per day. Attaching the phylactery to a corpse can dramatically enhance and expedite this process, in addition to giving him a new body.
+
+Familiar Limitations: Skullie cannot own a Tablet, nor can he level up. He grows in power as you, [Jordan], level, by evolving. As your familiar, this entity is bound to you. He cannot disobey a direct order, although he may still act with cunning and deception.
+
+Core Skills
+
+Legends and Lore: 7
+
+Arcane Insights: 7
+
+Linguistics: 6
+
+Skullie’s Spells
+
+Necromantic Propulsion (Familiar Spell)
+
+Mana Cost: 4
+
+Range: Self
+
+Duration: 10 minutes
+
+Details/Effect: Skullie gains a flight effect for the duration. This flight has a speed equal to [Jordan’s] movement rate.
+
+Life Leech (Familiar Spell)
+
+Mana Cost: 8
+
+Range: Self
+
+Duration: 1 hour
+
+Details/Effect: Skullie gains a bite attack that deals one (1) to four (4) damage and is enhanced by [Jordan’s] Strength attribute. [Jordan] is healed by an equal amount.
+
+Share Senses (Familiar Spell)
+
+Mana Cost: 2
+
+Range: Self
+
+Duration: 1 minute
+
+Details/Effect: Skullie may share one of its undead perceptions with [Jordan]. This will allow [Jordan] to See Undead, Interact with Undead, or see in the dark. The perception must be selected each time this spell is cast. This spell has no range limitation.
+
+Death Sight
+
+Mana Cost: 2
+
+Range: Touch
+
+Duration: 10 minutes
+
+Details/Effect: The touched target gains a type of vision called [Death Sight] and can see living and undead creatures. This spell bypasses most invisibility and other non-detection spells.
+
+Boo!
+
+Mana Cost: 5
+
+Range: Touched Ally
+
+Duration: 1 Combat (up to 10 minutes)
+
+Details/Effect: All of the target’s abilities, including combat maneuvers, become gross and horrifying necromantic versions of themselves. Although this is an illusion, it comes from necromantic magic—meaning illusion piercing spells that do not specifically include necromancy or [all] magic will not pierce the effect. This is particularly useful against Tablet wielders who rely on high attributes to see through these types of effects.
+
+Graft Familiar
+
+Mana Cost: 15
+
+Range: Owner
+
+Duration: 5 minutes
+
+Details/Effect: Skullie may merge with [Jordan’s] body, allowing them to share one form. While bonded in this way [Jordan] may cast Skullie’s spells, and Skullie may use [Jordan’s] limbs. Sharing is caring, and this is one effect that may take a lot of practice to get used to!
+
+Additional Notable Equipment
+
+This equipment was purchased at Massie’s Emporium and shared among the party members.
+
+Wardrobe: All members purchased five changes of clothing, including two sets of luxury (royal quality) outfits with jewelry. Zuri’s wardrobe includes heavy-duty enchanted cloth to help contain her hair. These clothes are stored in their storage bags.
+
+Storage Pouches: Each party member purchased two [100 lb.] storage pouches.
+
+Healing Potions [Lesser]: Each party member purchased four lesser healing potions.
