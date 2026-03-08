@@ -1,0 +1,124 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  schema?: object;
+}
+
+const {
+  title,
+  description,
+  canonicalUrl = Astro.url.href,
+  ogImage = '/og-default.png',
+  schema
+} = Astro.props;
+
+const fullTitle = title.includes('HaremLit Guide') ? title : `${title} | HaremLit Guide`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={new URL(ogImage, Astro.site).href} />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="HaremLit Guide" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={new URL(ogImage, Astro.site).href} />
+
+  <!-- Sitemap & RSS -->
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title="HaremLit Guide" href="/rss.xml" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Plausible Analytics -->
+  <script async src="https://plausible.io/js/pa-vP1vwz5RLcBPzVRv3HTZi.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)};
+  </script>
+
+  <!-- JSON-LD Schema -->
+  {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  <!-- Additional head content -->
+  <slot name="head-extra" />
+</head>
+<body class="min-h-screen flex flex-col">
+  <!-- Nav -->
+  <header class="border-b border-[var(--color-border)] sticky top-0 z-50 bg-[var(--color-surface)]/95 backdrop-blur-sm">
+    <div class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
+      <a href="/" class="flex items-center gap-2 font-bold text-lg tracking-tight">
+        <span class="text-[var(--color-brand)]">HaremLit</span><span class="text-white">Guide</span>
+      </a>
+      <nav class="hidden sm:flex items-center gap-6 text-sm text-[var(--color-text-muted)]">
+        <a href="/lists" class="hover:text-white transition-colors">Lists</a>
+        <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
+        <a href="/about" class="hover:text-white transition-colors">About</a>
+      </nav>
+      <button class="sm:hidden text-[var(--color-text-muted)]" aria-label="Menu">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M3 12h18M3 6h18M3 18h18" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="flex-1">
+    <slot />
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-[var(--color-border)] mt-16 py-10 text-[var(--color-text-muted)] text-sm">
+    <div class="max-w-5xl mx-auto px-4 flex flex-col sm:flex-row justify-between gap-6">
+      <div>
+        <p class="font-semibold text-white mb-1">
+          <span class="text-[var(--color-brand)]">HaremLit</span>Guide
+        </p>
+        <p class="max-w-xs">Reader guides and ranked lists for harem fantasy and men's romance fiction.</p>
+        <p class="mt-2">
+          A <a href="https://harem-lit.com" target="_blank" rel="noopener" class="hover:text-white transition-colors underline">Pivot Press</a> editorial project.
+        </p>
+      </div>
+      <div class="flex gap-10">
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Site</p>
+          <a href="/lists" class="hover:text-white transition-colors">Lists</a>
+          <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
+        </nav>
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Info</p>
+          <a href="/about" class="hover:text-white transition-colors">About</a>
+          <a href="/contact" class="hover:text-white transition-colors">Contact</a>
+          <a href="/privacy" class="hover:text-white transition-colors">Privacy</a>
+          <a href="/rss.xml" class="hover:text-white transition-colors">RSS</a>
+        </nav>
+      </div>
+    </div>
+    <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)] flex flex-col sm:flex-row gap-3 justify-between">
+      <p>Book data sourced from <a href="https://harem-lit.com" class="hover:text-white underline" target="_blank" rel="noopener">Harem-Lit.com</a>. Amazon links may be affiliate links.</p>
+      <p>&copy; {new Date().getFullYear()} Pivot Press Publishing</p>
+    </div>
+  </footer>
+</body>
+</html>

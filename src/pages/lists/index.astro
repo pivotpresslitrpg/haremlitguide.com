@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { listConfig } from '../../lib/lists';
+
+const lists = Object.entries(listConfig);
+---
+
+<BaseLayout
+  title="Harem Fantasy Reading Lists"
+  description="All HaremLit Guide reading lists — best harem fantasy, cultivation novels, reverse harem, harem LitRPG, and more."
+>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <p class="text-sm font-semibold text-[#ec4899] uppercase tracking-wider mb-2">Reading Lists</p>
+    <h1 class="text-3xl font-bold text-white mb-2">All Lists</h1>
+    <p class="text-[#888] mb-8">Curated reading lists across harem fantasy and men's romance fiction. Ranked by community ratings from Harem-Lit.com.</p>
+
+    <div class="space-y-3">
+      {lists.map(([slug, config]) => (
+        <a
+          href={`/lists/${slug}`}
+          class="flex items-center justify-between bg-[#1a1a1a] border border-[#2e2e2e] hover:border-[#ec4899]/40 rounded-lg px-5 py-4 transition-colors group"
+        >
+          <div>
+            <p class="font-semibold text-white group-hover:text-[#ec4899] transition-colors">{config.title}</p>
+            <p class="text-sm text-[#666] mt-0.5">{config.description.slice(0, 90)}…</p>
+          </div>
+          <span class="text-[#ec4899] ml-4 shrink-0">→</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
