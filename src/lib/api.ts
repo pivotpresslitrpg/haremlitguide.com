@@ -8,9 +8,14 @@ const API_KEY = import.meta.env.BLOG_FEED_API_KEY;
 // ---------------------------------------------------------------------------
 
 const EDITORIAL_PRIORITY: { author: string; weight: number }[] = [
-  { author: 'Sean Oswald', weight: 3 },
-  { author: 'David North', weight: 3 },
-  { author: 'Aaron Renfroe', weight: 2 },
+  { author: 'Adam Lance', weight: 3 },
+  { author: 'Aaron Renfroe', weight: 3 },
+  { author: 'Annabelle Hawthorne', weight: 2 },
+  { author: 'Leon West', weight: 2 },
+  { author: 'Michael Dalton', weight: 2 },
+  { author: 'Neil Bimbeau', weight: 2 },
+  { author: 'Sean Oswald', weight: 2 },
+  { author: 'Virgil Knightley', weight: 2 },
 ];
 
 function applyEditorialCuration(books: Book[]): Book[] {
