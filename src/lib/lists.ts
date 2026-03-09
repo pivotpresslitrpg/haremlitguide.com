@@ -34,10 +34,6 @@ This list draws on community ratings from Harem-Lit.com — the largest tracking
         a: 'For readers new to the genre, He Who Fights With Monsters (Jason Cheyne) offers LitRPG with romantic elements and is widely accessible. For traditional harem fantasy, Azarinth Healer and The Beginning After The End are community favorites as starting points.',
       },
       {
-        q: 'Is harem fantasy the same as reverse harem?',
-        a: 'No — traditional harem fantasy features a male protagonist with multiple female love interests. Reverse harem (also called "why choose" romance) features a female protagonist with multiple male love interests. Both sub-genres have active communities and are tracked on this site.',
-      },
-      {
         q: 'Where can I find more harem fantasy readers?',
         a: 'The community hub for harem fantasy readers is Harem-Lit.com, which hosts ratings, discussions, and tracking for thousands of titles in the genre. Reddit\'s r/HaremFantasyNovels is also active.',
       },
@@ -67,33 +63,6 @@ What makes cultivation fiction distinct from other progression fantasy is the ph
       {
         q: 'What is the difference between xianxia and wuxia?',
         a: 'Wuxia is martial arts fiction set in a historical Chinese world — mortal warriors with exceptional physical skill. Xianxia adds supernatural cultivation: qi refinement, spiritual cultivation, immortal realms. Xianxia is the cultivation sub-genre; wuxia is its grounded, non-fantastical cousin.',
-      },
-    ],
-  },
-
-  'best-reverse-harem': {
-    title: 'Best Reverse Harem Fantasy Series',
-    description: 'The top reverse harem (why choose) fantasy series — female protagonist, multiple love interests, fantasy world.',
-    intro: `Reverse harem — known in the romance community as "why choose" — flips the traditional harem dynamic: a female protagonist who develops deep relationships with multiple male love interests, without being required to choose one. The genre has exploded in the last five years, particularly in fantasy settings where the tropes of progression fantasy and epic world-building give the relationship dynamics genuine stakes and context.
-
-Reverse harem fantasy does something the straight romance genre often struggles with: it gives the power fantasy appeal of the broader genre to a female protagonist who is both the center of relationships and the central agent of action. The best entries don't use the harem structure as wish fulfillment shorthand — they use it to explore genuinely complex dynamics across a cast of distinct, well-written characters.
-
-This list covers the best reverse harem fantasy with meaningful genre elements — adventure, magic systems, power progression, or world-building that gives the "why choose" dynamic something to operate against.`,
-    genre: 'Reverse Harem',
-    sort: 'top_rated',
-    limit: 25,
-    faq: [
-      {
-        q: 'What is reverse harem fantasy?',
-        a: 'Reverse harem (or "why choose") fantasy features a female protagonist who develops romantic relationships with multiple male characters, typically in a fantasy setting. Unlike traditional romance, the protagonist is not required to choose one partner — the multiple-relationship dynamic is part of the story\'s structure.',
-      },
-      {
-        q: 'Is reverse harem romance the same as reverse harem fantasy?',
-        a: 'Reverse harem romance focuses primarily on the romantic relationships, following genre conventions (happily ever after ending). Reverse harem fantasy uses the same relationship structure in an adventure or progression fantasy context, where the romance is one element alongside world-building, magic systems, and action.',
-      },
-      {
-        q: 'What is the best reverse harem fantasy series to start with?',
-        a: 'Zodiac Academy (Caroline Peckham & Susanne Valenti) is the most widely recommended entry point in reverse harem fantasy — it has a massive readership and is representative of the genre\'s appeal. For readers who want stronger LitRPG elements alongside the reverse harem dynamic, check our Harem LitRPG list.',
       },
     ],
   },
@@ -164,7 +133,7 @@ This list focuses on books that share the specific appeal of Azarinth Healer: ge
       },
       {
         q: 'Is Azarinth Healer a harem fantasy?',
-        a: 'Azarinth Healer has some romantic elements but is primarily a solo progression fantasy — it\'s not a harem series in the traditional sense. It appears on this site because it has a significant readership overlap with the harem fantasy community and because its female protagonist is of interest to reverse harem readers.',
+        a: 'Azarinth Healer has some romantic elements but is primarily a solo progression fantasy — it\'s not a harem series in the traditional sense. It appears on this site because it has a significant readership overlap with the harem fantasy community.',
       },
       {
         q: 'Is Azarinth Healer complete?',

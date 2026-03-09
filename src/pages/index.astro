@@ -14,7 +14,7 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "HaremLit Guide",
   "url": "https://haremlitguide.com",
-  "description": "Reader guides and ranked lists for harem fantasy, cultivation novels, reverse harem, and men's romance fiction.",
+  "description": "Reader guides and ranked lists for harem fantasy, cultivation novels, and men's romance fiction.",
 };
 
 const orgSchema = {
@@ -36,13 +36,13 @@ const orgSchema = {
     ]
   },
   "isPartOf": { "@type": "WebSite", "name": "Harem-Lit.com", "url": "https://harem-lit.com" },
-  "knowsAbout": ["Harem Fantasy", "Reverse Harem", "Men's Romance", "Isekai Romance", "Cultivation Harem", "LitRPG Harem"]
+  "knowsAbout": ["Harem Fantasy", "Men's Romance", "Isekai Romance", "Cultivation Harem", "LitRPG Harem"]
 };
 ---
 
 <BaseLayout
   title="HaremLit Guide — Harem Fantasy & Men's Romance Reading Guide"
-  description="The reader's guide to harem fantasy, cultivation novels, reverse harem, and men's romance fiction. Ranked lists, genre breakdowns, and new release tracking."
+  description="The reader's guide to harem fantasy, cultivation novels, and men's romance fiction. Ranked lists, genre breakdowns, and new release tracking."
   schema={[websiteSchema, orgSchema]}
 >
   <!-- Hero -->
@@ -53,7 +53,7 @@ const orgSchema = {
         Find your next great harem fantasy read.
       </h1>
       <p class="mt-4 text-lg text-[#888] max-w-xl">
-        Ranked lists, genre guides, and new release tracking for harem fantasy, cultivation, reverse harem, and men's adventure romance.
+        Ranked lists, genre guides, and new release tracking for harem fantasy, cultivation, and men's adventure romance.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
         <a href="/lists" class="bg-[#ec4899] hover:bg-[#db2777] text-white px-5 py-2.5 rounded font-medium transition-colors">
@@ -125,7 +125,6 @@ const orgSchema = {
         <ul class="space-y-2 text-sm">
           <li><a href="/lists/best-harem-fantasy-books" class="text-[#888] hover:text-[#ec4899] transition-colors">The 50 Best Harem Fantasy Books</a></li>
           <li><a href="/lists/best-cultivation-novels" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Cultivation Novels</a></li>
-          <li><a href="/lists/best-reverse-harem" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Reverse Harem Fantasy</a></li>
           <li><a href="/lists/best-harem-litrpg" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Harem LitRPG</a></li>
           <li><a href="/lists/best-completed-harem-series" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Completed Series</a></li>
         </ul>

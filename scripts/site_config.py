@@ -74,7 +74,6 @@ CONFIG = {
 
     'explainer_topics': [
         'Harem Fantasy',
-        'Reverse Harem',
         'Monster Girls',
         'Isekai Romance',
         'Dungeon Harem',

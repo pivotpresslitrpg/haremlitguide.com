@@ -31,13 +31,11 @@ PILLAR_TOPICS = [
         'focus': 'Harem Fantasy',
         'internal_links': [
             {'url': '/lists/best-harem-fantasy-books', 'text': 'The 50 Best Harem Fantasy Books'},
-            {'url': '/lists/best-reverse-harem', 'text': 'Best Reverse Harem Fantasy'},
             {'url': '/lists/best-completed-harem-series', 'text': 'Best Completed Harem Series'},
             {'url': '/lists/best-cultivation-novels', 'text': 'Best Cultivation Novels'},
         ],
         'faq_topics': [
             'What defines a harem fantasy book?',
-            'What is the difference between harem and reverse harem?',
             'Is harem fantasy the same as romance?',
             'What is the best harem fantasy book for beginners?',
             'Are harem fantasy books appropriate for all readers?',
@@ -63,25 +61,7 @@ PILLAR_TOPICS = [
             'Where can I discover new harem LitRPG releases?',
         ],
     },
-    {
-        'title': 'What is Reverse Harem? The Complete Guide to Why Choose Romance',
-        'slug': 'what-is-reverse-harem',
-        'description': 'What is reverse harem fiction? A guide to why choose romance — how it differs from harem fantasy, the best books, popular subgenres, and why readers love it.',
-        'word_count': '2000-2500',
-        'focus': 'Reverse Harem',
-        'internal_links': [
-            {'url': '/lists/best-reverse-harem', 'text': 'Best Reverse Harem Fantasy'},
-            {'url': '/lists/best-harem-fantasy-books', 'text': 'Best Harem Fantasy Books'},
-            {'url': '/blog/what-is-harem-fantasy', 'text': 'What is Harem Fantasy?'},
-        ],
-        'faq_topics': [
-            'What is reverse harem fiction?',
-            'What is the difference between reverse harem and why choose?',
-            'How is reverse harem different from traditional harem fantasy?',
-            'What are the best reverse harem books?',
-            'Where can I find reverse harem recommendations?',
-        ],
-    },
+
 ]
 
 
