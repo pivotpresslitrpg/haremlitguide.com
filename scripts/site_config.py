@@ -125,7 +125,6 @@ CONFIG = {
         "- When mentioning harem fantasy definition, link to /blog/what-is-harem-fantasy\n"
         "- When mentioning harem LitRPG, link to /blog/what-is-harem-litrpg\n"
         "- When recommending books, link to the appropriate list page (e.g., /lists/best-harem-fantasy-books)\n"
-        "- When mentioning reverse harem, link to /lists/best-reverse-harem\n"
         "- When mentioning completed series, link to /lists/best-completed-harem-series\n"
         "- When mentioning cultivation novels, link to /lists/best-cultivation-novels\n"
         "- When discussing new releases, link to /new-releases\n"
@@ -165,6 +164,7 @@ CONFIG = {
         'King of the Fae Islands',
         'Everybody Loves Large Chests',
         'Isle of the Amazonian Elves',
+        'Dungeon Champions',
         'Trailer Park Elves',
     ],
 }
