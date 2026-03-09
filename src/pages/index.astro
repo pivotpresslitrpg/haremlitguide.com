@@ -26,9 +26,17 @@ const orgSchema = {
   "parentOrganization": {
     "@type": "Organization",
     "name": "Pivot Press Publishing",
-    "url": "https://harem-lit.com"
+    "url": "https://litrpgtools.com",
+    "subOrganization": [
+      { "@type": "Organization", "name": "LitRPG Critic", "url": "https://litrpgcritic.com" },
+      { "@type": "Organization", "name": "HaremLit Guide", "url": "https://haremlitguide.com" },
+      { "@type": "Organization", "name": "Fantasy Ranked", "url": "https://fantasyranked.com" },
+      { "@type": "Organization", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
+      { "@type": "Organization", "name": "Harem-Lit.com", "url": "https://harem-lit.com" }
+    ]
   },
-  "sameAs": ["https://litrpgcritic.com", "https://fantasyranked.com"]
+  "isPartOf": { "@type": "WebSite", "name": "Harem-Lit.com", "url": "https://harem-lit.com" },
+  "knowsAbout": ["Harem Fantasy", "Reverse Harem", "Men's Romance", "Isekai Romance", "Cultivation Harem", "LitRPG Harem"]
 };
 ---
 
