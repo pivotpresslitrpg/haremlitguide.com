@@ -9,19 +9,33 @@ const [topBooks, recentBooks] = await Promise.all([
   getRecentBooks(30, 6),
 ]);
 
-const schema = {
+const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "HaremLit Guide",
   "url": "https://haremlitguide.com",
   "description": "Reader guides and ranked lists for harem fantasy, cultivation novels, reverse harem, and men's romance fiction.",
 };
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HaremLit Guide",
+  "url": "https://haremlitguide.com",
+  "description": "Reader guides and ranked lists for harem fantasy and men's romance fiction.",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Pivot Press Publishing",
+    "url": "https://harem-lit.com"
+  },
+  "sameAs": ["https://litrpgcritic.com", "https://fantasyranked.com"]
+};
 ---
 
 <BaseLayout
   title="HaremLit Guide — Harem Fantasy & Men's Romance Reading Guide"
   description="The reader's guide to harem fantasy, cultivation novels, reverse harem, and men's romance fiction. Ranked lists, genre breakdowns, and new release tracking."
-  schema={schema}
+  schema={[websiteSchema, orgSchema]}
 >
   <!-- Hero -->
   <section class="border-b border-[#2e2e2e] py-12 px-4">

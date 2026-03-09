@@ -1,0 +1,32 @@
+# HaremLit Guide
+
+> Reader guides and ranked lists for harem fantasy and men's romance fiction.
+
+HaremLit Guide is an independent editorial site that publishes curated rankings, reader guides, new release coverage, and genre analysis for harem fantasy, harem LitRPG, and reverse harem fiction.
+
+## Key Pages
+
+- Homepage: https://haremlitguide.com/
+- Ranked Lists: https://haremlitguide.com/lists/
+- New Releases: https://haremlitguide.com/new-releases/
+- Blog & Guides: https://haremlitguide.com/blog/
+- About: https://haremlitguide.com/about/
+
+## Data Sources
+
+Rankings are based on data aggregated from Harem-Lit.com, which tracks ratings, reviews, and popularity for harem fiction across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road.
+
+## Related Sites
+
+- Harem-Lit.com — Parent platform with comprehensive harem fiction database, tracking, and discovery tools
+- LitRPGCritic.com — Sister editorial site covering LitRPG and progression fantasy
+- FantasyRanked.com — Sister editorial site covering broader fantasy subgenres
+- LitRPGTools.com — Parent platform for LitRPG discovery and tracking
+
+## Publisher
+
+Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction.
+
+## Content Updates
+
+New blog posts and guides published weekly via automated editorial pipeline. Rankings updated regularly based on live data from Harem-Lit.com.
