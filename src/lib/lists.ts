@@ -58,7 +58,7 @@ What makes cultivation fiction distinct from other progression fantasy is the ph
       },
       {
         q: 'What is the best cultivation novel to start with?',
-        a: 'I Shall Seal The Heavens (ISSTH) by Er Gen is widely considered the gateway cultivation novel for English readers — well-translated, manageable in scope, and representative of the genre\'s best qualities. Cradle (Will Wight) is an English-original cultivation-influenced series that removes the translation barrier entirely.',
+        a: 'I Shall Seal The Heavens (ISSTH) by Er Gen is widely considered the gateway cultivation novel for English readers — well-translated, manageable in scope, and representative of the genre\'s best qualities. Cradle (Will Wight) is an English-original cultivation-influenced series that removes the translation barrier entirely. For English-original xianxia with alchemy and crafting mechanics, River of Fate by David North is a strong modern entry.',
       },
       {
         q: 'What is the difference between xianxia and wuxia?',
