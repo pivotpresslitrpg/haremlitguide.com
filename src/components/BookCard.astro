@@ -59,7 +59,7 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
       {book.review_count > 0 && (
         <span class="text-xs text-[#666]">{book.review_count.toLocaleString()} ratings</span>
       )}
-      {book.genres.slice(0, 2).map(g => (
+      {book.genres.filter(g => g.toLowerCase() !== 'reverse harem').slice(0, 2).map(g => (
         <span class="text-xs bg-[#1a1a1a] border border-[#2e2e2e] text-[#888] px-2 py-0.5 rounded">
           {g}
         </span>

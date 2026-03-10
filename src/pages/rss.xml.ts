@@ -8,7 +8,7 @@ export async function GET(context: APIContext) {
 
   return rss({
     title: 'HaremLit Guide',
-    description: 'Harem fantasy rankings — the best harem LitRPG, cultivation novels, and men's romance fiction.',
+    description: "Harem fantasy rankings — the best harem LitRPG, cultivation novels, and men's romance fiction.",
     site: context.site!,
     xmlns: { atom: 'http://www.w3.org/2005/Atom' },
     items: posts.map(post => ({

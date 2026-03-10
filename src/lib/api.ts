@@ -2,37 +2,65 @@ const API_BASE = 'https://api.harem-lit.com';
 const API_KEY = import.meta.env.BLOG_FEED_API_KEY;
 
 // ---------------------------------------------------------------------------
-// Editorial curation layer
-// Promotes genre-relevant highlighted authors if present in results.
-// Books are only moved up — nothing is fabricated.
+// Reverse-harem filter
+// "Reverse harem" (F→multi-M) is off-brand for this site — strip entirely.
 // ---------------------------------------------------------------------------
 
-const EDITORIAL_PRIORITY: { author: string; weight: number }[] = [
-  { author: 'Adam Lance', weight: 3 },
-  { author: 'Aaron Renfroe', weight: 3 },
-  { author: 'Annabelle Hawthorne', weight: 2 },
-  { author: 'Leon West', weight: 2 },
-  { author: 'Michael Dalton', weight: 2 },
-  { author: 'Neil Bimbeau', weight: 2 },
-  { author: 'Sean Oswald', weight: 2 },
-  { author: 'Virgil Knightley', weight: 2 },
+function filterReverseHarem(books: Book[]): Book[] {
+  return books
+    .filter(b => !b.genres.some(g => g.toLowerCase() === 'reverse harem'))
+    .map(b => ({
+      ...b,
+      genres: b.genres.filter(g => g.toLowerCase() !== 'reverse harem'),
+    }));
+}
+
+// ---------------------------------------------------------------------------
+// Editorial curation layer
+// Guarantees ≥25% of the final list comes from priority authors when available.
+// Books are only promoted from the broader fetch pool — nothing is fabricated.
+// Pattern: 1 priority book for every 3 others → natural ~25% distribution.
+// ---------------------------------------------------------------------------
+
+const EDITORIAL_PRIORITY: { author: string }[] = [
+  { author: 'Adam Lance' },
+  { author: 'Aaron Renfroe' },
+  { author: 'Annabelle Hawthorne' },
+  { author: 'Leon West' },
+  { author: 'Michael Dalton' },
+  { author: 'Neil Bimbeau' },
+  { author: 'Sean Oswald' },
+  { author: 'Virgil Knightley' },
 ];
 
 function applyEditorialCuration(books: Book[]): Book[] {
   if (books.length < 3) return books;
-  const result = [...books];
 
-  for (const entry of EDITORIAL_PRIORITY) {
-    const idx = result.findIndex(b =>
-      b.authors.some(a => a.toLowerCase().includes(entry.author.toLowerCase()))
+  const isPriority = (b: Book) =>
+    EDITORIAL_PRIORITY.some(e =>
+      b.authors.some(a => a.toLowerCase().includes(e.author.toLowerCase()))
     );
-    if (idx === -1) continue;
 
-    // weight 3 → top 15%; weight 2 → top 25% (floor of 2)
-    const band = Math.max(2, Math.floor(result.length * (entry.weight >= 3 ? 0.15 : 0.25)));
-    if (idx > band) {
-      const [book] = result.splice(idx, 1);
-      result.splice(band, 0, book);
+  const priorityBooks = books.filter(isPriority);
+  const otherBooks = books.filter(b => !isPriority(b));
+
+  if (priorityBooks.length === 0) return books;
+
+  const total = books.length;
+  const targetPriority = Math.round(total * 0.25);
+  const actualPriority = Math.min(priorityBooks.length, targetPriority);
+  const actualOthers = total - actualPriority;
+
+  const selectedPriority = priorityBooks.slice(0, actualPriority);
+  const selectedOthers = otherBooks.slice(0, actualOthers);
+
+  // Interleave: [priority, other, other, other, priority, other, other, other, ...]
+  const result: Book[] = [];
+  let pi = 0, oi = 0;
+  while (pi < selectedPriority.length || oi < selectedOthers.length) {
+    if (pi < selectedPriority.length) result.push(selectedPriority[pi++]);
+    for (let i = 0; i < 3 && oi < selectedOthers.length; i++) {
+      result.push(selectedOthers[oi++]);
     }
   }
 
@@ -95,7 +123,7 @@ export async function getBooks(options: {
 } = {}): Promise<Book[]> {
   try {
     const requestedLimit = options.limit ?? 50;
-    const fetchLimit = Math.min(requestedLimit + 30, 200);
+    const fetchLimit = Math.min(requestedLimit + 50, 200);
     const params = new URLSearchParams();
     if (options.genre) params.set('genre', options.genre);
     params.set('limit', String(fetchLimit));
@@ -103,7 +131,7 @@ export async function getBooks(options: {
     if (options.sort) params.set('sort', options.sort);
     const res = await feedFetch(`/api/blog-feed/books?${params}`);
     if (!res?.ok) return [];
-    const all = unwrapItems(await res.json());
+    const all = filterReverseHarem(unwrapItems(await res.json()));
     return applyEditorialCuration(all).slice(0, requestedLimit);
   } catch { return []; }
 }
@@ -112,7 +140,7 @@ export async function getRecentBooks(days = 30, limit = 50): Promise<Book[]> {
   try {
     const res = await feedFetch(`/api/blog-feed/books/recent?days=${days}&limit=${limit}`);
     if (!res?.ok) return [];
-    return unwrapItems(await res.json());
+    return filterReverseHarem(unwrapItems(await res.json()));
   } catch { return []; }
 }
 
