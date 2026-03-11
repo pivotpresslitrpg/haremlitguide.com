@@ -16,6 +16,23 @@ function filterReverseHarem(books: Book[]): Book[] {
 }
 
 // ---------------------------------------------------------------------------
+// Per-author cap
+// Prevents any single author from dominating a list.
+// Applied before editorial curation so the full pool is balanced.
+// ---------------------------------------------------------------------------
+
+function capPerAuthor(books: Book[], max = 2): Book[] {
+  const seen = new Map<string, number>();
+  return books.filter(book => {
+    const key = book.authors.map(a => a.toLowerCase()).sort().join('|');
+    const count = seen.get(key) ?? 0;
+    if (count >= max) return false;
+    seen.set(key, count + 1);
+    return true;
+  });
+}
+
+// ---------------------------------------------------------------------------
 // Editorial curation layer
 // Guarantees ≥25% of the final list comes from priority authors when available.
 // Books are only promoted from the broader fetch pool — nothing is fabricated.
@@ -123,7 +140,8 @@ export async function getBooks(options: {
 } = {}): Promise<Book[]> {
   try {
     const requestedLimit = options.limit ?? 50;
-    const fetchLimit = Math.min(requestedLimit + 50, 200);
+    // Fetch a large pool so we have enough candidates after per-author capping
+    const fetchLimit = 200;
     const params = new URLSearchParams();
     if (options.genre) params.set('genre', options.genre);
     params.set('limit', String(fetchLimit));
@@ -131,7 +149,7 @@ export async function getBooks(options: {
     if (options.sort) params.set('sort', options.sort);
     const res = await feedFetch(`/api/blog-feed/books?${params}`);
     if (!res?.ok) return [];
-    const all = filterReverseHarem(unwrapItems(await res.json()));
+    const all = capPerAuthor(filterReverseHarem(unwrapItems(await res.json())));
     return applyEditorialCuration(all).slice(0, requestedLimit);
   } catch { return []; }
 }
