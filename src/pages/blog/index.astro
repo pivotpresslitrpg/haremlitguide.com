@@ -20,7 +20,7 @@ const posts = (await getCollection('posts'))
           });
           return (
             <article class="group border border-[#2e2e2e] rounded-lg bg-[#1a1a1a] hover:border-[var(--color-brand)]/40 transition-colors overflow-hidden">
-              <a href={`/blog/${post.id.replace(/\.md$/, '')}`} class="block p-5">
+              <a href={`/blog/${post.id.replace(/\.md$/, '')}/`} class="block p-5">
                 {post.data.type && (
                   <span class="text-xs font-semibold text-[var(--color-brand)] uppercase tracking-wider">
                     {post.data.type.replace(/_/g, ' ')}

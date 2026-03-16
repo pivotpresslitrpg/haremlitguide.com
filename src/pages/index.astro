@@ -56,10 +56,10 @@ const orgSchema = {
         Ranked lists, genre guides, and new release tracking for harem fantasy, cultivation, and men's adventure romance.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
-        <a href="/lists" class="bg-[#ec4899] hover:bg-[#db2777] text-white px-5 py-2.5 rounded font-medium transition-colors">
+        <a href="/lists/" class="bg-[#ec4899] hover:bg-[#db2777] text-white px-5 py-2.5 rounded font-medium transition-colors">
           Browse Lists
         </a>
-        <a href="/new-releases" class="border border-[#2e2e2e] hover:border-[#ec4899]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
+        <a href="/new-releases/" class="border border-[#2e2e2e] hover:border-[#ec4899]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
           New Releases
         </a>
       </div>
@@ -76,7 +76,7 @@ const orgSchema = {
         <section>
           <div class="flex items-center justify-between mb-5">
             <h2 class="text-xl font-bold text-white">New Releases</h2>
-            <a href="/new-releases" class="text-sm text-[#ec4899] hover:underline">See all →</a>
+            <a href="/new-releases/" class="text-sm text-[#ec4899] hover:underline">See all →</a>
           </div>
           <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
             {recentBooks.map(book => (
@@ -92,7 +92,7 @@ const orgSchema = {
         <div class="grid grid-cols-2 gap-3">
           {Object.entries(listConfig).map(([slug, config]) => (
             <a
-              href={`/lists/${slug}`}
+              href={`/lists/${slug}/`}
               class="bg-[#1a1a1a] border border-[#2e2e2e] hover:border-[#ec4899]/40 rounded-lg p-4 text-sm font-medium text-[#888] hover:text-white transition-colors"
             >
               {config.title.replace(/^(The |Best )/, '')} →
@@ -107,7 +107,7 @@ const orgSchema = {
       <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
         <div class="flex items-center justify-between mb-4">
           <h2 class="font-bold text-white">Top Rated</h2>
-          <a href="/lists/best-harem-fantasy-books" class="text-xs text-[#ec4899] hover:underline">Full list →</a>
+          <a href="/lists/best-harem-fantasy-books/" class="text-xs text-[#ec4899] hover:underline">Full list →</a>
         </div>
         {topBooks.length > 0 ? (
           <div class="divide-y divide-[#2e2e2e]">
@@ -123,10 +123,10 @@ const orgSchema = {
       <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
         <h2 class="font-bold text-white mb-3">Popular Lists</h2>
         <ul class="space-y-2 text-sm">
-          <li><a href="/lists/best-harem-fantasy-books" class="text-[#888] hover:text-[#ec4899] transition-colors">The 50 Best Harem Fantasy Books</a></li>
-          <li><a href="/lists/best-cultivation-novels" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Cultivation Novels</a></li>
-          <li><a href="/lists/best-harem-litrpg" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Harem LitRPG</a></li>
-          <li><a href="/lists/best-completed-harem-series" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Completed Series</a></li>
+          <li><a href="/lists/best-harem-fantasy-books/" class="text-[#888] hover:text-[#ec4899] transition-colors">The 50 Best Harem Fantasy Books</a></li>
+          <li><a href="/lists/best-cultivation-novels/" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Cultivation Novels</a></li>
+          <li><a href="/lists/best-harem-litrpg/" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Harem LitRPG</a></li>
+          <li><a href="/lists/best-completed-harem-series/" class="text-[#888] hover:text-[#ec4899] transition-colors">Best Completed Series</a></li>
         </ul>
       </section>
     </aside>
