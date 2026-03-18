@@ -1,11 +1,11 @@
 ---
 title: "What Is Urban Fantasy Harem? Supernatural Romance in the Modern World"
 description: "Urban fantasy harem blends contemporary city settings with hidden magic, supernatural factions, and multi-partner romance. Explore the best urban fantasy harem books and series."
-date: "2026-03-17"
+date: "2026-03-26"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["urban fantasy", "urban fantasy harem", "supernatural romance", "modern fantasy", "vampires", "fae", "demons", "harem fantasy", "Dragon's Justice", "Bruce Sentar", "Demon Hunter", "Michael Dalton", "Fate's Enforcer", "Adam Lance", "Chase Kilgore", "noir fantasy"]
-featured: true
+featured: false
 faq:
   - q: "How is urban fantasy harem different from paranormal romance?"
     a: "While both feature supernatural elements in modern settings, urban fantasy harem places heavier emphasis on action, world-building, and faction politics. Paranormal romance typically centers the love story as the primary plot. Urban fantasy harem gives equal weight to the supernatural conflicts — the romance develops alongside monster hunting, faction wars, and mystery solving."

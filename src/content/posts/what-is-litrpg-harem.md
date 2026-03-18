@@ -1,11 +1,11 @@
 ---
 title: "What Is LitRPG Harem? Game Mechanics Meet Romance"
 description: "LitRPG harem blends RPG game mechanics — stats, skill trees, leveling — with multi-partner romance in fantasy settings. Discover the best LitRPG harem books and series."
-date: "2026-03-17"
+date: "2026-03-21"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["litrpg harem", "litrpg", "harem litrpg", "game mechanics", "stat sheets", "leveling", "Dungeon Diving", "Bruce Sentar", "Irrelevant Jack", "Prax Venter", "Dungeon Champions", "Adam Lance", "Leon West", "rpg fantasy", "skill trees"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between LitRPG harem and GameLit harem?"
     a: "LitRPG harem features explicit, visible game mechanics — characters can see their stat sheets, XP bars, skill trees, and level-up notifications. GameLit harem uses game-inspired concepts (classes, quests, abilities) but keeps the mechanics lighter and more in the background. Think of LitRPG as the crunchy, numbers-heavy version."

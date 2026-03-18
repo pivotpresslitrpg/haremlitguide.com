@@ -1,11 +1,11 @@
 ---
 title: "What Is Dungeon Crawl Harem? Party-Based Fantasy Adventure"
 description: "Dungeon crawl harem combines classic dungeon delving — monsters, traps, treasure — with party-based romance. Discover the best dungeon crawl harem books and what makes this subgenre tick."
-date: "2026-03-17"
+date: "2026-03-24"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["dungeon crawl", "dungeon crawl harem", "dungeon delving", "party combat", "harem fantasy", "boss fights", "loot", "Dungeon Diving", "Bruce Sentar", "Dungeon Champions", "Adam Lance", "Leon West", "Isle of the Amazonian Elves", "Halls of Magic", "Annabelle Hawthorne"]
-featured: true
+featured: false
 faq:
   - q: "How is dungeon crawl harem different from LitRPG harem?"
     a: "All dungeon crawl harem features dungeon exploration as the central activity, but not all of it includes explicit game mechanics. LitRPG harem always has visible stats, XP, and level-up systems. A dungeon crawl harem can be set in a purely magical world with no game mechanics at all — the dungeon itself is the defining feature, not the system."

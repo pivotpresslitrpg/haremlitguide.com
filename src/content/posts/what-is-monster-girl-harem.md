@@ -5,7 +5,7 @@ date: "2026-03-17"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["monster girl", "monster girl harem", "interspecies romance", "elves", "catgirls", "lamia", "kitsune", "harem fantasy", "Radley's Home for Horny Monsters", "Annabelle Hawthorne", "Monster Girl Islands", "Logan Jacobs", "Slime Keeper", "Leon West", "Monster Masseur", "Virgil Knightley", "non-human romance"]
-featured: true
+featured: false
 faq:
   - q: "What counts as a monster girl?"
     a: "In HaremLit, 'monster girl' broadly covers any love interest who isn't fully human. This ranges from near-human species like elves, catgirls, and fox-women (kitsune) to more exotic forms like lamias (snake-women), arachne (spider-women), centaurs, and slime girls. The defining feature is a blend of human and non-human traits, both in appearance and in culture."

@@ -1,11 +1,11 @@
 ---
 title: "What Is Isekai Harem? Portal Fantasy Meets Romance"
 description: "Isekai harem combines portal fantasy with multi-partner romance — a protagonist transported to another world builds alliances and romantic bonds. Discover the best isekai harem books here."
-date: "2026-03-17"
+date: "2026-03-19"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["isekai", "isekai harem", "portal fantasy", "harem fantasy", "transported to another world", "Billy the Barbarian", "Virgil Knightley", "Trailer Park Elves", "Adam Lance", "Michael Dalton", "Slime Keeper", "Leon West", "overpowered protagonist"]
-featured: true
+featured: false
 faq:
   - q: "What does isekai mean?"
     a: "Isekai is a Japanese term meaning 'another world.' In fiction, it refers to stories where a character from Earth is transported, reincarnated, or summoned into a different world — usually one with fantasy or game-like elements. The isekai harem subgenre adds multi-partner romance to this premise."

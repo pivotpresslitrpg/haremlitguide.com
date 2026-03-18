@@ -1,11 +1,11 @@
 ---
 title: "What Is Slice-of-Life Harem? Cozy Fantasy Romance"
 description: "Slice-of-life harem focuses on low-stakes daily life, cozy domesticity, and character-driven romance in fantasy settings. Explore the best cozy harem books and what makes this subgenre so beloved."
-date: "2026-03-17"
+date: "2026-04-02"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["slice of life", "slice-of-life harem", "cozy fantasy", "cozy harem", "found family", "farming", "homesteading", "Trailer Park Elves", "Adam Lance", "Michael Dalton", "Slime Keeper", "Leon West", "Red Elf Ranch", "Bikini Days", "Fertile Valley", "Annabelle Hawthorne", "Virgil Knightley", "Our Own Way", "Misty Vixen"]
-featured: true
+featured: false
 faq:
   - q: "Is slice-of-life harem boring because there's no combat?"
     a: "Not at all — though 'boring' depends on what you're looking for. Slice-of-life harem replaces combat tension with character tension: relationship milestones, community challenges, personal growth, and the quiet drama of building a life together. If you enjoy cozy games like Stardew Valley or Animal Crossing, you already appreciate this kind of storytelling."

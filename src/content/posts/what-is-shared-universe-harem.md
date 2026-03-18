@@ -1,11 +1,11 @@
 ---
 title: "What Is Shared Universe Harem? Connected World Fantasy"
 description: "Shared universe harem features multiple interconnected series set in one world — crossover characters, shared lore, and expanding mythology. Explore the best shared universe harem projects."
-date: "2026-03-17"
+date: "2026-04-14"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["shared universe", "shared universe harem", "connected world", "crossover", "harem fantasy", "Fateforged Universe", "Adam Lance", "Michael Dalton", "Leon West", "Annabelle Hawthorne", "Daniel Schinhofen", "interconnected series", "expanded universe", "Empyrean Universe"]
-featured: true
+featured: false
 faq:
   - q: "Do I need to read every series in a shared universe?"
     a: "No. The best shared universes are designed so each series works as a standalone experience. You'll catch additional references, Easter eggs, and crossover moments if you've read other series in the universe, but no single series requires knowledge of another to be enjoyed on its own terms."

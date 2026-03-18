@@ -1,11 +1,11 @@
 ---
 title: "What Is Academy Harem? Magical Schools and Campus Romance"
 description: "Academy harem combines magical school settings — tournaments, rivalries, exams — with multi-partner campus romance. Discover the best academy harem books and why this subgenre thrives."
-date: "2026-03-17"
+date: "2026-04-09"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["academy harem", "academy", "magical school", "campus romance", "harem fantasy", "tournaments", "school rankings", "Aether's Revival", "Daniel Schinhofen", "Incubus R.A.", "Virgil Knightley", "Nosferatu Academy", "Mage Heir", "Wolfe Locke", "magical academy", "school fantasy"]
-featured: true
+featured: false
 faq:
   - q: "Is academy harem similar to Harry Potter but with romance?"
     a: "That's not a bad starting comparison. Academy harem takes the magical school concept — classes, professors, rivalries, dormitories — and adds multi-partner romance. But the protagonists are typically older (college-age or equivalent) and the stories are aimed at adult readers, so the stakes, themes, and relationships are more mature than YA magical school fiction."

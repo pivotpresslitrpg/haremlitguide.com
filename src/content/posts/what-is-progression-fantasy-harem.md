@@ -1,11 +1,11 @@
 ---
 title: "What Is Progression Fantasy Harem? Power Growth Meets Romance"
 description: "Progression fantasy harem follows protagonists who grow systematically stronger through training, combat, and magical advancement — with multiple romantic partners growing alongside them."
-date: "2026-03-17"
+date: "2026-03-31"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["progression fantasy", "progression fantasy harem", "power growth", "cultivation", "training arcs", "harem fantasy", "Aether's Revival", "Daniel Schinhofen", "A Mage's Cultivation", "Bruce Sentar", "Martial Arts Master", "Leon West", "Feral Mage", "Chase Kilgore", "Mage Heir", "Wolfe Locke", "tournaments"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between progression fantasy harem and LitRPG harem?"
     a: "Both feature protagonists getting stronger, but the mechanism differs. LitRPG harem uses explicit game mechanics — stat sheets, XP, skill trees. Progression fantasy harem tracks power growth through narrative means — training montages, breakthroughs, tier advancements — without necessarily showing a character screen. Progression fantasy is about the journey of getting stronger; LitRPG is about the system that quantifies it."

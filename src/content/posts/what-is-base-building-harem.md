@@ -1,11 +1,11 @@
 ---
 title: "What Is Base-Building Harem? Kingdom Management Meets Romance"
 description: "Base-building harem combines settlement construction, resource management, and kingdom development with multi-partner romance. Explore the best base-building harem books and series."
-date: "2026-03-17"
+date: "2026-03-28"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["base building", "base-building harem", "kingdom building", "settlement building", "harem fantasy", "resource management", "crafting", "Heretic Spellblade", "K.D. Robertson", "Isekai Emperor", "Trailer Park Elves", "Idle Village Hero", "Leon West", "Adam Lance"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between base-building and empire-building harem?"
     a: "Base-building focuses on the hands-on construction and management of settlements — think crafting walls, assigning workers, gathering resources. Empire-building harem zooms out to political strategy, diplomacy between nations, and large-scale warfare. Many series blend both, but the emphasis differs. Base-building is SimCity; empire-building is Civilization."

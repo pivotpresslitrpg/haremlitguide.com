@@ -1,11 +1,11 @@
 ---
 title: "What Is Superhero Harem? Capes, Powers, and Romance"
 description: "Superhero harem combines superpowered heroes, secret identities, and team-based action with multi-partner romance. Explore the best superhero harem books and what makes this subgenre unique."
-date: "2026-03-17"
+date: "2026-04-07"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["superhero harem", "superhero", "superpowers", "capes", "harem fantasy", "secret identities", "team building", "Saving Supervillains", "Bruce Sentar", "I Don't Want to Be the Hero", "M.E. Thorne", "power fantasy", "comic book inspired"]
-featured: true
+featured: false
 faq:
   - q: "Is superhero harem inspired by Marvel or DC comics?"
     a: "The subgenre draws on the same wellspring of superhero fiction — powers, costumes, secret identities, heroic organizations — but creates original worlds and characters. Think of it as comic-book energy translated into novel form with the romantic depth that mainstream superhero stories rarely explore."

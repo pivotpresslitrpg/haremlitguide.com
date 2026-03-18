@@ -1,11 +1,11 @@
 ---
 title: "What Is Empire-Building Harem? Political Fantasy and Romance"
 description: "Empire-building harem combines nation leadership, political intrigue, diplomacy, and warfare with multi-partner romance. Explore the best empire-building harem books and series."
-date: "2026-03-17"
+date: "2026-04-11"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["empire building", "empire-building harem", "kingdom building", "political fantasy", "nation building", "harem fantasy", "Heretic Spellblade", "K.D. Robertson", "Ard's Oath", "Bruce Sentar", "Demon's Throne", "Isle of the Amazonian Elves", "Adam Lance", "Leon West", "war strategy", "faction diplomacy"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between empire-building and base-building harem?"
     a: "Scale and focus. Base-building harem is about constructing and managing individual settlements — placing buildings, gathering resources, defending walls. Empire-building harem zooms out to nations and factions — managing diplomacy between kingdoms, commanding armies, navigating political intrigue. Think of base-building as the mayor's job and empire-building as the king's."

@@ -1,11 +1,11 @@
 ---
 title: "What Is GameLit Harem? Game-Inspired Fantasy Romance"
 description: "GameLit harem features game-inspired worlds with quests, classes, and abilities — but lighter mechanics than LitRPG. Discover the best GameLit harem books and how this subgenre differs from LitRPG."
-date: "2026-03-17"
+date: "2026-04-04"
 type: "genre_explainer"
 author: "The HaremLit Guide"
 tags: ["gamelit", "gamelit harem", "game-inspired fantasy", "quests", "character classes", "harem fantasy", "Binding Words", "Daniel Schinhofen", "Accidental Goblin King", "Leon West", "Goblin Apocalypse", "Michael Dalton", "Backyard Dungeon", "Logan Jacobs", "lite rpg", "adventure fantasy"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between GameLit and LitRPG?"
     a: "LitRPG features explicit, visible game mechanics — stat sheets, XP bars, skill point allocation. GameLit uses game-inspired concepts like character classes, quest systems, and abilities, but keeps the numbers in the background. If LitRPG is playing an RPG, GameLit is living in a world that feels like an RPG without constantly checking your character sheet."
