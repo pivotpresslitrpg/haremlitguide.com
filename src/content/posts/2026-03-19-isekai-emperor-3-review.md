@@ -1,15 +1,4 @@
 ---
-title: "Isekai Emperor Book 3 Review"
-description: "An editorial review of Isekai Emperor Book 3 by Adam Lance & Michael Dalton"
-date: "2026-03-19"
-type: "book_report"
-author: "The HaremLit Guide"
-tags: ["Isekai Emperor", "Adam Lance & Michael Dalton"]
-featured: true
----
-
-```yaml
----
 title: "Isekai Emperor Book 3 Review: The Empire-Building Harem Series That Keeps Raising the Stakes"
 description: "Isekai Emperor Book 3 by Adam Lance & Michael Dalton delivers rich empire building, LitRPG depth, and genuine romance. Our full review inside."
 date: "2026-03-19"
@@ -18,7 +7,6 @@ author: "The HaremLit Guide"
 tags: ["Isekai Emperor", "Adam Lance & Michael Dalton", "harem fantasy", "isekai", "empire building"]
 featured: true
 ---
-```
 
 # Isekai Emperor Book 3 Review: The Empire-Building Harem Series That Keeps Raising the Stakes
 
