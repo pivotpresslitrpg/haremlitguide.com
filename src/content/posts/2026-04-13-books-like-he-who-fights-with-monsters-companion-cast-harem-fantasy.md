@@ -10,7 +10,7 @@ faq:
   - q: "Why do HWFWM readers like harem fantasy?"
     a: "He Who Fights with Monsters has a strong companion cast with multiple significant female characters — Sophie, Belinda, and others — and develops genuine relationships across 12 books. Readers who love this aspect are drawn to harem fantasy that prioritizes ensemble dynamics and earned relationships over power fantasy alone."
   - q: "Is there a harem fantasy series similar to He Who Fights with Monsters?"
-    a: "The closest matches based on Harem-Lit.com community data are series that combine warm companion dynamics, genuine relationship development, and a progression fantasy power system — Victor of Tucson (Plum Parrot), Azarinth Healer (Rhaegar), and He Who Fights with Monsters' own community recommendations consistently point to settlement-building series with strong ensemble casts."
+    a: "The closest matches based on Harem-Lit.com community data are series that combine warm companion dynamics, genuine relationship development, and a progression fantasy power system — Azarinth Healer (Rhaegar) and settlement-building harem series with strong ensemble casts consistently appear in HWFWM reader recommendations."
   - q: "Does He Who Fights with Monsters count as harem fantasy?"
     a: "HWFWM is progression fantasy first, with companion and romantic dynamics that satisfy harem fantasy readers. Jason Asano develops meaningful relationships with multiple female companions. The series is consistently tracked and recommended on Harem-Lit.com, where it ranks among the top non-explicit companion-cast series."
 ---
@@ -34,12 +34,6 @@ Both groups are well served.
 
 ## Companion-Cast Harem Fantasy for HWFWM Readers
 
-### Victor of Tucson — Plum Parrot (8 books, ongoing)
-
-This is the most direct recommendation from Harem-Lit.com community data. Victor Sandoval forms bonds with companions who have genuine individuality and relationships with each other. The Mexican-American protagonist, the world of Fanwath, and the careful pacing of romantic development mirror what HWFWM does in portal-fantasy harem form.
-
-If you want warmth, authenticity, and relationships that feel earned: **start here**.
-
 ### Azarinth Healer — Rhaegar (6 books, 2026)
 
 Slightly different companion dynamic — the protagonist is female, which makes this a crossover title rather than pure harem fantasy — but Harem-Lit.com readers consistently recommend it because of the ensemble quality and genuine emotional investment in the supporting cast. The progression system is one of the best in the genre. If you loved HWFWM's system depth alongside its cast, Azarinth Healer delivers both.
@@ -52,7 +46,7 @@ Key community-tracked examples on Harem-Lit.com include series in the isekai-set
 
 ### The Wandering Inn — pirateaba (ongoing, 10+ volumes)
 
-Not harem fantasy, but the overlap with HWFWM's ensemble-first readers is significant. The Wandering Inn is the best example of the "found family around a location" structure that HWFWM readers respond to. If you want that emotional quality without harem mechanics, this is the recommendation. If you specifically want harem dynamics alongside it, read Victor of Tucson.
+Not harem fantasy, but the overlap with HWFWM's ensemble-first readers is significant. The Wandering Inn is the best example of the "found family around a location" structure that HWFWM readers respond to. If you want that emotional quality without harem mechanics, this is the recommendation.
 
 ## The Pattern
 
