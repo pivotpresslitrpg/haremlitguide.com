@@ -7,7 +7,6 @@ author: "The HaremLit Guide"
 tags: ["Dungeon Champions", "Adam Lance & Leon West", "harem fantasy", "LitRPG", "dungeon diving"]
 featured: true
 ---
-```
 
 # Dungeon Champions Book 2 Review: The LitRPG Harem Series That Nails Team Chemistry
 

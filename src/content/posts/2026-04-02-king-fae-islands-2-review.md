@@ -7,7 +7,6 @@ author: "The HaremLit Guide"
 tags: ["King of the Fae Islands", "Adam Lance & Annabelle Hawthorne", "harem fantasy", "fae romance", "portal fantasy", "LitRPG", "city-building fantasy", "Fateforged"]
 featured: true
 ---
-```
 
 # King of the Fae Islands Book 2 Review: The Fae LitRPG Harem Series That Gets the Balance Right
 
