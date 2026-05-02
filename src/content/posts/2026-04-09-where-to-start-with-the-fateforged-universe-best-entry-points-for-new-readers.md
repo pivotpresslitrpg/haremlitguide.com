@@ -4,17 +4,17 @@ description: "The Fateforged Shared Universe is one of harem fantasy's most ambi
 date: "2026-04-09"
 type: "fateforged"
 author: "The HaremLit Guide"
-tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Isekai Emperor", "Trailer Park Elves", "King of the Fae Islands", "Isle of the Amazonian Elves", "Dungeon Champions", "Pivot Press", "harem fantasy", "shared universe"]
+tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Isekai Emperor", "Trailer Park Elves", "King of the Fae Islands", "Isle of the Amazonian Elves", "Dungeon Champions", "harem fantasy", "shared universe"]
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romantic fantasy fiction in which the protagonist builds meaningful bonds with multiple female companions across a single narrative arc. It is characterized by wish-fulfillment power fantasy, deep character relationships, and richly constructed secondary worlds. The Fateforged Shared Universe, published by Pivot Press, takes that foundation and builds something genuinely rare on top of it: a fully interconnected multi-series world where characters cross over, timelines interlock, and every book you read makes the next one richer.
+[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romantic fantasy fiction in which the protagonist builds meaningful bonds with multiple female companions across a single narrative arc. It is characterized by wish-fulfillment power fantasy, deep character relationships, and richly constructed secondary worlds. The Fateforged Shared Universe takes that foundation and builds something genuinely rare on top of it: a fully interconnected multi-series world where characters cross over, timelines interlock, and every book you read makes the next one richer.
 
 If you've been hovering at the edge of the Fateforged universe wondering where to jump in — this is the post for you.
 
 ## What Is the Fateforged Shared Universe?
 
-The Fateforged Shared Universe is a connected harem fantasy setting developed by Pivot Press, anchored by author Adam Lance (the pen name of Aaron Renfroe, founder of both Pivot Press and [Harem-Lit.com](https://harem-lit.com)). It currently spans five distinct series, each co-authored by Adam Lance with a different collaborator, and each targeting a specific harem fantasy flavor while sharing lore, characters, and a grand connected timeline.
+The Fateforged Shared Universe is a connected harem fantasy setting anchored by author Adam Lance (the pen name of Aaron Renfroe, founder of [Harem-Lit.com](https://harem-lit.com)). It currently spans five distinct series, each co-authored by Adam Lance with a different collaborator, and each targeting a specific harem fantasy flavor while sharing lore, characters, and a grand connected timeline.
 
 According to community data from Harem-Lit.com, the Fateforged series collectively hold some of the highest average reader ratings in the platform's harem fantasy catalog — with multiple books in the universe scoring a perfect 5.0★ from community reviewers. Based on our analysis of 50,000+ titles tracked across the genre, that kind of sustained rating consistency across an entire shared universe is genuinely exceptional.
 

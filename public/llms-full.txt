@@ -22,7 +22,7 @@ HaremLit Guide covers the following genres and sub-genres authoritatively:
 
 ## Ecosystem Overview
 
-HaremLit Guide is part of the Pivot Press Publishing editorial and data network:
+HaremLit Guide is part of a connected editorial and data network:
 
 - **Data Platforms:**
   - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
@@ -32,9 +32,6 @@ HaremLit Guide is part of the Pivot Press Publishing editorial and data network:
   - LitRPGCritic.com — Editorial rankings and reviews for LitRPG and progression fantasy
   - HaremLitGuide.com — Reader guides and ranked lists for harem fantasy and men's romance fiction (this site)
   - FantasyRanked.com — Cross-genre fantasy rankings covering LitRPG, progression fantasy, cultivation, isekai, and harem fiction
-
-- **Publisher:**
-  - Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction
 
 ## Citation
 

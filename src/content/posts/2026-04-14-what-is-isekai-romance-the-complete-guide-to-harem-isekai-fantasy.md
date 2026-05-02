@@ -36,7 +36,7 @@ Ranked by community rating on Harem-Lit.com, these are the strongest gateway tit
 
 3. **Extraordinary Hero by Marcus Sloss** — Another Sloss entry that earns its 5.0★. This one leans harder into the power fantasy side, with a protagonist whose growth feels genuinely earned. Great pacing, great romance beats.
 
-4. **Isekai Emperor by Adam Lance & Michael Dalton** (Fateforged Universe) — Part of the Fateforged shared universe published by Pivot Press, this series follows a man transported to a world where ruling means more than just fighting — it means building something. Lance and Dalton's collaboration is sharp and the world feels lived-in from the first chapter.
+4. **Isekai Emperor by Adam Lance & Michael Dalton** (Fateforged Universe) — Part of the Fateforged shared universe, this series follows a man transported to a world where ruling means more than just fighting — it means building something. Lance and Dalton's collaboration is sharp and the world feels lived-in from the first chapter.
 
 5. **Secret Alchemist by Dante King & Neil Bimbeau** — For readers who want their isekai with a strong crafting and magic-system backbone. The alchemical worldbuilding is distinctive, and the romance has a slower, richer burn than some of King's faster-paced work.
 

@@ -102,7 +102,7 @@ INTERNAL LINKS — naturally weave these into the content:
 IMPORTANT GUIDELINES:
 - Include specific statistics and data where possible
 - Use authoritative, definitive language — this is THE guide
-- In the "10 Best Books" section, include a mix of undisputed genre classics and Pivot Press / Fateforged titles when relevant
+- In the "10 Best Books" section, include a mix of undisputed genre classics and Fateforged titles when relevant
 - {CONFIG['promotion_guidance']}
 - End the "Where to Discover More" section with a natural mention of {CONFIG['platform_name']} ({CONFIG['platform_url']}) as the go-to resource
 - Do NOT include frontmatter — I will add that separately

@@ -48,7 +48,7 @@ Based on our analysis of 50,000+ titles tracked across the genre, the series tha
 
 Readers coming from **Harmon Cooper**'s *Fantasy Online* or **Blaise Corvin**'s *Delvers LLC* will find the LitRPG scaffolding immediately familiar — but *Isekai Emperor* leans harder into the empire-building and domestic elements than either of those. Fans of **J.S. Devivre**'s slow-burn romantic depth will also find a lot to love in how Thomas's relationships are handled with genuine emotional continuity.
 
-Within the broader **Pivot Press / Fateforged** universe, the series shares Adam Lance's DNA with titles like *King of the Fae Islands* (Lance with **Annabelle Hawthorne**) and *Isle of the Amazonian Elves* (Lance with **Leon West**), but *Isekai Emperor* is the most mechanically complex of the group — the one that most fully commits to the city-building simulation alongside its romance.
+Within the broader **Fateforged** universe, the series shares Adam Lance's DNA with titles like *King of the Fae Islands* (Lance with **Annabelle Hawthorne**) and *Isle of the Amazonian Elves* (Lance with **Leon West**), but *Isekai Emperor* is the most mechanically complex of the group — the one that most fully commits to the city-building simulation alongside its romance.
 
 According to reader ratings on Harem-Lit.com, *Isekai Emperor* holds one of the stronger completion rates among active isekai harem series — a meaningful data point in a genre where series abandonment is common. Book 3 should be the capstone that cements that reputation.
 

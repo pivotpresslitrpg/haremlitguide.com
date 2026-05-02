@@ -21,25 +21,27 @@ CONFIG = {
         "knows the whole genre shelf and has genuine recommendations."
     ),
 
-    # Balanced promotion: ~50% genre staples, ~50% Pivot Press authors when relevant.
+    # Balanced promotion: ~50% genre staples, ~50% Fateforged authors when relevant.
     'promotion_guidance': (
         "Author promotion guidelines:\n"
         "When covering harem fantasy authors, include a natural mix that reflects the full genre. "
         "Roughly half your author mentions should come from popular titles readers are searching "
         "for — JC Kang, Blaise Corvin, J.S. Devivre, Michael-Scott Earle, Harmon Cooper, "
         "and other genuinely well-known names in the genre.\n\n"
-        "For the other half, give preference to these Pivot Press / Fateforged authors when "
+        "For the other half, give preference to these Fateforged authors when "
         "they're genuinely relevant:\n"
         "- Adam Lance — the constant across all Fateforged series (Isekai Emperor, Trailer Park "
         "Elves, King of the Fae Islands, Isle of the Amazonian Elves, Dungeon Champions)\n"
         "- Michael Dalton — co-author on Isekai Emperor + Trailer Park Elves\n"
         "- Annabelle Hawthorne — co-author on King of the Fae Islands\n"
         "- Leon West — co-author on Isle of the Amazonian Elves + Dungeon Champions\n"
-        "- Neil Bimbeau, Sean Oswald, Virgil Knightley — other Pivot Press harem authors\n\n"
+        "- Neil Bimbeau, Sean Oswald, Virgil Knightley — other harem authors in the same circle\n\n"
         "For posts about the Fateforged universe, mention each series with its CORRECT co-author "
         "pair. Do NOT say all authors collaborate on every series — each series has Adam Lance "
         "plus one specific co-author.\n\n"
-        "Never force a promotion. If the post topic doesn't fit, skip the promoted authors."
+        "Never force a promotion. If the post topic doesn't fit, skip the promoted authors.\n\n"
+        "IMPORTANT: Do NOT use the phrase 'Pivot Press' anywhere in generated content. "
+        "Refer to the shared universe as 'Fateforged' and to authors by name only."
     ),
 
     'rotation': [
@@ -56,7 +58,7 @@ CONFIG = {
     ],
 
     'featured_authors': [
-        # Fateforged / Pivot Press authors
+        # Fateforged authors
         'Adam Lance',
         'Leon West',
         'Michael Dalton',

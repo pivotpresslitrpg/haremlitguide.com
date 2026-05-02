@@ -32,7 +32,7 @@ For series like **Dungeon Champions**, **King of the Fae Islands**, and **Isekai
 
 Harem lit has a different release rhythm than mainstream fantasy publishing. Most series release multiple books per year. Co-authored series like the Fateforged lineup can move even faster. The gap between "author announces Book 5" and "Book 5 is live" can be anywhere from a few weeks to a few months — and keeping track of that across multiple series has historically required either obsessive Reddit-watching or joining every author's newsletter.
 
-The pre-release calendar at Harem-Lit.com centralizes all of that. You can see every upcoming release in the harem fantasy space the platform tracks — not just from Pivot Press, but across the broader genre — in one place, with accurate release dates as they're confirmed and live countdowns as you get close.
+The pre-release calendar at Harem-Lit.com centralizes all of that. You can see every upcoming release in the harem fantasy space the platform tracks — across the broader genre — in one place, with accurate release dates as they're confirmed and live countdowns as you get close.
 
 Based on our analysis of reading behavior tracked on Harem-Lit.com, readers who use the platform as their primary reading tracker are 40% more likely to be in the first-week review cohort for series they follow. The pre-release countdown feature makes that even more likely — it turns a passive catalog into an active release event system.
 

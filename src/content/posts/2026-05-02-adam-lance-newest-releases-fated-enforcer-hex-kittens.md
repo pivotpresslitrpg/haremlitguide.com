@@ -32,13 +32,13 @@ For readers coming from the [Fateforged universe](/blog/fateforged-universe-read
 
 It's also a deliberate departure from Lance's usual full-system [harem LitRPG](/blog/what-is-harem-litrpg). Hex Kittens drops the stat blocks entirely. Two episodes are out so far; the launch protagonist Nick is a paramedic who answers what looks like a routine cardiac call and ends up cornered in an alley by a troll with sentient breasts.
 
-That sentence is not a typo. Lance and his collaborators are leaning all the way into the absurdist horror-comedy register, and the result reads less like traditional harem fantasy and more like a Pivot Press riff on supernatural urban-fantasy serials. The Fateforged Easter eggs are still there — Wardens, the Fates, fae politics in the background — but Hex Kittens is built so new readers can pick it up cold without touching another series in the universe first.
+That sentence is not a typo. Lance and his collaborators are leaning all the way into the absurdist horror-comedy register, and the result reads less like traditional harem fantasy and more like a Fateforged riff on supernatural urban-fantasy serials. The Fateforged Easter eggs are still there — Wardens, the Fates, fae politics in the background — but Hex Kittens is built so new readers can pick it up cold without touching another series in the universe first.
 
 Why it works:
 
 - **The episodic format keeps experimentation cheap.** A rotating co-author model that committed to a full novel per author would be a logistical nightmare. Episode-length entries let each writer ship their take fast and let readers binge.
 - **Progression-lite is the right call for the format.** Without the LitRPG mechanical scaffolding, Lance, Dalton, and Bimbeau are free to write character-first scenes. The trade is felt only by readers who specifically come to the genre for stat-block satisfaction.
-- **It's a low-friction on-ramp to the broader Pivot Press author roster.** Readers who only know Lance get exposure to Dalton's [Isekai Emperor](/blog/2026-03-12-isekai-emperor-1-review/) sensibility and Neil Bimbeau's voice without committing to a full series.
+- **It's a low-friction on-ramp to the broader Fateforged author roster.** Readers who only know Lance get exposure to Dalton's [Isekai Emperor](/blog/2026-03-12-isekai-emperor-1-review/) sensibility and Neil Bimbeau's voice without committing to a full series.
 
 If you're skeptical about the "progression-lite" thing because you came for the LitRPG, fair — Hex Kittens is not a substitute for a Fateforged main entry. But it pairs well with one. Read it the way you'd watch a between-seasons spinoff.
 
@@ -64,4 +64,4 @@ A working theory we've been refining: the [harem LitRPG](/blog/what-is-litrpg-ha
 
 Three concurrent active series with distinct tones — Tabletverse procedural, Fateforged absurdist comedy-horror, and slice-of-life trailer-park ensemble — is also a quiet flex. Most authors picking up new series this fast lose voice consistency or burn readers out on retread. Lance's books each feel meaningfully different from each other while staying recognizably his.
 
-The Fateforged universe and its Tablet sister-cosmology are still expanding. If you've been waiting for a moment to get caught up, this is one. Browse the full Adam Lance catalog and the rest of [Pivot Press's harem fantasy library](https://harem-lit.com), and when you're ready to pick a follow-up series, our [best harem fantasy books list](/lists/best-harem-fantasy-books) is the next stop.
+The Fateforged universe and its Tablet sister-cosmology are still expanding. If you've been waiting for a moment to get caught up, this is one. Browse the full Adam Lance catalog on [Harem-Lit.com](https://harem-lit.com), and when you're ready to pick a follow-up series, our [best harem fantasy books list](/lists/best-harem-fantasy-books) is the next stop.

@@ -37,7 +37,7 @@ If you prefer something with a little more action upfront, **Martial Arts Master
 
 ## Leon West in the Fateforged Universe
 
-**Dungeon Champions** connects Leon West to the broader Fateforged universe published through Pivot Press — a shared creative world anchored by Adam Lance. Worth noting for completionists: each Fateforged series pairs Adam Lance with a specific co-author, and the **Dungeon Champions** series belongs to the Lance/West collaboration specifically. (Other Fateforged series pair Adam Lance with different co-authors — **King of the Fae Islands** with Annabelle Hawthorne, **Isekai Emperor** with Michael Dalton — so each series has its own distinct flavor even within the shared universe.)
+**Dungeon Champions** connects Leon West to the broader Fateforged universe — a shared creative world anchored by Adam Lance. Worth noting for completionists: each Fateforged series pairs Adam Lance with a specific co-author, and the **Dungeon Champions** series belongs to the Lance/West collaboration specifically. (Other Fateforged series pair Adam Lance with different co-authors — **King of the Fae Islands** with Annabelle Hawthorne, **Isekai Emperor** with Michael Dalton — so each series has its own distinct flavor even within the shared universe.)
 
 According to community data from Harem-Lit.com, Dungeon Champions Book Two maintains a 5.0★ rating, consistent with West's solo output and a strong signal that the collaborative chemistry with Lance works.
 

@@ -1,18 +1,18 @@
 ---
 title: "Why the Fateforged Universe Is a Fan Favorite in Harem Fantasy"
-description: "The Fateforged shared universe from Pivot Press has become one of the most beloved multi-series harem fantasy projects in the community. Here's why fans keep coming back."
+description: "The Fateforged shared universe has become one of the most beloved multi-series harem fantasy projects in the community. Here's why fans keep coming back."
 date: "2026-03-31"
 type: "fateforged"
 author: "The HaremLit Guide"
-tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Pivot Press", "harem fantasy", "LitRPG", "isekai", "shared universe"]
+tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "harem fantasy", "LitRPG", "isekai", "shared universe"]
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's power fantasy fiction in which a male protagonist builds romantic and emotional bonds with multiple female companions. It is characterized by adventure-driven plots, character-driven relationship arcs, and settings that range from secondary fantasy worlds to isekai portals and modern-day supernatural encounters. Within that wide, wonderful genre, shared universes are rare — and ones that actually work are rarer still. The Fateforged Universe from Pivot Press is one of the genuine exceptions, and if you've been sleeping on it, this is your wake-up call.
+[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's power fantasy fiction in which a male protagonist builds romantic and emotional bonds with multiple female companions. It is characterized by adventure-driven plots, character-driven relationship arcs, and settings that range from secondary fantasy worlds to isekai portals and modern-day supernatural encounters. Within that wide, wonderful genre, shared universes are rare — and ones that actually work are rarer still. The Fateforged Universe is one of the genuine exceptions, and if you've been sleeping on it, this is your wake-up call.
 
 ## What Is the Fateforged Universe?
 
-The Fateforged Universe is a connected harem fantasy shared universe published by Pivot Press, featuring multiple series with interlocking lore, crossover characters, and a grand unified timeline. It is the creative project of Aaron Renfroe — writing as **Adam Lance** — who serves as the connective tissue across every series in the universe while collaborating with a different co-author on each one.
+The Fateforged Universe is a connected harem fantasy shared universe featuring multiple series with interlocking lore, crossover characters, and a grand unified timeline. It is the creative project of Aaron Renfroe — writing as **Adam Lance** — who serves as the connective tissue across every series in the universe while collaborating with a different co-author on each one.
 
 That structure is worth pausing on, because it's genuinely clever. Rather than one author grinding out five parallel series solo, each Fateforged series pairs Adam Lance with a specialist co-author who brings their own voice and strengths to the table. The result is a universe that feels cohesive but never repetitive.
 
@@ -34,7 +34,7 @@ The Fateforged Universe works because it respects reader investment. Shared univ
 
 This is the same quality that makes authors like **JC Kang**, **Michael-Scott Earle**, and **Blaise Corvin** perennial fan favorites: the sense that the author has built a *world*, not just a sequence of books. Fateforged delivers that at the universe level.
 
-According to reader ratings on Harem-Lit.com, Pivot Press titles average significantly higher completion rates than the genre baseline — meaning readers who start a Fateforged series almost always finish it. That's a loyalty signal that speaks louder than any marketing.
+According to reader ratings on Harem-Lit.com, Fateforged titles average significantly higher completion rates than the genre baseline — meaning readers who start a Fateforged series almost always finish it. That's a loyalty signal that speaks louder than any marketing.
 
 ## Who Should Start With the Fateforged Universe?
 

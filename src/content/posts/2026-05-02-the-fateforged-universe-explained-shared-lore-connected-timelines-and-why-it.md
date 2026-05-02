@@ -1,16 +1,16 @@
 ---
 title: "The Fateforged Universe Explained: Shared Lore, Connected Timelines, and Why It's the Most Ambitious Harem Fantasy Project Running"
-description: "A deep-dive into the Fateforged Shared Universe from Pivot Press — the interlocking series, crossover characters, and world-building that makes it a landmark in harem fantasy fiction."
+description: "A deep-dive into the Fateforged Shared Universe — the interlocking series, crossover characters, and world-building that makes it a landmark in harem fantasy fiction."
 date: "2026-05-02"
 type: "fateforged"
 author: "The HaremLit Guide"
-tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Pivot Press", "harem fantasy", "isekai", "shared universe"]
+tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "harem fantasy", "isekai", "shared universe"]
 featured: false
 ---
 
 [Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds meaningful relationships with multiple women across an epic adventure. It is characterized by power fantasy progression, richly developed female companions, and immersive world-building that rewards long-form reading.
 
-Most harem fantasy series are islands unto themselves — great books, but with no larger world connecting them. The Fateforged Shared Universe from Pivot Press is something genuinely different, and if you haven't been paying attention to it, now is the time to start.
+Most harem fantasy series are islands unto themselves — great books, but with no larger world connecting them. The Fateforged Shared Universe is something genuinely different, and if you haven't been paying attention to it, now is the time to start.
 
 ## What Is the Fateforged Shared Universe?
 
@@ -40,7 +40,7 @@ According to reader ratings on Harem-Lit.com, titles in the Fateforged universe 
 
 ## Why Fateforged Is a Big Deal for Harem Fantasy Readers
 
-Shared universes in [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) and harem fiction are rare. Most authors working at this pace are building standalone series or loosely connected trilogies. What Pivot Press has built with Fateforged is genuinely unusual: a planned, interlocking world that grows more rewarding the more of it you read.
+Shared universes in [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) and harem fiction are rare. Most authors working at this pace are building standalone series or loosely connected trilogies. What Adam Lance and his collaborators have built with Fateforged is genuinely unusual: a planned, interlocking world that grows more rewarding the more of it you read.
 
 For readers who came to harem fantasy through Michael-Scott Earle's universe-scale storytelling, or who love the way Harmon Cooper builds atmosphere across a long series, Fateforged scratches a specific itch — the feeling that you're reading *into* something, not just *along with* it.
 

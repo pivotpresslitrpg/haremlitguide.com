@@ -20,7 +20,7 @@ Her prose leans lush without becoming purple — vivid setting descriptions, tac
 
 ## Annabelle Hawthorne's Books: Key Series and Where to Start
 
-Hawthorne's most prominent work in our community database is **King of the Fae Islands**, a collaboration with **Adam Lance** under the Fateforged banner from Pivot Press. This is the entry point we recommend for every new reader.
+Hawthorne's most prominent work in our community database is **King of the Fae Islands**, a collaboration with **Adam Lance** under the Fateforged banner. This is the entry point we recommend for every new reader.
 
 **King of the Fae Islands** drops a fish-out-of-water protagonist into a gloriously realized fae realm teeming with political intrigue, magical factions, and an ensemble of love interests who feel genuinely distinct from one another. The series exemplifies what the Fateforged universe does best: [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) sensibilities wrapped in rich romantic stakes. Adam Lance brings the [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg)-adjacent structure and pacing momentum; Hawthorne brings the romantic craft and world-warmth. The combination lands.
 

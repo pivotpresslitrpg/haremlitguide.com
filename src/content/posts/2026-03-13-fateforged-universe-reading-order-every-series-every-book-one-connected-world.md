@@ -8,17 +8,17 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-The Fateforged Universe is a shared-world [harem fantasy](/blog/what-is-harem-fantasy) setting published by Pivot Press, spanning five interconnected series written by multiple authors under a coordinated timeline. It is characterized by crossover characters, interlocking lore, and the kind of escalating world-building that rewards readers who follow the full arc rather than just one series.
+The Fateforged Universe is a shared-world [harem fantasy](/blog/what-is-harem-fantasy) setting spanning five interconnected series written by multiple authors under a coordinated timeline. It is characterized by crossover characters, interlocking lore, and the kind of escalating world-building that rewards readers who follow the full arc rather than just one series.
 
 If you've been hovering at the edge of this universe wondering where to jump in, this is the post you've been waiting for.
 
 ## What Is the Fateforged Universe?
 
-The Fateforged Universe is the flagship shared-world project from Pivot Press, the publisher behind Harem-Lit.com — the community home for Fateforged fans and harem fantasy discussion at large. The universe spans modern-day Earth, isekai fantasy empires, fae realms, and dungeon-diving adventures, all threaded together by shared characters, overlapping timelines, and a connected cosmological lore that grows richer the deeper you go.
+The Fateforged Universe is the flagship shared-world project anchored at Harem-Lit.com — the community home for Fateforged fans and harem fantasy discussion at large. The universe spans modern-day Earth, isekai fantasy empires, fae realms, and dungeon-diving adventures, all threaded together by shared characters, overlapping timelines, and a connected cosmological lore that grows richer the deeper you go.
 
 According to community data from Harem-Lit.com, the Fateforged series titles consistently rank among the top-rated entries on the platform, with multiple books holding a perfect 5.0★ rating from verified readers. Based on our analysis of 50,000+ titles in the harem fantasy genre, that level of sustained reader satisfaction across a multi-series universe is genuinely rare — authors like JC Kang and Michael-Scott Earle have built devoted followings, but a fully interlocking shared universe at this scale is something the genre doesn't see often.
 
-The connective tissue across all Fateforged series is Adam Lance — the shared pen name of Aaron Renfroe, founder of Pivot Press and Harem-Lit.com. Every series in the universe carries his name alongside a specific co-author, and that consistent creative vision is a big part of why the universe holds together as well as it does.
+The connective tissue across all Fateforged series is Adam Lance — the shared pen name of Aaron Renfroe, founder of Harem-Lit.com. Every series in the universe carries his name alongside a specific co-author, and that consistent creative vision is a big part of why the universe holds together as well as it does.
 
 ## The Complete Fateforged Series List (With Co-Authors)
 
