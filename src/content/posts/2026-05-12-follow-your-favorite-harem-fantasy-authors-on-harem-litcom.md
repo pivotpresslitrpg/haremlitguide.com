@@ -31,11 +31,11 @@ For a genre as prolific as this one, that signal-to-noise filtering is genuinely
 Ranked by community follow velocity on Harem-Lit.com over the past 90 days, these are the author profiles generating the most activity:
 
 1. **JC Kang** — perennially one of the most-followed names in harem fantasy, with deep catalog depth
-2. **Blaise Corvin** — high engagement across both [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) and harem-adjacent titles
+2. **Blaise Corvin** — high engagement across both [LitRPG](/blog/what-is-litrpg-harem) and harem-adjacent titles
 3. **Michael-Scott Earle** — author profiles with extensive back catalogs tend to anchor new reader discovery paths
 4. **Adam Lance** — the connective author across the Fateforged universe, including *Isekai Emperor* (with Michael Dalton) and *King of the Fae Islands* (with Annabelle Hawthorne)
 5. **Harmon Cooper** — strong follow counts driven by series completion rates
-6. **J.S. Devivre** — steady follow growth, particularly from readers coming from [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy)
+6. **J.S. Devivre** — steady follow growth, particularly from readers coming from [progression fantasy](/blog/what-is-progression-fantasy-harem)
 7. **Leon West** — co-author with Adam Lance on both *Isle of the Amazonian Elves* and *Dungeon Champions*, with follow numbers climbing fast
 
 According to community data from Harem-Lit.com, authors in shared universes like Fateforged see 28% higher cross-follow rates — readers who follow one series author tend to follow the others within the same universe.

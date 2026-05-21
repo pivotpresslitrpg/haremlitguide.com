@@ -22,9 +22,9 @@ According to community data from Harem-Lit.com, dungeon-themed harem titles aver
 
 Based on our analysis of 50,000+ titles tracked across Harem-Lit.com, dungeon harem draws the heaviest overlap from three reader profiles:
 
-1. **[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) fans** who want emotional stakes layered onto their progression loops
+1. **[LitRPG](/blog/what-is-litrpg-harem) fans** who want emotional stakes layered onto their progression loops
 2. **Strategy and simulation game players** who love the dungeon-builder fantasy (think Dungeon Keeper, not Dark Souls)
-3. **Harem fantasy readers** already comfortable with [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) who want a richer home-base dynamic
+3. **Harem fantasy readers** already comfortable with [progression fantasy](/blog/what-is-progression-fantasy-harem) who want a richer home-base dynamic
 
 If you bounced off harem fantasy that felt too episodic or wandering, dungeon harem's tighter territorial focus often fixes that. There's always something to build, defend, or expand — and those stakes keep the pacing grounded.
 

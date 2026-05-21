@@ -14,7 +14,7 @@ If that sentence just made your brain light up, welcome. You've found your peopl
 
 ## What Is LitRPG Harem Fiction?
 
-LitRPG harem fiction sits at the intersection of two of the most energetic communities in modern genre fiction. [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is the broader category — stories where characters literally level up, gain skills, and interface with a world that operates by RPG rules. Layer harem fantasy on top of that and you get something genuinely addictive: a hero who is getting stronger *and* building a team of women who genuinely want to be there.
+LitRPG harem fiction sits at the intersection of two of the most energetic communities in modern genre fiction. [LitRPG](/blog/what-is-litrpg-harem) is the broader category — stories where characters literally level up, gain skills, and interface with a world that operates by RPG rules. Layer harem fantasy on top of that and you get something genuinely addictive: a hero who is getting stronger *and* building a team of women who genuinely want to be there.
 
 What separates good LitRPG harem from a shallow power trip is the same thing that separates good harem fantasy from cheap wish fulfillment — characterization, stakes, and a progression arc that feels *earned*. The best entries in the sub-genre use the RPG scaffolding to give relationships weight. When a character levels up her bond with the hero, it mirrors the emotional arc in a way that just works. Readers who track stats also track feelings. That's not a coincidence.
 
@@ -24,7 +24,7 @@ LitRPG harem is one of the fastest-growing segments of the harem fantasy market.
 
 The appeal is layered. Readers who grew up with RPGs — video games, tabletop, all of it — feel immediately at home in worlds where numbers mean something. The progression is *visible*. You can see the hero getting stronger. That satisfying loop of grind, reward, and escalation maps perfectly onto the emotional loop of harem romance: meet someone, earn their trust, watch something real develop.
 
-It also plays beautifully with [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) and [cultivation novel](https://lists/best-cultivation-novels) tropes, which has opened up the sub-genre to a huge crossover readership.
+It also plays beautifully with [progression fantasy](/blog/what-is-progression-fantasy-harem) and [cultivation novel](https://lists/best-cultivation-novels) tropes, which has opened up the sub-genre to a huge crossover readership.
 
 ## Who Is LitRPG Harem For?
 
@@ -54,6 +54,6 @@ Here are eight gateway recommendations — ranked by community rating on Harem-L
 
 ## Where to Explore More
 
-The LitRPG harem shelf is deep and getting deeper every month. According to community data from Harem-Lit.com, new LitRPG harem titles are being added to reader lists at a rate of over 40 per month across all platforms. Check out [new releases](/new-releases) to stay current, and if you want to compare this sub-genre against the broader power fantasy landscape, [FantasyRanked's top power fantasy books](https://fantasyranked.com/rankings/top-power-fantasy-books) is worth a look.
+The LitRPG harem shelf is deep and getting deeper every month. According to community data from Harem-Lit.com, new LitRPG harem titles are being added to reader lists at a rate of over 40 per month across all platforms. Check out [new releases](/new-releases) to stay current as the sub-genre keeps expanding.
 
 The community here at [Harem-Lit.com](https://harem-lit.com) has done the hard work of rating and cataloguing the best of what's out there. All you have to do is pick a series and start reading. Trust us — the grind is very much worth it.

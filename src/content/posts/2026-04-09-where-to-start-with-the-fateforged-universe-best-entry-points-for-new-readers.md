@@ -51,7 +51,7 @@ Ranked by accessibility for readers new to the universe (according to reader rat
 
 1. *Isekai Emperor* — widest genre appeal, cleanest entry point
 2. *Isle of the Amazonian Elves* — short, punchy, self-contained enough to work as a sampler
-3. *Dungeon Champions* — essential if you love [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) systems with your harem fantasy
+3. *Dungeon Champions* — essential if you love [LitRPG](/blog/what-is-litrpg-harem) systems with your harem fantasy
 4. *King of the Fae Islands* — for romance-forward readers who want the fae aesthetic
 5. *Trailer Park Elves* — save this one for when you're already hooked and want to see what the universe can do
 

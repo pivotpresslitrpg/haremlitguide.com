@@ -26,7 +26,7 @@ From there, the story shifts to the Enforcer's Mansion, where Alex, his puca ass
 
 ## The GameLit System: Detailed Without Being Dry
 
-According to community data from Harem-Lit.com, GameLit systems with layered class design consistently rank among the top engagement drivers for harem fantasy readers — and the [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) scaffolding in *Fated Enforcer* is one of the better-constructed examples in the urban fantasy lane.
+According to community data from Harem-Lit.com, GameLit systems with layered class design consistently rank among the top engagement drivers for harem fantasy readers — and the [progression fantasy](/blog/what-is-progression-fantasy-harem) scaffolding in *Fated Enforcer* is one of the better-constructed examples in the urban fantasy lane.
 
 Alex's class — Echo Parasite (Legendary) — is genuinely inventive. The core mechanic, absorbing and duplicating magical effects used against him, rewards clever storytelling rather than just raw power creep. The **50% damage reduction from echoed sources** is a small detail that has huge tactical implications, and Lance clearly intends to use it. The character sheet at the opening is thorough without being a wall of intimidation — the author even provides an appendix for readers who want the crunch without interrupting the flow.
 

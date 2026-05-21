@@ -37,7 +37,7 @@ Pure fae realm harem fantasy with a romantically richer texture than most entrie
 A stranded-on-an-island setup that goes exactly where you hope it will. **Leon West** co-authors here, delivering action and relationship beats that escalate satisfyingly across the series. This one rewards readers who've already spent time in the broader Fateforged world — crossover lore hits differently once you know the universe.
 
 **5. Dungeon Champions** *(Adam Lance & Leon West)*
-[Harem LitRPG](/blog/what-is-harem-litrpg) meets dungeon-diving adventure. **Leon West** returns as co-author, and the dungeon-crawl structure gives this series the most [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) DNA of the bunch. If you're coming from titles like Blaise Corvin's dungeon-adjacent work or you're a fan of the [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) corner of the genre, start here after *Isekai Emperor*.
+[Harem LitRPG](/blog/what-is-harem-litrpg) meets dungeon-diving adventure. **Leon West** returns as co-author, and the dungeon-crawl structure gives this series the most [progression fantasy](/blog/what-is-progression-fantasy-harem) DNA of the bunch. If you're coming from titles like Blaise Corvin's dungeon-adjacent work or you're a fan of the [LitRPG](/blog/what-is-litrpg-harem) corner of the genre, start here after *Isekai Emperor*.
 
 ## What's the Best Reading Order for Fateforged?
 

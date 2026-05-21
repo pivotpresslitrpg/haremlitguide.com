@@ -56,7 +56,7 @@ Three releases, three different on-ramps. Match them to what you actually want:
 - **You want something quick, weird, and shareable** → Start with **Hex Kittens Episode 1**. Low commitment, wild tone, easy to recommend to a friend who's curious about [harem fantasy](/blog/what-is-harem-fantasy) but has not committed yet.
 - **You're already a Fateforged reader catching up** → Pick up **Trailer Park Elves Book 3**, then circle back to Fated Enforcer. The TPE continuation rewards the people who've been there since [Book 1 of the universe](/blog/where-to-start-with-the-fateforged-universe-best-entry-points-for-new-readers).
 
-Readers coming from the broader [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) space who care more about [LitRPG mechanics](/blog/what-is-litrpg-harem) than tone should still default to **King of the Fae Islands** with [Annabelle Hawthorne](/blog/2026-03-28-annabelle-hawthorne-author-spotlight/) — that one remains the most mechanically dense Fateforged entry. But if mechanics aren't the priority, Fated Enforcer is the new flagship.
+Readers coming from the broader [progression fantasy](/blog/what-is-progression-fantasy-harem) space who care more about [LitRPG mechanics](/blog/what-is-litrpg-harem) than tone should still default to **King of the Fae Islands** with [Annabelle Hawthorne](/blog/2026-03-28-annabelle-hawthorne-author-spotlight/) — that one remains the most mechanically dense Fateforged entry. But if mechanics aren't the priority, Fated Enforcer is the new flagship.
 
 ## Why This Stretch Matters for the Genre
 

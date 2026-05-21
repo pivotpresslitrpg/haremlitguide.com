@@ -28,7 +28,7 @@ The *Biomance* series (co-written with **Morgan Ranger**) occupies a slightly di
 
 ## Best New Isekai Harem LitRPG Books (March 2026)
 
-The best new [isekai harem LitRPG](/blog/what-is-harem-litrpg) release this month comes from **Kaz Velveto**, whose *Quest and Conquer* series lands all three volumes simultaneously. For readers who crossed over from the broader [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) scene and discovered harem fantasy through game-system mechanics and isekai premises, this is your new series.
+The best new [isekai harem LitRPG](/blog/what-is-harem-litrpg) release this month comes from **Kaz Velveto**, whose *Quest and Conquer* series lands all three volumes simultaneously. For readers who crossed over from the broader [LitRPG](/blog/what-is-litrpg-harem) scene and discovered harem fantasy through game-system mechanics and isekai premises, this is your new series.
 
 *Quest and Conquer* delivers the full package: portal-fantasy world-building, harem relationship progression, and RPG stat systems that actually feel integrated into the story rather than bolted on. According to community data from Harem-Lit.com, isekai harem LitRPG series that launch with three or more volumes simultaneously see 30% higher first-month reader completion rates — Velveto is playing this smart.
 

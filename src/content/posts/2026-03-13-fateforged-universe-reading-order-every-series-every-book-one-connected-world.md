@@ -28,11 +28,11 @@ The Fateforged Universe currently includes five active series. Here they are ran
 
 2. **Isekai Emperor** (Adam Lance & Michael Dalton) — A modern man transported to a fantasy empire he's meant to rule. Classic isekai power fantasy with deep harem dynamics and political intrigue. One of the densest series for lore.
 
-3. **King of the Fae Islands** (Adam Lance & Annabelle Hawthorne) — City-building [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) set in a fae realm, with a harem at the center of an expanding magical kingdom. The debut novel holds a 5.0★ rating and showcases Annabelle Hawthorne's world-building instincts at full strength.
+3. **King of the Fae Islands** (Adam Lance & Annabelle Hawthorne) — City-building [LitRPG](/blog/what-is-litrpg-harem) set in a fae realm, with a harem at the center of an expanding magical kingdom. The debut novel holds a 5.0★ rating and showcases Annabelle Hawthorne's world-building instincts at full strength.
 
 4. **Isle of the Amazonian Elves** (Adam Lance & Leon West) — Survival and romance on an island populated by amazon elves. Fast-paced, high-tension, and deeply satisfying for readers who want action alongside the romance. Also rated 5.0★ on Harem-Lit.com.
 
-5. **Dungeon Champions** (Adam Lance & Leon West) — Dungeon-diving with a companion harem. This is the series for [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) fans who want clear power escalation built into a harem framework.
+5. **Dungeon Champions** (Adam Lance & Leon West) — Dungeon-diving with a companion harem. This is the series for [progression fantasy](/blog/what-is-progression-fantasy-harem) fans who want clear power escalation built into a harem framework.
 
 ## Where Should You Start Reading Fateforged?
 

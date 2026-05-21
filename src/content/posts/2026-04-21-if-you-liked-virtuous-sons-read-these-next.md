@@ -26,7 +26,7 @@ So you've finished what's available, you're hungry for that same slow-burn mythi
 
 4. **Isekai Emperor (Fateforged Universe) by Adam Lance and Michael Dalton** — For readers who want the cultivation-meets-mythic-world formula with a strong isekai twist, *Isekai Emperor* delivers. Adam Lance and Michael Dalton co-authored this flagship Fateforged series, and the result is exactly the kind of deliberate, escalating dominance fantasy that Virtuous Sons fans appreciate.
 
-5. **Breeder Mage by Marc Robert** — The fifth entry in this [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) adjacent series holds a 5.0★ community rating, and readers consistently praise its deep magical systems and the protagonist's methodical ascent. If Lio's philosophical approach to power resonates with you, this series rewards the same patient reader.
+5. **Breeder Mage by Marc Robert** — The fifth entry in this [progression fantasy](/blog/what-is-progression-fantasy-harem) adjacent series holds a 5.0★ community rating, and readers consistently praise its deep magical systems and the protagonist's methodical ascent. If Lio's philosophical approach to power resonates with you, this series rewards the same patient reader.
 
 6. **Arcane Lawmaker Omnibus by Dante King** — Dante King is one of the most prolific and beloved authors in the space, and the *Arcane Lawmaker* omnibus is a perfect entry point. The magical system has real depth, and the power fantasy hits that same satisfying note of a protagonist who outthinks and outclasses everyone around him.
 

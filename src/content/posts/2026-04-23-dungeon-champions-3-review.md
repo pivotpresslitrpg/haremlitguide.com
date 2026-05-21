@@ -28,7 +28,7 @@ The LitRPG mechanics in *Dungeon Champions Book 3* are well-integrated and thoug
 
 The Battle Scholar class remains the series' most interesting mechanical invention. Jordan doesn't just level himself — he levels everyone, acting as an anti-Dungeon Core who distributes power across his party. The normalized experience system, which in Book 3 is being adjusted to help Sadie (the cursed ratgirl familiar) catch up once she accepts a Tablet, adds genuine tactical texture. These aren't just flavor numbers. They shape the story's decisions.
 
-For readers who love [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) hooks — the satisfaction of watching a team get measurably stronger — *Dungeon Champions* delivers that in a way that feels earned rather than mechanical.
+For readers who love [progression fantasy](/blog/what-is-progression-fantasy-harem) hooks — the satisfaction of watching a team get measurably stronger — *Dungeon Champions* delivers that in a way that feels earned rather than mechanical.
 
 ---
 
@@ -77,4 +77,4 @@ Book 3 is, by the authors' own admission, a breather before what promises to be 
 
 ---
 
-Discover more series like *Dungeon Champions* in our [best harem fantasy books list](/lists/best-harem-fantasy-books), or browse the full [new releases](/new-releases) section at Harem-Lit.com to find what's hitting shelves in the genre right now. If you're new to the LitRPG side of things, [LitRPG Critic's genre primer](https://litrpgcritic.com/blog/what-is-litrpg) is the fastest way to get your bearings before diving in.
+Discover more series like *Dungeon Champions* in our [best harem fantasy books list](/lists/best-harem-fantasy-books), or browse the full [new releases](/new-releases) section at Harem-Lit.com to find what's hitting shelves in the genre right now. If you're new to the LitRPG side of things, our [LitRPG harem primer](/blog/what-is-litrpg-harem) is the fastest way to get your bearings before diving in.

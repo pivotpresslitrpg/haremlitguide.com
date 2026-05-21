@@ -32,7 +32,7 @@ Based on our analysis of titles tracked across Harem-Lit.com, co-authored harem 
 
 ## What Makes a Shared Universe Work in Harem Fantasy?
 
-Most shared universes in [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) and [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) are loosely thematic — same publisher, similar vibes. The Fateforged universe is architecturally connected. Characters cross over. Lore established in one series pays off in another. The timeline is designed so that events in *Isekai Emperor* exist in the same world-space as events in *Dungeon Champions*.
+Most shared universes in [progression fantasy](/blog/what-is-progression-fantasy-harem) and [LitRPG](/blog/what-is-litrpg-harem) are loosely thematic — same publisher, similar vibes. The Fateforged universe is architecturally connected. Characters cross over. Lore established in one series pays off in another. The timeline is designed so that events in *Isekai Emperor* exist in the same world-space as events in *Dungeon Champions*.
 
 For harem fantasy readers specifically, this creates something rare and genuinely exciting: a reason to care about the broader canvas. You're not just following one protagonist's harem journey — you're building a mental map of an entire world, and every series you read adds another layer of understanding.
 
@@ -44,6 +44,6 @@ The Fateforged universe rewards readers who love genre variety within a coherent
 
 For readers newer to the genre, the Fateforged universe is actually a strong entry point — each series is designed to stand alone while rewarding deeper investment. Start with whichever premise grabs you from the list above and let the crossover moments be a happy discovery.
 
-Browse the [best harem fantasy books](/lists/best-harem-fantasy-books) list for context on where Fateforged fits in the broader genre landscape, or head directly to [Harem-Lit.com](https://harem-lit.com) where the community discussions, reading order guides, and series timelines live. If you want to see how the Fateforged approach compares to other ambitious [power fantasy projects](https://fantasyranked.com/rankings/top-power-fantasy-books), that comparison is worth making — because Fateforged holds up.
+Browse the [best harem fantasy books](/lists/best-harem-fantasy-books) list for context on where Fateforged fits in the broader genre landscape, or head directly to [Harem-Lit.com](https://harem-lit.com) where the community discussions, reading order guides, and series timelines live. If you want to see how the Fateforged approach compares to other ambitious power fantasy projects, that comparison is worth making — because Fateforged holds up.
 
 This is a universe built by people who genuinely love the genre, written for readers who want more than a single story. That's rare. Pay attention to it.

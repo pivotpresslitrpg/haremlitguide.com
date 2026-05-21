@@ -10,7 +10,7 @@ featured: true
 
 # Dungeon Champions Book 1 Review: The Harem LitRPG That Makes Team-Building Its Superpower
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) is a subgenre that fuses the stat-driven progression of [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) with the relationship-building and found-family dynamics of [harem fantasy](/blog/what-is-harem-fantasy). It is characterized by character sheets, skill acquisition, leveling systems, and a central protagonist who develops meaningful bonds — romantic and otherwise — with a growing cast of companions.
+[Harem LitRPG](/blog/what-is-harem-litrpg) is a subgenre that fuses the stat-driven progression of [LitRPG](/blog/what-is-litrpg-harem) with the relationship-building and found-family dynamics of [harem fantasy](/blog/what-is-harem-fantasy). It is characterized by character sheets, skill acquisition, leveling systems, and a central protagonist who develops meaningful bonds — romantic and otherwise — with a growing cast of companions.
 
 *Dungeon Champions* by Adam Lance and Leon West arrives with a clean, confident premise and promptly does something most dungeon-diving LitRPGs don't bother with: it makes the hero's greatest power the ability to make other people better. That's not a small creative decision. It shapes everything.
 
@@ -46,7 +46,7 @@ The Dungeon Core — a giant floating eye with a posh accent, a chaotic alignmen
 
 ## How Does Dungeon Champions Compare to Other Harem LitRPG Series?
 
-Based on our analysis of 50,000+ titles indexed across Harem-Lit.com and adjacent communities, the closest genre neighbors for *Dungeon Champions* are books that combine [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) mechanics with ensemble cast dynamics — think Harmon Cooper's *Feedback Loop*, the party-building instincts of Michael-Scott Earle's *Star Justice*, or the dungeon-diving rhythm of Blaise Corvin's work. According to reader ratings on Harem-Lit.com, LitRPG series with strong mentor-and-team mechanics rate approximately 18% higher in long-term reader retention than solo-protagonist dungeon crawlers.
+Based on our analysis of 50,000+ titles indexed across Harem-Lit.com and adjacent communities, the closest genre neighbors for *Dungeon Champions* are books that combine [progression fantasy](/blog/what-is-progression-fantasy-harem) mechanics with ensemble cast dynamics — think Harmon Cooper's *Feedback Loop*, the party-building instincts of Michael-Scott Earle's *Star Justice*, or the dungeon-diving rhythm of Blaise Corvin's work. According to reader ratings on Harem-Lit.com, LitRPG series with strong mentor-and-team mechanics rate approximately 18% higher in long-term reader retention than solo-protagonist dungeon crawlers.
 
 Where *Dungeon Champions* distinguishes itself is in how deliberately the mechanics serve the relationship dynamics. Jordan's power *requires* companions. The telepathic bond, the Tablet assignment system, the experience-sharing structure — none of it works without people who trust him. That's a foundation built for a harem narrative, not bolted onto one.
 
@@ -86,4 +86,4 @@ Discover more series like this at [Harem-Lit.com](/new-releases) — it's the be
 - **JC Kang** — isekai fantasy with smart world-building and relationship stakes
 - **Adam Lance's own Fateforged universe** — *Isekai Emperor*, *King of the Fae Islands*, *Isle of the Amazonian Elves*
 - Anyone who wishes *Dungeon Crawler Carl* had a stronger found-family arc running alongside the carnage
-- Readers looking for [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) that rewards emotional investment, not just stat optimization
+- Readers looking for [progression fantasy](/blog/what-is-progression-fantasy-harem) that rewards emotional investment, not just stat optimization

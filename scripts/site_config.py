@@ -130,9 +130,6 @@ CONFIG = {
         "- When mentioning completed series, link to /lists/best-completed-harem-series\n"
         "- When mentioning cultivation novels, link to /lists/best-cultivation-novels\n"
         "- When discussing new releases, link to /new-releases\n"
-        "- CROSS-SITE: When mentioning LitRPG (non-harem), link to https://litrpgcritic.com/blog/what-is-litrpg\n"
-        "- CROSS-SITE: When mentioning progression fantasy, link to https://litrpgcritic.com/blog/what-is-progression-fantasy\n"
-        "- CROSS-SITE: When comparing across genres, link to https://fantasyranked.com/rankings/top-power-fantasy-books\n"
         "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 

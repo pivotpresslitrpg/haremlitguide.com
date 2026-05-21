@@ -14,7 +14,7 @@ Within that space, Sean Oswald occupies a warm and distinctive corner. If you've
 
 ## What Makes Sean Oswald's Writing Style Distinctive
 
-Sean Oswald's prose is immediately approachable. He writes with a conversational warmth that makes even complex [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) mechanics feel intuitive, never stopping the story to lecture you. His heroes tend to be competent without being insufferably perfect — they make mistakes, they grow, and they earn the loyalty of the women around them through genuine connection rather than plot convenience. That's rarer in the genre than it should be.
+Sean Oswald's prose is immediately approachable. He writes with a conversational warmth that makes even complex [progression fantasy](/blog/what-is-progression-fantasy-harem) mechanics feel intuitive, never stopping the story to lecture you. His heroes tend to be competent without being insufferably perfect — they make mistakes, they grow, and they earn the loyalty of the women around them through genuine connection rather than plot convenience. That's rarer in the genre than it should be.
 
 Recurring themes across Oswald's work include:
 

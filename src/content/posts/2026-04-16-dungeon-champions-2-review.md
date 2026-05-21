@@ -18,7 +18,7 @@ featured: true
 
 ## What Is Dungeon Champions About?
 
-**Dungeon Champions** is a [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) harem fantasy set in the Fateforged universe — a shared world that also includes Adam Lance's *Isekai Emperor* (co-authored with Michael Dalton), *Trailer Park Elves* (also with Michael Dalton), *King of the Fae Islands* (with Annabelle Hawthorne), and *Isle of the Amazonian Elves* (with Leon West, his co-author here). Readers new to the broader universe are told upfront they don't need prior context, and that's genuinely true — the series is self-contained enough to work as an entry point.
+**Dungeon Champions** is a [LitRPG](/blog/what-is-litrpg-harem) harem fantasy set in the Fateforged universe — a shared world that also includes Adam Lance's *Isekai Emperor* (co-authored with Michael Dalton), *Trailer Park Elves* (also with Michael Dalton), *King of the Fae Islands* (with Annabelle Hawthorne), and *Isle of the Amazonian Elves* (with Leon West, his co-author here). Readers new to the broader universe are told upfront they don't need prior context, and that's genuinely true — the series is self-contained enough to work as an entry point.
 
 The protagonist, **Jordan Cash**, is a *Battle Scholar* — a Legendary-class adventurer whose core mechanic isn't raw power but mentorship. He earns experience by training others, distributes Epic Class Tablets to his companions, and holds Command Authority over their progression. It's a clever narrative framing device: Jordan's success is literally measured by how well his team grows. That's unusual in the genre, and it gives the harem dynamic a structural backbone that goes beyond surface-level wish fulfillment.
 
@@ -30,7 +30,7 @@ The stat and skill architecture in *Dungeon Champions Book 2* is notably well-co
 
 Each companion has a genuinely distinct class identity: **Merielle** (Ballistic Knight) is your mobile frontline bruiser with a growing combat rhythm; **Nym** (Scouring Tyrant) is a catgirl battle mage whose spell list — including the delightfully weird *Watery Death* and *Summon Broom* — reflects a cleaning/transformation theme that's equal parts funny and tactically interesting; **Britney** (Thorned Angel) runs a retributive damage-and-healing hybrid that rewards smart positioning; and **Zuri** (Surprise, I'm a Chef!) turns cooking into a full combat-support class in a way that shouldn't work but absolutely does.
 
-That's four distinct mechanical identities, each with its own XP criteria, progression curve, and equipment synergies. It's the kind of character sheet depth that fans of [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) expect, and it delivers without becoming a wall of impenetrable numbers — largely because the authors are transparent about their design intent and organize the mechanical content into dedicated chapters rather than dropping it mid-scene.
+That's four distinct mechanical identities, each with its own XP criteria, progression curve, and equipment synergies. It's the kind of character sheet depth that fans of [progression fantasy](/blog/what-is-progression-fantasy-harem) expect, and it delivers without becoming a wall of impenetrable numbers — largely because the authors are transparent about their design intent and organize the mechanical content into dedicated chapters rather than dropping it mid-scene.
 
 ---
 

@@ -34,7 +34,7 @@ Ranked by community rating on Harem-Lit.com, these are the gateway books we reco
 
 2. **Feral Mage by Chase Kilgore** — A mercenary mage, a contract system, and a cast of female companions who feel like real characters rather than accessories. The entire *Feral Mage* series holds a perfect 5.0★ rating on Harem-Lit.com, and it earns every bit of it. Start with *The Red Pine Kingdom Contract* and try to stop.
 
-3. **Dungeon Born by Dakota Krout** — Technically [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) as much as haremlit, but it's the book that converted an entire generation of LitRPG readers into harem fantasy fans. Foundational.
+3. **Dungeon Born by Dakota Krout** — Technically [progression fantasy](/blog/what-is-progression-fantasy-harem) as much as haremlit, but it's the book that converted an entire generation of LitRPG readers into harem fantasy fans. Foundational.
 
 4. **Songs of Sorcery by JC Kang** — JC Kang is one of the genre's most reliable names, with a gift for Asian-inspired world-building and female characters with genuine depth. A great pick for readers who want substance alongside the romance.
 
@@ -50,6 +50,6 @@ Ranked by community rating on Harem-Lit.com, these are the gateway books we reco
 
 According to community data from Harem-Lit.com, new harem fantasy releases have increased year-over-year for five consecutive years, with [LitRPG-adjacent harem titles](/blog/what-is-harem-litrpg) growing the fastest of any sub-category. The genre has found a home on every platform — Kindle Unlimited, Royal Road, Audible, and web serial sites — because it delivers something that's genuinely hard to find elsewhere: long-form male fantasy fiction that centers emotional connection alongside action and adventure.
 
-If you're browsing [top power fantasy books](https://fantasyranked.com/rankings/top-power-fantasy-books) and wondering whether haremlit belongs on your shelf, the answer is almost certainly yes. The genre is bigger, more varied, and better-written than most outsiders expect.
+If you're browsing top power fantasy books and wondering whether haremlit belongs on your shelf, the answer is almost certainly yes. The genre is bigger, more varied, and better-written than most outsiders expect.
 
 Ready to dig deeper? Browse our full [best harem fantasy books list](/lists/best-harem-fantasy-books) and find your next obsession.

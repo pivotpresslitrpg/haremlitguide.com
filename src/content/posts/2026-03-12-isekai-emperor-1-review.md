@@ -32,11 +32,11 @@ According to community ratings on [Harem-Lit.com](https://harem-lit.com), isekai
 
 The lore delivery here is surprisingly elegant. Rather than dumping exposition, the authors filter everything through Thomas's increasingly exasperated skepticism. He keeps trying to poke holes in Emily's story — *crystal bassinets? Dragon taunting?* — and she keeps answering completely sincerely, which makes the world feel both absurd and internally consistent. By the time Thomas signs the contract, you're leaning forward alongside him.
 
-The core premise — a kingdom suffering population decline, a half-goblin prince with engineering and diplomatic skills, and a mandate to rebuild through alliances and, yes, breeding — is well-constructed for the long game. This isn't just "guy gets a harem." The harem is the *mechanism* of the political and civilizational challenge. That's a meaningful structural difference from a lot of titles in the space, and it earns the [LitRPG](/blog/what-is-harem-litrpg) and [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) tags the series carries.
+The core premise — a kingdom suffering population decline, a half-goblin prince with engineering and diplomatic skills, and a mandate to rebuild through alliances and, yes, breeding — is well-constructed for the long game. This isn't just "guy gets a harem." The harem is the *mechanism* of the political and civilizational challenge. That's a meaningful structural difference from a lot of titles in the space, and it earns the [LitRPG](/blog/what-is-harem-litrpg) and [progression fantasy](/blog/what-is-progression-fantasy-harem) tags the series carries.
 
 The GameLit elements — character sheets, city-building metrics, population management — are described in the front matter as deliberately light-touch. This is the right call. The game layer adds texture and structure without turning the romance into a spreadsheet.
 
-According to community data from Harem-Lit.com, empire-building harem series with integrated [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) elements average 18% longer series runs than those without — readers stay for the compounding stakes.
+According to community data from Harem-Lit.com, empire-building harem series with integrated [progression fantasy](/blog/what-is-progression-fantasy-harem) elements average 18% longer series runs than those without — readers stay for the compounding stakes.
 
 ---
 

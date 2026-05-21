@@ -10,7 +10,7 @@ featured: true
 
 # Fated Enforcer Book 1 Review: The Urban Harem Fantasy That Nails the 'Recruited by Fate' Hook
 
-[Harem fantasy](https://harem-lit.com/blog/what-is-harem-fantasy) is a genre defined by a single protagonist building deep bonds — romantic, loyal, or both — with multiple compelling women, set against a backdrop of adventure, power progression, and world-building. It is characterized by a strong male lead with genuine agency, meaningful relationship arcs, and genre settings that range from portal fantasy to [LitRPG systems](https://litrpgcritic.com/blog/what-is-litrpg) to urban mythologies. *Fated Enforcer* by Adam Lance hits all three of those genre pillars — and then adds a trench coat, a sentient cigarette pack, and a platinum magic tablet that has genuinely terrible calligraphy fonts.
+[Harem fantasy](https://harem-lit.com/blog/what-is-harem-fantasy) is a genre defined by a single protagonist building deep bonds — romantic, loyal, or both — with multiple compelling women, set against a backdrop of adventure, power progression, and world-building. It is characterized by a strong male lead with genuine agency, meaningful relationship arcs, and genre settings that range from portal fantasy to [LitRPG systems](/blog/what-is-litrpg-harem) to urban mythologies. *Fated Enforcer* by Adam Lance hits all three of those genre pillars — and then adds a trench coat, a sentient cigarette pack, and a platinum magic tablet that has genuinely terrible calligraphy fonts.
 
 This one grabbed me from the first page.
 
@@ -35,7 +35,7 @@ The dungeon recruitment sequence is doing a lot of heavy lifting, and it handles
 3. **The GameLit framework** — pips, Tablets, class potential, and a scoreboard that tracks Combat / Social / Intellect, without drowning the reader in stat blocks
 4. **The stakes and the world** — Fae Wilds, Fate's Laws, the balance between worlds, and the specific promise that this isn't truck-kun isekai
 
-That last beat — Matthew explicitly saying "this isn't an isekai story" — is a neat piece of genre self-awareness that fans of [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) will appreciate. Lance knows his readership. He's not trying to be coy about the genre DNA; he's just playing it with more wit and grounding than average.
+That last beat — Matthew explicitly saying "this isn't an isekai story" — is a neat piece of genre self-awareness that fans of [progression fantasy](/blog/what-is-progression-fantasy-harem) will appreciate. Lance knows his readership. He's not trying to be coy about the genre DNA; he's just playing it with more wit and grounding than average.
 
 Based on our analysis of 50,000+ titles reviewed and tracked at Harem-Lit.com, series that establish a protagonist's non-combat skill set in the first chapter — alongside combat ability — receive approximately 23% higher long-term series completion rates from readers. Alex being a *lawyer* who thinks about what people want isn't flavor text. It's setup for the social and romantic dynamics to come.
 

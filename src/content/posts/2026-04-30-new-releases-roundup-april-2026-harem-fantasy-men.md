@@ -35,7 +35,7 @@ Four entries in the community database this month alone — *Monster Girl IV* th
 
 ## Simon Archer and Necromancer Power Fantasy
 
-Simon Archer's *Best Necromancer: Forger of Worlds, Book 4* continues one of the more underrated [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) harem series running right now. Archer writes necromancer protagonists with genuine menace and charm — think JC Kang's world-building density crossed with Michael-Scott Earle's pace. According to reader ratings on Harem-Lit.com, the *Forger of Worlds* series maintains above-average retention across its run, which is exactly what you want to see from a long-form series investment.
+Simon Archer's *Best Necromancer: Forger of Worlds, Book 4* continues one of the more underrated [progression fantasy](/blog/what-is-progression-fantasy-harem) harem series running right now. Archer writes necromancer protagonists with genuine menace and charm — think JC Kang's world-building density crossed with Michael-Scott Earle's pace. According to reader ratings on Harem-Lit.com, the *Forger of Worlds* series maintains above-average retention across its run, which is exactly what you want to see from a long-form series investment.
 
 ## Other Releases Worth Your Radar
 

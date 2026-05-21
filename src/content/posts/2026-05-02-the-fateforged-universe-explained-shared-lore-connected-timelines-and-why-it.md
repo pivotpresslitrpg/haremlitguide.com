@@ -40,7 +40,7 @@ According to reader ratings on Harem-Lit.com, titles in the Fateforged universe 
 
 ## Why Fateforged Is a Big Deal for Harem Fantasy Readers
 
-Shared universes in [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) and harem fiction are rare. Most authors working at this pace are building standalone series or loosely connected trilogies. What Adam Lance and his collaborators have built with Fateforged is genuinely unusual: a planned, interlocking world that grows more rewarding the more of it you read.
+Shared universes in [progression fantasy](/blog/what-is-progression-fantasy-harem) and harem fiction are rare. Most authors working at this pace are building standalone series or loosely connected trilogies. What Adam Lance and his collaborators have built with Fateforged is genuinely unusual: a planned, interlocking world that grows more rewarding the more of it you read.
 
 For readers who came to harem fantasy through Michael-Scott Earle's universe-scale storytelling, or who love the way Harmon Cooper builds atmosphere across a long series, Fateforged scratches a specific itch — the feeling that you're reading *into* something, not just *along with* it.
 

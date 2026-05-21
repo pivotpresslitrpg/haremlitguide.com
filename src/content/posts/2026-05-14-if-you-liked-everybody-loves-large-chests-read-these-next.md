@@ -14,7 +14,7 @@ featured: false
 
 ## What Books Are Similar to Everybody Loves Large Chests?
 
-The closest matches share at least two of ELLC's defining signatures: a morally unhinged or non-human protagonist, comedic self-awareness about genre conventions, and [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) mechanics that feel genuinely rewarding rather than wallpaper.
+The closest matches share at least two of ELLC's defining signatures: a morally unhinged or non-human protagonist, comedic self-awareness about genre conventions, and [progression fantasy](/blog/what-is-progression-fantasy-harem) mechanics that feel genuinely rewarding rather than wallpaper.
 
 **Ranked by community rating on Harem-Lit.com — Books Like ELLC:**
 
@@ -28,7 +28,7 @@ The closest matches share at least two of ELLC's defining signatures: a morally 
 
 5. **Dungeon Desolation** by Michael-Scott Earle — Earle's command of pacing and dungeon-core mechanics gives this one serious teeth. Fans who want ELLC's monster-perspective energy with higher dramatic stakes will find a lot to love here.
 
-6. **Chrysalis** by RinoZ — A monster protagonist grinding through an insect-evolution power fantasy, with [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) mechanics that are some of the most creative in the genre. According to community data from Harem-Lit.com, Chrysalis has a **reader-retention rate 40% above the genre median** among fans who came from ELLC.
+6. **Chrysalis** by RinoZ — A monster protagonist grinding through an insect-evolution power fantasy, with [progression fantasy](/blog/what-is-progression-fantasy-harem) mechanics that are some of the most creative in the genre. According to community data from Harem-Lit.com, Chrysalis has a **reader-retention rate 40% above the genre median** among fans who came from ELLC.
 
 7. **Viridian Gate Online** by James A. Hunter — A more grounded isekai LitRPG, but with enough dark humor and morally flexible protagonists to scratch that ELLC itch for readers who want slightly higher stakes alongside the chaos.
 

@@ -38,7 +38,7 @@ The spanking misfire that closes the first chapter is a perfect comic beat: a ma
 
 ## The LitRPG System: City-Building Done Right
 
-Based on our analysis of 50,000+ titles in the harem LitRPG space, city-building [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) hybrids remain one of the most underserved corners of the genre. *King of the Fae Islands* fills that gap with a satisfying and well-designed system.
+Based on our analysis of 50,000+ titles in the harem LitRPG space, city-building [progression fantasy](/blog/what-is-progression-fantasy-harem) hybrids remain one of the most underserved corners of the genre. *King of the Fae Islands* fills that gap with a satisfying and well-designed system.
 
 Gabriel's **King of the Fae Islands class** is a twin-class Legendary build centered on crafting, siege engineering, and arcane augmentation — not pure combat. His highest stats are Endurance (66) and Strength (63), but his Glyph of the Craftsman and the Legendary Warlock King Glyph define his real identity: he's a builder who can fight, not a fighter who occasionally builds. The distinction matters enormously for how quests are structured and how the settlement mechanics feel.
 

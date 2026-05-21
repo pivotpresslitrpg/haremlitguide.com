@@ -35,7 +35,7 @@ Ranked by community rating on Harem-Lit.com, every Adam Lance series in our data
 
 New readers should start with **Trailer Park Elves Book 1** — it's the best entry point into Lance's voice, the most accessible on-ramp to the Fateforged universe, and genuinely one of the funnier opening acts in recent [harem fantasy](/lists/best-harem-fantasy-books). The Michael Dalton co-authorship (also the creative mind behind the Isekai Emperor series) gives it an extra layer of comedic momentum.
 
-If you're already a LitRPG veteran who comes from the broader [progression fantasy](/https://litrpgcritic.com/blog/what-is-progression-fantasy) space and wants something with more systemic depth up front, **King of the Fae Islands** with Annabelle Hawthorne is the more mechanically layered entry point. The city-building loop scratches an itch that fans of Michael-Scott Earle's more strategic titles will recognize immediately.
+If you're already a LitRPG veteran who comes from the broader [progression fantasy](/blog/what-is-progression-fantasy-harem) space and wants something with more systemic depth up front, **King of the Fae Islands** with Annabelle Hawthorne is the more mechanically layered entry point. The city-building loop scratches an itch that fans of Michael-Scott Earle's more strategic titles will recognize immediately.
 
 ## Why Adam Lance Matters for the Genre Right Now
 

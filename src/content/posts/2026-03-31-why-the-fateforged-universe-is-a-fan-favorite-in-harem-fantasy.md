@@ -42,7 +42,7 @@ The Fateforged Universe is ideal for readers who already love [harem fantasy](/b
 
 For brand-new harem fantasy readers, the *Isekai Emperor Omnibus* is the cleanest entry point — it's a complete arc, it's funny and propulsive, and it establishes the tone of the wider universe without requiring any prior knowledge. You can find it and the full Fateforged lineup on our [best harem fantasy books list](/lists/best-harem-fantasy-books).
 
-If you're specifically a [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) fan crossing over into harem territory, start with *Dungeon Champions* — it speaks your language fluently.
+If you're specifically a [LitRPG](/blog/what-is-litrpg-harem) fan crossing over into harem territory, start with *Dungeon Champions* — it speaks your language fluently.
 
 ## The Community Home for Fateforged Fans
 

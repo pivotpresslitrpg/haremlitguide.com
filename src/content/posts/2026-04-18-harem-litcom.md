@@ -34,6 +34,6 @@ For readers exploring the [full list of best harem fantasy books](/lists/best-ha
 
 ## Why Genre-Specific Curation Beats General Platforms
 
-The honest answer is specificity. A reader who loves [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) has different needs than one hunting for a slow-burn reverse harem romance, and both have different needs than someone deep into [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) system-building. General platforms flatten those differences. Harem-Lit.com's community ratings preserve them — because the people doing the rating already understand the distinctions.
+The honest answer is specificity. A reader who loves [progression fantasy](/blog/what-is-progression-fantasy-harem) has different needs than one hunting for a slow-burn reverse harem romance, and both have different needs than someone deep into [LitRPG](/blog/what-is-litrpg-harem) system-building. General platforms flatten those differences. Harem-Lit.com's community ratings preserve them — because the people doing the rating already understand the distinctions.
 
 If you've been relying on retail algorithms or scattered forum posts to find your next read, [Harem-Lit.com](https://harem-lit.com) is worth an afternoon of your time. Build your shelves, browse the ratings, and let the genre's own community point you toward what's worth reading next.

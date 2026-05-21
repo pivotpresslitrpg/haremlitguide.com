@@ -22,7 +22,7 @@ For readers who prefer their adventure with a nautical tilt and a sense of growi
 
 **Lady Lock: A Harem Fantasy (Part One)** by Jenna Albright introduces something genuinely underrepresented in the genre: a thieves' guild setting with a female-authored voice that still hits every note harem readers come for. According to community data from Harem-Lit.com, titles with rogue or thief protagonists represent fewer than 6% of the harem fantasy catalogue despite consistently strong reader satisfaction scores. Albright's entry into that niche deserves attention.
 
-Rounding out the essential reads this month is **Starship Mercenary** by Alex Gunnar. Science fiction harem sits in a fascinating corner of the broader landscape — think the bones of [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) transplanted into a space-opera shell — and *Starship Mercenary* leans into that energy with confidence. It's a clean, fast read with genuine stakes.
+Rounding out the essential reads this month is **Starship Mercenary** by Alex Gunnar. Science fiction harem sits in a fascinating corner of the broader landscape — think the bones of [progression fantasy](/blog/what-is-progression-fantasy-harem) transplanted into a space-opera shell — and *Starship Mercenary* leans into that energy with confidence. It's a clean, fast read with genuine stakes.
 
 ## Ranked by Community Rating on Harem-Lit.com
 

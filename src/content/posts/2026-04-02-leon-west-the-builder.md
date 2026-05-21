@@ -14,7 +14,7 @@ Within that space, Leon West has carved out a very specific and very beloved nic
 
 ## What Makes Leon West's Writing Distinctive
 
-Leon West's signature move is the *builder* fantasy. His protagonists don't just fight their way to the top — they construct something. A village. A legacy. A dojo. A life. That thematic throughline runs across everything he writes, and it gives his stories an unusually grounded, satisfying texture that fans of cozy [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) and [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) tend to latch onto immediately.
+Leon West's signature move is the *builder* fantasy. His protagonists don't just fight their way to the top — they construct something. A village. A legacy. A dojo. A life. That thematic throughline runs across everything he writes, and it gives his stories an unusually grounded, satisfying texture that fans of cozy [LitRPG](/blog/what-is-litrpg-harem) and [progression fantasy](/blog/what-is-progression-fantasy-harem) tend to latch onto immediately.
 
 His prose is clean and readable, his systems are intuitive without being overwhelming, and his romance is woven organically into the larger narrative — relationships feel earned rather than dropped into the story as a reward mechanic. According to community data from Harem-Lit.com, every Leon West title in our database carries a perfect 5.0★ rating, a distinction held by fewer than 3% of tracked series on the site.
 
@@ -26,7 +26,7 @@ Ranked by community rating and reader engagement on Harem-Lit.com:
 
 1. **Idle Village Hero** (4 books) — The flagship series. A town-building [harem LitRPG](/blog/what-is-harem-litrpg) where the hero isn't conquering dungeons but developing a settlement, managing resources, and building genuine community. Think Stardew Valley with stats, swords, and a growing circle of companions.
 2. **Dragon Bound** (co-authored with Freya Stone) — A legacy-building fantasy with draconic power fantasy elements and strong romantic chemistry. The Freya Stone co-authorship brings a different emotional register to the relationship dynamics — warmer, more layered.
-3. **Martial Arts Master** (3 books) — An academy [progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) with cultivation-adjacent mechanics. Fans of tournament arcs, training montages, and disciplined power growth will find a lot to love here.
+3. **Martial Arts Master** (3 books) — An academy [progression fantasy](/blog/what-is-progression-fantasy-harem) with cultivation-adjacent mechanics. Fans of tournament arcs, training montages, and disciplined power growth will find a lot to love here.
 4. **Dungeon Champions** (co-authored with Adam Lance) — A team-building dungeon crawler that sits inside the larger Fateforged universe. Book Two in particular has drawn exceptional reader enthusiasm.
 
 ## Where Should New Readers Start?
