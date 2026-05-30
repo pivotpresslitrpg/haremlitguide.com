@@ -50,6 +50,9 @@ const EDITORIAL_PRIORITY: { author: string }[] = [
   { author: 'Virgil Knightley' },
 ];
 
+/** Curated authors to spotlight in the Featured Authors funnel module. */
+export const FEATURED_AUTHORS: string[] = EDITORIAL_PRIORITY.map((e) => e.author);
+
 function applyEditorialCuration(books: Book[]): Book[] {
   if (books.length < 3) return books;
 
@@ -93,6 +96,9 @@ export interface Book {
   title: string;
   slug: string;
   authors: string[];
+  // {author_name: username} for authors with a claimed/verified harem-lit
+  // account; absent until the backend enhancement deploys, so treat as optional.
+  author_usernames?: Record<string, string>;
   cover_image_url: string | null;
   amazon_url: string | null;
   genres: string[];
@@ -187,4 +193,35 @@ export function formatAuthors(authors: string[]): string {
   if (authors.length === 1) return authors[0];
   if (authors.length === 2) return authors.join(' & ');
   return authors.slice(0, -1).join(', ') + ' & ' + authors[authors.length - 1];
+}
+
+// ---------------------------------------------------------------------------
+// Platform funnel links — route blog traffic to the goal platform.
+// Detail pages live on harem-lit.com (the API is a separate api. subdomain).
+// Author pages exist only for claimed/verified accounts, so authorPlatformUrl
+// returns null for authors without a public profile (plain-text fallback).
+// ---------------------------------------------------------------------------
+
+export const PLATFORM_BASE = 'https://harem-lit.com';
+export const PLATFORM_NAME = 'Harem-Lit';
+
+/** Canonical platform book page. Uses the feed id (real DB id), never the slug. */
+export function bookPlatformUrl(book: Book): string {
+  return `${PLATFORM_BASE}/books/${book.id}`;
+}
+
+/** Platform author page for a given author name, or null if no public account. */
+export function authorPlatformUrl(book: Book, authorName: string): string | null {
+  const username = book.author_usernames?.[authorName]
+    ?? book.author_usernames?.[authorName.trim()];
+  return username ? `${PLATFORM_BASE}/authors/${username}` : null;
+}
+
+/** First author-page URL found for authorName across a pool of books, else null. */
+export function findAuthorUrlInBooks(books: Book[], authorName: string): string | null {
+  for (const b of books) {
+    const url = authorPlatformUrl(b, authorName);
+    if (url) return url;
+  }
+  return null;
 }
