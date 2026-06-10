@@ -124,13 +124,17 @@ CONFIG = {
 
     'internal_link_guidance': (
         "Include natural internal links where relevant:\n"
-        "- When mentioning harem fantasy definition, link to /blog/what-is-harem-fantasy\n"
-        "- When mentioning harem LitRPG, link to /blog/what-is-harem-litrpg\n"
-        "- When recommending books, link to the appropriate list page (e.g., /lists/best-harem-fantasy-books)\n"
-        "- When mentioning completed series, link to /lists/best-completed-harem-series\n"
-        "- When mentioning cultivation novels, link to /lists/best-cultivation-novels\n"
-        "- When discussing new releases, link to /new-releases\n"
-        "- Format as markdown links: [text](/path) or [text](https://full-url)"
+        "- When mentioning harem fantasy definition, link to /blog/what-is-harem-fantasy/\n"
+        "- When mentioning harem LitRPG, link to /blog/what-is-harem-litrpg/\n"
+        "- When recommending books, link to the appropriate list page (e.g., /lists/best-harem-fantasy-books/)\n"
+        "- When mentioning completed series, link to /lists/best-completed-harem-series/\n"
+        "- When mentioning cultivation novels, link to /lists/best-cultivation-novels/\n"
+        "- When discussing new releases, link to /new-releases/\n"
+        "- Format as markdown links: [text](/path/) or [text](https://full-url) — internal paths always end with a trailing slash\n\n"
+        "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
+        "to https://harem-lit.com — put it on the platform name the first time it is "
+        "mentioned, e.g. [Harem-Lit.com](https://harem-lit.com). A bare unlinked "
+        "mention does not count."
     ),
 
     'geo_guidance': (

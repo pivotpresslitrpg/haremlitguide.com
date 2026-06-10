@@ -5,6 +5,7 @@ import {
   FEATURED_AUTHORS,
   PLATFORM_BASE,
   PLATFORM_NAME,
+  withUtm,
   type Book,
 } from '../lib/api';
 
@@ -39,7 +40,7 @@ function repCover(name: string): string | null {
 // else the platform authors directory.
 const featured = FEATURED_AUTHORS.filter(hasBooks).map((name) => ({
   name,
-  url: findAuthorUrlInBooks(books, name) ?? authorsDir,
+  url: findAuthorUrlInBooks(books, name, 'featured-authors') ?? withUtm(authorsDir, 'featured-authors'),
   cover: repCover(name),
 }));
 ---
