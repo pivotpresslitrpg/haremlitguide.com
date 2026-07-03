@@ -8,7 +8,7 @@ tags: ["Adam Lance", "Fated Enforcer", "Hex Kittens", "Fateforged", "Tabletverse
 featured: true
 ---
 
-If you've followed [Adam Lance](/blog/adam-lance-the-architect-of-the-fateforged-universe) for any length of time, you know the rhythm: a series lands, the community reacts, and within a few weeks Lance is already setting up the next swing. The man does not coast. His most recent stretch is one of the busiest of his career — and unusually for a busy stretch in [harem fantasy](/blog/what-is-harem-fantasy), the quality has not slipped.
+If you've followed [Adam Lance](/blog/2026-03-17-adam-lance-the-architect-of-the-fateforged-universe/) for any length of time, you know the rhythm: a series lands, the community reacts, and within a few weeks Lance is already setting up the next swing. The man does not coast. His most recent stretch is one of the busiest of his career — and unusually for a busy stretch in [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/), the quality has not slipped.
 
 This post covers Lance's three newest active works: the **Fated Enforcer** trilogy (a solo series), **Hex Kittens** (a brand-new collaborative experiment with Michael Dalton and Neil Bimbeau), and the **Trailer Park Elves Book 3** continuation with Dalton. Together they show a writer expanding his range without losing the comedic heart that made the Fateforged universe beloved in the first place. Based on our analysis of 50,000+ titles tracked on [Harem-Lit.com](https://harem-lit.com), Lance's catalog continues its rare pattern: every title carrying his name sits at a 5.0★ community rating.
 
@@ -21,16 +21,16 @@ The premise: Alexander Colin, a financially struggling lawyer and former militar
 What makes Fated Enforcer click:
 
 1. **The character voice is sharp** — Alex is a working-class lawyer first, an Enforcer second. The financial pressure and procedural-investigation framing give the book a grounded, almost noir feel that Lance's other series don't go for.
-2. **Smolder is one of Lance's best companions** — a snarky, food-obsessed pact demon who reads as half conscience and half bad-influence roommate. Fans of [companion-driven harem fantasy](/blog/books-like-he-who-fights-with-monsters-companion-cast-harem-fantasy) will recognize the dynamic immediately.
+2. **Smolder is one of Lance's best companions** — a snarky, food-obsessed pact demon who reads as half conscience and half bad-influence roommate. Fans of [companion-driven harem fantasy](/blog/2026-04-13-books-like-he-who-fights-with-monsters-companion-cast-harem-fantasy/) will recognize the dynamic immediately.
 3. **The Tablet system is mechanically fresh** — character sheets sit at the back of the book rather than in-line, which keeps pacing tight. The "pip" progression structure (Combat, Social, Intellect) gives the series a clean three-pillar identity.
 
-For readers coming from the [Fateforged universe](/blog/fateforged-universe-reading-order-every-series-every-book-one-connected-world), Fated Enforcer is the most accessible solo Lance entry to date. It does not require any Fateforged knowledge to enjoy, but the easter eggs reward existing fans.
+For readers coming from the [Fateforged universe](/blog/2026-03-13-fateforged-universe-reading-order-every-series-every-book-one-connected-world/), Fated Enforcer is the most accessible solo Lance entry to date. It does not require any Fateforged knowledge to enjoy, but the easter eggs reward existing fans.
 
 ## Hex Kittens: The Most Interesting Experiment in Lance's Catalog
 
 **Hex Kittens** is the wildest thing Lance has released this year and the most interesting thing he's released in a while. Subtitled *A Fateforged Supernatural Thirst Trap*, it's an episodic, progression-lite series co-authored on a rotating-director model with **Michael Dalton** and **Neil Bimbeau**. Each "episode" is about 6,000 words; the framing is explicitly TV-style — same characters, same world, rotating creative lead.
 
-It's also a deliberate departure from Lance's usual full-system [harem LitRPG](/blog/what-is-harem-litrpg). Hex Kittens drops the stat blocks entirely. Two episodes are out so far; the launch protagonist Nick is a paramedic who answers what looks like a routine cardiac call and ends up cornered in an alley by a troll with sentient breasts.
+It's also a deliberate departure from Lance's usual full-system [harem LitRPG](/blog/what-is-litrpg-harem/). Hex Kittens drops the stat blocks entirely. Two episodes are out so far; the launch protagonist Nick is a paramedic who answers what looks like a routine cardiac call and ends up cornered in an alley by a troll with sentient breasts.
 
 That sentence is not a typo. Lance and his collaborators are leaning all the way into the absurdist horror-comedy register, and the result reads less like traditional harem fantasy and more like a Fateforged riff on supernatural urban-fantasy serials. The Fateforged Easter eggs are still there — Wardens, the Fates, fae politics in the background — but Hex Kittens is built so new readers can pick it up cold without touching another series in the universe first.
 
@@ -44,17 +44,17 @@ If you're skeptical about the "progression-lite" thing because you came for the 
 
 ## Trailer Park Elves Book 3: The Long Game
 
-**Trailer Park Elves Book 3** is the latest entry in Lance's longest-running collaboration with [Michael Dalton](/blog/michael-dalton-author-spotlight-isekai-emperor-the-fateforged-universe). The Trailer Park Elves arc has been the slow, cumulative payoff of Fateforged's most absurd premise — a working-class trailer park populated by displaced fae — and Book 3 is where the patience starts to compound.
+**Trailer Park Elves Book 3** is the latest entry in Lance's longest-running collaboration with [Michael Dalton](/blog/2026-04-18-michael-dalton-author-spotlight-isekai-emperor-the-fateforged-universe/). The Trailer Park Elves arc has been the slow, cumulative payoff of Fateforged's most absurd premise — a working-class trailer park populated by displaced fae — and Book 3 is where the patience starts to compound.
 
-This is the entry where readers who stuck around for the long-form character work get rewarded. The comedic engine is still humming, but the relationships between protagonist and companions have crossed the line into genuinely earned. If you bounced off [harem LitRPG](/blog/what-is-harem-litrpg) because the romance arcs felt mechanical, Trailer Park Elves is one of the [Fateforged](/blog/fateforged-universe-reading-order-every-series-every-book-one-connected-world) entries most likely to change your mind.
+This is the entry where readers who stuck around for the long-form character work get rewarded. The comedic engine is still humming, but the relationships between protagonist and companions have crossed the line into genuinely earned. If you bounced off [harem LitRPG](/blog/what-is-litrpg-harem/) because the romance arcs felt mechanical, Trailer Park Elves is one of the [Fateforged](/blog/2026-03-13-fateforged-universe-reading-order-every-series-every-book-one-connected-world/) entries most likely to change your mind.
 
 ## Where Should You Start?
 
 Three releases, three different on-ramps. Match them to what you actually want:
 
 - **You want the most polished new Lance entry** → Start with **Fated Enforcer Book 1**. Solo Lance is some of his sharpest work, and the noir-investigative frame is the most genre-distinct thing he's done.
-- **You want something quick, weird, and shareable** → Start with **Hex Kittens Episode 1**. Low commitment, wild tone, easy to recommend to a friend who's curious about [harem fantasy](/blog/what-is-harem-fantasy) but has not committed yet.
-- **You're already a Fateforged reader catching up** → Pick up **Trailer Park Elves Book 3**, then circle back to Fated Enforcer. The TPE continuation rewards the people who've been there since [Book 1 of the universe](/blog/where-to-start-with-the-fateforged-universe-best-entry-points-for-new-readers).
+- **You want something quick, weird, and shareable** → Start with **Hex Kittens Episode 1**. Low commitment, wild tone, easy to recommend to a friend who's curious about [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) but has not committed yet.
+- **You're already a Fateforged reader catching up** → Pick up **Trailer Park Elves Book 3**, then circle back to Fated Enforcer. The TPE continuation rewards the people who've been there since [Book 1 of the universe](/blog/2026-04-09-where-to-start-with-the-fateforged-universe-best-entry-points-for-new-readers/).
 
 Readers coming from the broader [progression fantasy](/blog/what-is-progression-fantasy-harem) space who care more about [LitRPG mechanics](/blog/what-is-litrpg-harem) than tone should still default to **King of the Fae Islands** with [Annabelle Hawthorne](/blog/2026-03-28-annabelle-hawthorne-author-spotlight/) — that one remains the most mechanically dense Fateforged entry. But if mechanics aren't the priority, Fated Enforcer is the new flagship.
 

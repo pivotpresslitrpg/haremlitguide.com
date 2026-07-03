@@ -8,7 +8,7 @@ tags: ["harem fantasy", "litrpg", "dungeon core", "monster protagonist", "absurd
 featured: false
 ---
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) is a subgenre that blends video-game-style progression mechanics — levels, stats, skill trees — with romantic and harem fantasy elements. It is characterized by a power-hungry protagonist, compulsive stat-grinding, and a growing circle of companions who are equal parts allies and love interests.
+[Harem LitRPG](/blog/what-is-litrpg-harem/) is a subgenre that blends video-game-style progression mechanics — levels, stats, skill trees — with romantic and harem fantasy elements. It is characterized by a power-hungry protagonist, compulsive stat-grinding, and a growing circle of companions who are equal parts allies and love interests.
 
 *Everybody Loves Large Chests* by Neven Iliev is one of those rare series that breaks every rule and gets away with it completely. A mimic — yes, a chest-shaped dungeon monster — clawing its way up the food chain through sheer predatory instinct and increasingly unhinged scheming is not the premise you expect to become a genre landmark. And yet here we are. According to community data from Harem-Lit.com, ELLC ranks in the **top 3% of all harem LitRPG titles by reader rating**, with over 90% of reviewers recommending it to first-time readers of the subgenre. Based on our analysis of 50,000+ titles in the harem fantasy space, nothing quite replicates it — but these eight series get gloriously close.
 

@@ -34,7 +34,7 @@ You're used to portal fantasy, alternate worlds, and a fish-out-of-water protago
 
 **Start with:** *Isekai Emperor*, which we reviewed [here](/blog/2026-03-12-isekai-emperor-1-review). The isekai frame is intact, the harem dynamics are well-executed, and the companion cast has real personality. A strong community rating on Harem-Lit.com and one of the easiest genre transitions we can point to.
 
-Also worth noting: the Fateforged universe has multiple isekai-adjacent entry points — [*King of the Fae Islands*](/blog/adam-lance-the-architect-of-the-fateforged-universe) (Adam Lance and Annabelle Hawthorne) is a particularly good landing spot for readers who want city-building mechanics layered into their isekai.
+Also worth noting: the Fateforged universe has multiple isekai-adjacent entry points — [*King of the Fae Islands*](/blog/2026-03-17-adam-lance-the-architect-of-the-fateforged-universe/) (Adam Lance and Annabelle Hawthorne) is a particularly good landing spot for readers who want city-building mechanics layered into their isekai.
 
 ---
 

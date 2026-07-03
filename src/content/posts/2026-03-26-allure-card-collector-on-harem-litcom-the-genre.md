@@ -34,6 +34,6 @@ The card game doesn't stop at collecting. Players can assemble teams and battle 
 
 ## Why Harem Fantasy Readers Will Get This Immediately
 
-Readers who love this genre are already deeply invested in characters. That's the whole point of [harem fantasy](/blog/what-is-harem-fantasy) — the relationships, the ensemble dynamics, the way specific characters stick with you across a series. Allure Card Collector takes that existing attachment and gives it a new dimension. Collecting a Legendary card of a character you've followed through three novels hits differently than a random card pull in a genre-agnostic game.
+Readers who love this genre are already deeply invested in characters. That's the whole point of [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) — the relationships, the ensemble dynamics, the way specific characters stick with you across a series. Allure Card Collector takes that existing attachment and gives it a new dimension. Collecting a Legendary card of a character you've followed through three novels hits differently than a random card pull in a genre-agnostic game.
 
 If you haven't explored it yet, head to [Harem-Lit.com](https://harem-lit.com) and pull your first daily free set. The collection grows fast, and yes — chasing that first Legendary is exactly as addictive as it sounds.

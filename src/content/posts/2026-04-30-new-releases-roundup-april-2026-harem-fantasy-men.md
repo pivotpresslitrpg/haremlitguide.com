@@ -14,7 +14,7 @@ According to community data from [Harem-Lit.com](https://harem-lit.com), the har
 
 ## Best New Harem Fantasy Releases This Month
 
-The strongest new entries this month span isekai, [harem LitRPG](/blog/what-is-harem-litrpg), culinary fantasy, and necromancer fiction — a reminder that harem fantasy is one of the most genre-fluid spaces in men's fiction right now.
+The strongest new entries this month span isekai, [harem LitRPG](/blog/what-is-litrpg-harem/), culinary fantasy, and necromancer fiction — a reminder that harem fantasy is one of the most genre-fluid spaces in men's fiction right now.
 
 **Ranked by community rating on Harem-Lit.com:**
 

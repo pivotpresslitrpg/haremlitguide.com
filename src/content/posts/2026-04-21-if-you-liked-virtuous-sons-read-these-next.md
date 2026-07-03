@@ -8,7 +8,7 @@ tags: ["virtuous sons", "greek mythology", "cultivation", "progression fantasy",
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and power fantasy in which a protagonist builds deep relationships with multiple women while rising to dominance in a richly built world. It is characterized by a strong male lead, meaningful romantic bonds, and an escalating power progression that rewards patience and mastery.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's romance and power fantasy in which a protagonist builds deep relationships with multiple women while rising to dominance in a richly built world. It is characterized by a strong male lead, meaningful romantic bonds, and an escalating power progression that rewards patience and mastery.
 
 Virtuous Sons sits at a fascinating intersection of those traits. It's a [cultivation novel](/lists/best-cultivation-novels) wrapped in ancient Greek mythology — Lio Aetos climbing toward godhood through stoic discipline, philosophy, and hard-won power — and it has developed one of the most devoted fanbases in the entire genre. According to reader ratings on Harem-Lit.com, cultivation-influenced titles with strong world-building score approximately 18% higher in long-term series retention than the genre average, and Virtuous Sons is a textbook example of why.
 

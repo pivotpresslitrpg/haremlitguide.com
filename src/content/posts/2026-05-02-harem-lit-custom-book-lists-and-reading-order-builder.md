@@ -21,16 +21,16 @@ That's what the new **custom (unranked) book lists** feature solves. You can now
 Why this is more useful than it sounds:
 
 1. **It removes ranking anxiety.** Ranked lists implicitly demand defense — why is this book at #4 instead of #2? An unranked list is just a shelf. You're building a recommendation set, not a leaderboard.
-2. **It makes themed collections actually possible.** "Cozy [slice-of-life](/blog/what-is-slice-of-life-harem) reads for when I'm sick." "[Monster girl](/blog/what-is-monster-girl-harem) entries with a soft tone." "[Reverse-isekai](/blog/reverse-isekai-harem-fantasy-the-2026-guide) recommendations for newcomers." None of those work as ranked lists — they work as unranked shelves.
+2. **It makes themed collections actually possible.** "Cozy [slice-of-life](/blog/what-is-slice-of-life-harem) reads for when I'm sick." "[Monster girl](/blog/what-is-monster-girl-harem) entries with a soft tone." "[Reverse-isekai](/blog/2026-03-31-reverse-isekai-harem-fantasy-the-2026-guide/) recommendations for newcomers." None of those work as ranked lists — they work as unranked shelves.
 3. **It complements ranked lists rather than replacing them.** If you want algorithmic discovery, ranked lists are still there. Custom lists fill the niche ranked lists can't fill: human curation organized by taste rather than score.
 
-A practical example: if you're a fan of the [Fateforged universe](/blog/how-the-fateforged-universe-works-collaborative-harem-fantasy-at-scale), you can now build a "What I'd hand a new Fateforged reader" list that reflects *your* preferred order, separate from the canonical reading order. That's the kind of personal-curation use case the platform finally has a home for.
+A practical example: if you're a fan of the [Fateforged universe](/blog/2026-04-23-how-the-fateforged-universe-works-collaborative-harem-fantasy-at-scale/), you can now build a "What I'd hand a new Fateforged reader" list that reflects *your* preferred order, separate from the canonical reading order. That's the kind of personal-curation use case the platform finally has a home for.
 
 ## Reading-Order Builder for Authors: Shared-Universe Lanes Land
 
-The author-side feature is, in some ways, even bigger — especially for the [Fateforged universe](/blog/fateforged-universe-reading-order-every-series-every-book-one-connected-world) and any other shared-world project on the platform. Harem-Lit.com's authors now have a dedicated **Reading Order Builder** in their dashboard, with a major upgrade: support for **lanes**.
+The author-side feature is, in some ways, even bigger — especially for the [Fateforged universe](/blog/2026-03-13-fateforged-universe-reading-order-every-series-every-book-one-connected-world/) and any other shared-world project on the platform. Harem-Lit.com's authors now have a dedicated **Reading Order Builder** in their dashboard, with a major upgrade: support for **lanes**.
 
-Here's why lanes matter. A traditional reading order is linear: Book 1 → Book 2 → Book 3. That works fine for a single-author trilogy. It does not work for a sprawling shared universe like Fateforged, where a reader might want to follow [Adam Lance's](/blog/adam-lance-the-architect-of-the-fateforged-universe) Tabletverse track *and* [Michael Dalton's](/blog/michael-dalton-author-spotlight-isekai-emperor-the-fateforged-universe) Isekai Emperor arc *and* the [Annabelle Hawthorne](/blog/annabelle-hawthorne-author-spotlight) King of the Fae Islands thread, with the option to read each lane in parallel or serial depending on personal preference.
+Here's why lanes matter. A traditional reading order is linear: Book 1 → Book 2 → Book 3. That works fine for a single-author trilogy. It does not work for a sprawling shared universe like Fateforged, where a reader might want to follow [Adam Lance's](/blog/2026-03-17-adam-lance-the-architect-of-the-fateforged-universe/) Tabletverse track *and* [Michael Dalton's](/blog/2026-04-18-michael-dalton-author-spotlight-isekai-emperor-the-fateforged-universe/) Isekai Emperor arc *and* the [Annabelle Hawthorne](/blog/2026-03-28-annabelle-hawthorne-author-spotlight/) King of the Fae Islands thread, with the option to read each lane in parallel or serial depending on personal preference.
 
 The new builder lets authors define exactly that. Each lane is its own reading path; the builder shows them side by side; readers can pick which lane to follow first or weave them as they go. For a universe with a constant author-architect (Lance) plus rotating co-authors per series, this is the natural representation of the actual reading experience.
 
@@ -55,7 +55,7 @@ Three layers of organization, each doing its own job, none stepping on the other
 
 For readers:
 
-1. Pick a theme that doesn't fit a ranked list — slice-of-life recommendations for tired weeknights, [empire-building](/blog/what-is-empire-building-harem) entries for binge weekends, [monster-girl](/blog/best-monster-girl-fantasy-books) recs you'd actually hand to a skeptical friend.
+1. Pick a theme that doesn't fit a ranked list — slice-of-life recommendations for tired weeknights, [empire-building](/blog/what-is-empire-building-harem) entries for binge weekends, [monster-girl](/blog/2026-03-26-best-monster-girl-fantasy-books/) recs you'd actually hand to a skeptical friend.
 2. Build the shelf as an unranked custom list on Harem-Lit.com.
 3. Share it socially if you want, or keep it private as a re-read tracker.
 
@@ -67,8 +67,8 @@ For authors:
 
 ## What's Next
 
-Based on the trajectory of feature releases over the last quarter, Harem-Lit.com is steadily building toward a denser, more personalized [harem fantasy](/blog/what-is-harem-fantasy) experience. The pre-release countdown solved "when does it come out." Friends/social solved "what are my people reading." Custom lists solve "how do I track what I love." Reading-order lanes solve "how do new readers navigate a sprawling universe." Each piece of the picture is filling in.
+Based on the trajectory of feature releases over the last quarter, Harem-Lit.com is steadily building toward a denser, more personalized [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) experience. The pre-release countdown solved "when does it come out." Friends/social solved "what are my people reading." Custom lists solve "how do I track what I love." Reading-order lanes solve "how do new readers navigate a sprawling universe." Each piece of the picture is filling in.
 
 If you haven't built a custom list yet, the cold-start problem is the easiest in the world to solve: pick three books you'd hand to a new reader and start there. The list grows itself from there. And if you're an author with a multi-series presence on the platform, the Reading Order Builder is worth thirty minutes of your time — the kind of thirty minutes that pays back over months in onboarding ease.
 
-Explore the platform's full feature set on [Harem-Lit.com](https://harem-lit.com), and if you're looking for your next series after building your first custom list, our [best harem fantasy for beginners](/blog/best-harem-fantasy-for-beginners-where-to-start) guide is the natural starting point.
+Explore the platform's full feature set on [Harem-Lit.com](https://harem-lit.com), and if you're looking for your next series after building your first custom list, our [best harem fantasy for beginners](/blog/2026-03-21-best-harem-fantasy-for-beginners-where-to-start/) guide is the natural starting point.

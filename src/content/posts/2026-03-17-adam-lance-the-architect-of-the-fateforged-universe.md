@@ -8,13 +8,13 @@ tags: ["Adam Lance", "Fateforged", "Trailer Park Elves", "King of the Fae Island
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a genre defined by a male protagonist who builds meaningful bonds with multiple companions across a high-stakes adventure. It is characterized by wish-fulfillment power fantasy, romantic tension, and world-building that rewards readers who want both heart and spectacle. Inside that genre lives a rich subgenre called [harem LitRPG](/blog/what-is-harem-litrpg) — and Adam Lance is one of its most consistently entertaining architects.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a genre defined by a male protagonist who builds meaningful bonds with multiple companions across a high-stakes adventure. It is characterized by wish-fulfillment power fantasy, romantic tension, and world-building that rewards readers who want both heart and spectacle. Inside that genre lives a rich subgenre called [harem LitRPG](/blog/what-is-litrpg-harem/) — and Adam Lance is one of its most consistently entertaining architects.
 
 If you've spent any time in this community, you've almost certainly bumped into the Fateforged universe. Adam Lance is the constant thread running through all of it — the author whose fingerprints are on every series, every magic system, and every joke that makes you laugh out loud at 2 a.m. when you absolutely should be sleeping. Based on our analysis of 50,000+ titles tracked on Harem-Lit.com, Adam Lance holds a rare distinction: every single title in our database carrying his name sits at a perfect 5.0-star community rating. That's not luck. That's craft.
 
 ## What Makes Adam Lance's Writing Style Unique
 
-Adam Lance writes harem LitRPG that refuses to take itself too seriously — and that's entirely the point. His prose has a breezy, comedic energy that echoes the best of the slice-of-life subgenre, but he never lets the jokes hollow out the stakes. Characters feel genuinely fun to be around. The worlds feel lived-in and weird in the best ways. According to community data from Harem-Lit.com, Lance's titles average a reader engagement score placing them among the top 5% of [harem LitRPG releases](/blog/what-is-harem-litrpg) in the past two years.
+Adam Lance writes harem LitRPG that refuses to take itself too seriously — and that's entirely the point. His prose has a breezy, comedic energy that echoes the best of the slice-of-life subgenre, but he never lets the jokes hollow out the stakes. Characters feel genuinely fun to be around. The worlds feel lived-in and weird in the best ways. According to community data from Harem-Lit.com, Lance's titles average a reader engagement score placing them among the top 5% of [harem LitRPG releases](/blog/what-is-litrpg-harem/) in the past two years.
 
 His recurring strengths include:
 

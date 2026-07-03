@@ -8,7 +8,7 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a genre defined by a male protagonist forming deep bonds — romantic, adventurous, and magical — with a group of compelling female characters. It is characterized by power progression, rich world-building, and relationship dynamics that sit at the heart of every story. Within that broad genre, the Fateforged Shared Universe is doing something that almost nobody else in the harem lit space is attempting: building a fully interconnected multi-author world, with crossover characters, shared lore, and a grand unified timeline across five distinct series.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a genre defined by a male protagonist forming deep bonds — romantic, adventurous, and magical — with a group of compelling female characters. It is characterized by power progression, rich world-building, and relationship dynamics that sit at the heart of every story. Within that broad genre, the Fateforged Shared Universe is doing something that almost nobody else in the harem lit space is attempting: building a fully interconnected multi-author world, with crossover characters, shared lore, and a grand unified timeline across five distinct series.
 
 If you've been looking for your next deep-dive series home — the kind where finishing one book makes you want to crack open three others immediately — this universe deserves your full attention.
 
@@ -26,7 +26,7 @@ The genius of the Fateforged approach is that it isn't a single author trying to
 2. **Trailer Park Elves** (Adam Lance & Michael Dalton) — Elves living in modern rural America. Wildly original in premise, this one leans into the humor and warmth that Dalton brings from his *Shifter Girls* work.
 3. **King of the Fae Islands** (Adam Lance & Annabelle Hawthorne) — Fae realm harem fantasy. Hawthorne's influence gives this series a lush, romantic atmosphere that fans of high-fantasy romance will absolutely gravitate toward.
 4. **Isle of the Amazonian Elves** (Adam Lance & Leon West) — Stranded on an island with amazon elves. West's action-forward instincts (visible in his *Idle Village Hero* series) make this one propulsive and fun.
-5. **Dungeon Champions** (Adam Lance & Leon West) — [Harem LitRPG](/blog/what-is-harem-litrpg) dungeon-diving with a companion harem. If you want progression mechanics layered over relationship dynamics, this is the series to reach for first.
+5. **Dungeon Champions** (Adam Lance & Leon West) — [Harem LitRPG](/blog/what-is-litrpg-harem/) dungeon-diving with a companion harem. If you want progression mechanics layered over relationship dynamics, this is the series to reach for first.
 
 Based on our analysis of titles tracked across Harem-Lit.com, co-authored harem series with a consistent shared-world anchor — like Adam Lance's role here — show approximately 30% higher reader completion rates than loosely branded multi-author projects without that structural backbone.
 

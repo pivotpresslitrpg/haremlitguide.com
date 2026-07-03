@@ -8,9 +8,9 @@ tags: ["new releases", "harem fantasy", "LitRPG", "shifter romance", "sci-fi har
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's adventure and romance fiction in which the male protagonist builds meaningful relationships with multiple female characters alongside a central power fantasy narrative. It is characterized by progression systems, immersive world-building, and a tone that balances action with genuine romantic tension.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's adventure and romance fiction in which the male protagonist builds meaningful relationships with multiple female characters alongside a central power fantasy narrative. It is characterized by progression systems, immersive world-building, and a tone that balances action with genuine romantic tension.
 
-According to community data from Harem-Lit.com, new release activity in the harem fantasy category has grown steadily, with [harem LitRPG](/blog/what-is-harem-litrpg) titles consistently accounting for more than 40% of monthly submissions. Based on our analysis of 50,000+ titles tracked across the genre, series continuations in their fourth installment or beyond show 23% higher average reader retention than debut entries — which makes several books in this roundup particularly interesting. Let's get into what just dropped.
+According to community data from Harem-Lit.com, new release activity in the harem fantasy category has grown steadily, with [harem LitRPG](/blog/what-is-litrpg-harem/) titles consistently accounting for more than 40% of monthly submissions. Based on our analysis of 50,000+ titles tracked across the genre, series continuations in their fourth installment or beyond show 23% higher average reader retention than debut entries — which makes several books in this roundup particularly interesting. Let's get into what just dropped.
 
 ## Best New Harem Fantasy Releases This Month
 

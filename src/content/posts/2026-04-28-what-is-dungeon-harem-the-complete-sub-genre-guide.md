@@ -8,7 +8,7 @@ tags: ["Dungeon Harem", "HaremLit", "LitRPG", "Dungeon Core", "Fantasy Harem", "
 featured: false
 ---
 
-Dungeon harem is a sub-genre of [harem fantasy](/blog/what-is-harem-fantasy) in which the male protagonist either constructs and commands a dungeon as its core intelligence, or dives through one as an increasingly powerful adventurer — all while building romantic bonds with a growing cast of female companions. It is characterized by dungeon-building or dungeon-diving as the central loop, [LitRPG-style progression mechanics](/blog/what-is-harem-litrpg), and a power fantasy that ties territorial control directly to romantic and social status.
+Dungeon harem is a sub-genre of [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) in which the male protagonist either constructs and commands a dungeon as its core intelligence, or dives through one as an increasingly powerful adventurer — all while building romantic bonds with a growing cast of female companions. It is characterized by dungeon-building or dungeon-diving as the central loop, [LitRPG-style progression mechanics](/blog/what-is-litrpg-harem/), and a power fantasy that ties territorial control directly to romantic and social status.
 
 If you've ever wanted the satisfaction of a base-builder, the thrill of a dungeon crawler, and the warmth of a harem romance all layered into one series — this is your sub-genre.
 

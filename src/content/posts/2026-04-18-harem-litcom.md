@@ -8,9 +8,9 @@ tags: ["harem fantasy", "harem litrpg", "reading tools", "community ratings", "b
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of fantasy and men's romance fiction in which a male protagonist develops meaningful bonds with multiple female companions. It is characterized by power fantasy progression, romantic tension across an ensemble cast, and world-building drawn from isekai, LitRPG, cultivation, and epic fantasy traditions.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of fantasy and men's romance fiction in which a male protagonist develops meaningful bonds with multiple female companions. It is characterized by power fantasy progression, romantic tension across an ensemble cast, and world-building drawn from isekai, LitRPG, cultivation, and epic fantasy traditions.
 
-That's a broad genre shelf — and finding the right book inside it has always been one of the genre's real friction points. Word of mouth in Discord servers only goes so far. Amazon rankings don't distinguish within subgenres. And most general-purpose reading platforms don't understand the difference between a [harem LitRPG](/blog/what-is-harem-litrpg) system-progression story and a slow-burn cultivation epic.
+That's a broad genre shelf — and finding the right book inside it has always been one of the genre's real friction points. Word of mouth in Discord servers only goes so far. Amazon rankings don't distinguish within subgenres. And most general-purpose reading platforms don't understand the difference between a [harem LitRPG](/blog/what-is-litrpg-harem/) system-progression story and a slow-burn cultivation epic.
 
 That's exactly the gap that [Harem-Lit.com](https://harem-lit.com) was built to close.
 

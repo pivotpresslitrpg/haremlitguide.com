@@ -10,7 +10,7 @@ featured: true
 
 # Dungeon Champions Book 1 Review: The Harem LitRPG That Makes Team-Building Its Superpower
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) is a subgenre that fuses the stat-driven progression of [LitRPG](/blog/what-is-litrpg-harem) with the relationship-building and found-family dynamics of [harem fantasy](/blog/what-is-harem-fantasy). It is characterized by character sheets, skill acquisition, leveling systems, and a central protagonist who develops meaningful bonds — romantic and otherwise — with a growing cast of companions.
+[Harem LitRPG](/blog/what-is-litrpg-harem/) is a subgenre that fuses the stat-driven progression of [LitRPG](/blog/what-is-litrpg-harem) with the relationship-building and found-family dynamics of [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/). It is characterized by character sheets, skill acquisition, leveling systems, and a central protagonist who develops meaningful bonds — romantic and otherwise — with a growing cast of companions.
 
 *Dungeon Champions* by Adam Lance and Leon West arrives with a clean, confident premise and promptly does something most dungeon-diving LitRPGs don't bother with: it makes the hero's greatest power the ability to make other people better. That's not a small creative decision. It shapes everything.
 

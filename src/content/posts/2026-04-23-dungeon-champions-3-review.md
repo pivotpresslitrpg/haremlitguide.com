@@ -10,7 +10,7 @@ featured: true
 
 # Dungeon Champions Book 3 Review: The Harem LitRPG Series That Gets Team-Building Right
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) is a subgenre that fuses the stat-driven progression systems of game-lit fiction with the multi-partner romance dynamics of harem fantasy. It is characterized by level-up mechanics and character sheets, a male lead building meaningful bonds with multiple women, and escalating stakes that test both combat capability and emotional connection. *Dungeon Champions Book 3* by Adam Lance and Leon West is, based on our analysis of the series so far, one of the stronger ongoing entries in this space — and Book 3 makes a compelling case that the series is hitting its stride.
+[Harem LitRPG](/blog/what-is-litrpg-harem/) is a subgenre that fuses the stat-driven progression systems of game-lit fiction with the multi-partner romance dynamics of harem fantasy. It is characterized by level-up mechanics and character sheets, a male lead building meaningful bonds with multiple women, and escalating stakes that test both combat capability and emotional connection. *Dungeon Champions Book 3* by Adam Lance and Leon West is, based on our analysis of the series so far, one of the stronger ongoing entries in this space — and Book 3 makes a compelling case that the series is hitting its stride.
 
 ---
 
@@ -18,7 +18,7 @@ featured: true
 
 *Dungeon Champions* follows Jordan, a man who woke in the Fae Wilds with no memory and a rare Battle Scholar class that lets him generate and administer Epic Tablets — essentially making him a walking, breathing party buff for a team of women who were each left behind by a corrupt adventuring sisterhood. By Book 3, Jordan's Society of the Defiant is no longer a scrappy band of survivors. They're a real team, with a house, a silver mine, growing abilities, and a harem that has real emotional texture.
 
-That last part matters. [Harem fantasy](/blog/what-is-harem-fantasy) lives or dies by the relationships, and Lance and West understand this. Jordan's connections to Zuri (the confident half-gorgon cook), Merielle (the no-nonsense elf warrior), and Nym (the delightfully chaotic catgirl) each feel distinct. They aren't interchangeable. The opening chapter of Book 3 demonstrates this efficiently: Jordan walks out of a bathroom to find each woman expressing affection in her own idiom — Zuri with a knowing wink, Merielle with protective snarling at Skullie the lich, Nym with unbothered enthusiasm. It's warm, it's funny, and it tells you exactly who these women are without stopping to explain them.
+That last part matters. [Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) lives or dies by the relationships, and Lance and West understand this. Jordan's connections to Zuri (the confident half-gorgon cook), Merielle (the no-nonsense elf warrior), and Nym (the delightfully chaotic catgirl) each feel distinct. They aren't interchangeable. The opening chapter of Book 3 demonstrates this efficiently: Jordan walks out of a bathroom to find each woman expressing affection in her own idiom — Zuri with a knowing wink, Merielle with protective snarling at Skullie the lich, Nym with unbothered enthusiasm. It's warm, it's funny, and it tells you exactly who these women are without stopping to explain them.
 
 ---
 

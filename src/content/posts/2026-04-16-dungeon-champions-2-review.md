@@ -10,9 +10,9 @@ featured: true
 
 # Dungeon Champions Book 2 Review: The LitRPG Harem Series That Nails Team Chemistry
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of fantasy romance in which a central male protagonist develops deep, often romantic relationships with multiple female companions. It is characterized by character-driven emotional bonds, power progression, and ensemble casts where each member contributes distinctly to the group dynamic.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of fantasy romance in which a central male protagonist develops deep, often romantic relationships with multiple female companions. It is characterized by character-driven emotional bonds, power progression, and ensemble casts where each member contributes distinctly to the group dynamic.
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) sits at the overlap of those relationship dynamics and the number-crunching, stat-tracking satisfaction of game-lit fiction — and **Dungeon Champions Book 2** by **Adam Lance and Leon West** is one of the cleaner executions of that combination you'll find on the current release slate.
+[Harem LitRPG](/blog/what-is-litrpg-harem/) sits at the overlap of those relationship dynamics and the number-crunching, stat-tracking satisfaction of game-lit fiction — and **Dungeon Champions Book 2** by **Adam Lance and Leon West** is one of the cleaner executions of that combination you'll find on the current release slate.
 
 ---
 

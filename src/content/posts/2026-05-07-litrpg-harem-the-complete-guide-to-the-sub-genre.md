@@ -8,7 +8,7 @@ tags: ["LitRPG Harem", "LitRPG", "Harem Fantasy", "Sub-Genre Guide", "Recommenda
 featured: false
 ---
 
-LitRPG harem is a sub-genre of [harem fantasy](/blog/what-is-harem-fantasy) in which the protagonist navigates a world governed by game-like systems — experience points, skill trees, stat screens, and level-ups — while building romantic and adventuring bonds with multiple companions. It is characterized by visible progression mechanics, power fantasy wish fulfillment, and a cast of compelling female characters who are as invested in the hero's journey as they are in him.
+LitRPG harem is a sub-genre of [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) in which the protagonist navigates a world governed by game-like systems — experience points, skill trees, stat screens, and level-ups — while building romantic and adventuring bonds with multiple companions. It is characterized by visible progression mechanics, power fantasy wish fulfillment, and a cast of compelling female characters who are as invested in the hero's journey as they are in him.
 
 If that sentence just made your brain light up, welcome. You've found your people.
 

@@ -15,7 +15,7 @@ faq:
     a: "The appeal is the contrast dynamic. Watching beings with magical nature interact with ordinary modern life — supermarkets, traffic jams, smartphones — creates both comedy and emotional tenderness. The mundane world becomes an adventure when seen through a fantastical character's eyes."
 ---
 
-Something interesting is happening in the [harem fantasy community](https://harem-lit.com) right now. Based on our analysis of titles tracked on [Harem-Lit.com](https://harem-lit.com), reverse isekai harem fiction has seen its community engagement scores surge through early 2026 more than any other subgenre — faster than [cultivation harem](/blog/what-is-cultivation-harem), faster than settlement-builders, and significantly faster than the previous boom cycles.
+Something interesting is happening in the [harem fantasy community](https://harem-lit.com) right now. Based on our analysis of titles tracked on [Harem-Lit.com](https://harem-lit.com), reverse isekai harem fiction has seen its community engagement scores surge through early 2026 more than any other subgenre — faster than cultivation harem, faster than settlement-builders, and significantly faster than the previous boom cycles.
 
 If you've been noticing more books with covers featuring fantastical women in distinctly modern settings — a horned demon girl against a city skyline, a kitsune in contemporary clothing — you're watching that surge in real time.
 

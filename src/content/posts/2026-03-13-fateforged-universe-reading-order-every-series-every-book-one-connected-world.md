@@ -8,7 +8,7 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-The Fateforged Universe is a shared-world [harem fantasy](/blog/what-is-harem-fantasy) setting spanning five interconnected series written by multiple authors under a coordinated timeline. It is characterized by crossover characters, interlocking lore, and the kind of escalating world-building that rewards readers who follow the full arc rather than just one series.
+The Fateforged Universe is a shared-world [harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) setting spanning five interconnected series written by multiple authors under a coordinated timeline. It is characterized by crossover characters, interlocking lore, and the kind of escalating world-building that rewards readers who follow the full arc rather than just one series.
 
 If you've been hovering at the edge of this universe wondering where to jump in, this is the post you've been waiting for.
 
@@ -24,7 +24,7 @@ The connective tissue across all Fateforged series is Adam Lance — the shared 
 
 The Fateforged Universe currently includes five active series. Here they are ranked by recommended entry point for new readers, based on community ratings and accessibility at Harem-Lit.com:
 
-1. **Trailer Park Elves** (Adam Lance & Michael Dalton) — Elves living in modern rural America. Slice-of-life [harem LitRPG](/blog/what-is-harem-litrpg) with a comedic edge and enormous heart. *Trailer Park Elves 5* holds a 5.0★ community rating. This is the gentlest on-ramp into the universe.
+1. **Trailer Park Elves** (Adam Lance & Michael Dalton) — Elves living in modern rural America. Slice-of-life [harem LitRPG](/blog/what-is-litrpg-harem/) with a comedic edge and enormous heart. *Trailer Park Elves 5* holds a 5.0★ community rating. This is the gentlest on-ramp into the universe.
 
 2. **Isekai Emperor** (Adam Lance & Michael Dalton) — A modern man transported to a fantasy empire he's meant to rule. Classic isekai power fantasy with deep harem dynamics and political intrigue. One of the densest series for lore.
 

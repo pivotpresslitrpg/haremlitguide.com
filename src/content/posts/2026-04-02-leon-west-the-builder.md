@@ -8,7 +8,7 @@ tags: ["Leon West", "Idle Village Hero", "Dragon Bound", "Martial Arts Master", 
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and power fantasy fiction in which the protagonist builds meaningful relationships with multiple companions as part of a larger adventure. It is characterized by wish-fulfillment progression, growing found-family dynamics, and deeply satisfying world-building that rewards long-term readers.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's romance and power fantasy fiction in which the protagonist builds meaningful relationships with multiple companions as part of a larger adventure. It is characterized by wish-fulfillment progression, growing found-family dynamics, and deeply satisfying world-building that rewards long-term readers.
 
 Within that space, Leon West has carved out a very specific and very beloved niche — and if you haven't discovered his work yet, you're in for a treat.
 
@@ -24,7 +24,7 @@ That's not a fluke. That's a writer who knows his audience and consistently deli
 
 Ranked by community rating and reader engagement on Harem-Lit.com:
 
-1. **Idle Village Hero** (4 books) — The flagship series. A town-building [harem LitRPG](/blog/what-is-harem-litrpg) where the hero isn't conquering dungeons but developing a settlement, managing resources, and building genuine community. Think Stardew Valley with stats, swords, and a growing circle of companions.
+1. **Idle Village Hero** (4 books) — The flagship series. A town-building [harem LitRPG](/blog/what-is-litrpg-harem/) where the hero isn't conquering dungeons but developing a settlement, managing resources, and building genuine community. Think Stardew Valley with stats, swords, and a growing circle of companions.
 2. **Dragon Bound** (co-authored with Freya Stone) — A legacy-building fantasy with draconic power fantasy elements and strong romantic chemistry. The Freya Stone co-authorship brings a different emotional register to the relationship dynamics — warmer, more layered.
 3. **Martial Arts Master** (3 books) — An academy [progression fantasy](/blog/what-is-progression-fantasy-harem) with cultivation-adjacent mechanics. Fans of tournament arcs, training montages, and disciplined power growth will find a lot to love here.
 4. **Dungeon Champions** (co-authored with Adam Lance) — A team-building dungeon crawler that sits inside the larger Fateforged universe. Book Two in particular has drawn exceptional reader enthusiasm.

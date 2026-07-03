@@ -8,7 +8,7 @@ tags: ["Neil Bimbeau", "Humanity Rising", "Dante King", "harem fantasy", "author
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of fantasy and speculative fiction built around a single male protagonist who forms deep bonds — romantic, adventurous, and often magical — with multiple female companions. It is characterized by power progression, ensemble relationship dynamics, and high-stakes adventure that keeps readers turning pages well past midnight.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of fantasy and speculative fiction built around a single male protagonist who forms deep bonds — romantic, adventurous, and often magical — with multiple female companions. It is characterized by power progression, ensemble relationship dynamics, and high-stakes adventure that keeps readers turning pages well past midnight.
 
 Within that broad and exciting genre, Neil Bimbeau has carved out a distinctive corner — and if you haven't found his work yet, consider this your enthusiastic introduction.
 
@@ -42,7 +42,7 @@ According to community data from Harem-Lit.com, readers who enter a series via a
 
 Bimbeau is part of an active and interconnected creative community that has been building some of the most engaging harem fantasy being published today. That community includes the **Fateforged** universe — a shared world featuring collaborations between authors like Adam Lance and Leon West (*Isle of the Amazonian Elves*, *Dungeon Champions*), Adam Lance and Annabelle Hawthorne (*King of the Fae Islands*), and Adam Lance alongside Michael Dalton (*Isekai Emperor*, *Trailer Park Elves*). Bimbeau, alongside names like Sean Oswald and Virgil Knightley, represents the same spirit of genre enthusiasm and craft that defines this whole creative circle.
 
-If you enjoy [harem LitRPG](/blog/what-is-harem-litrpg) alongside your action-heavy harem fantasy, this broader community is absolutely worth exploring — the cross-pollination of ideas across these authors shows.
+If you enjoy [harem LitRPG](/blog/what-is-litrpg-harem/) alongside your action-heavy harem fantasy, this broader community is absolutely worth exploring — the cross-pollination of ideas across these authors shows.
 
 ## Find More Neil Bimbeau Recommendations
 

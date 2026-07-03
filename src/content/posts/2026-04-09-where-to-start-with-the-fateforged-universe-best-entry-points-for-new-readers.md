@@ -8,7 +8,7 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romantic fantasy fiction in which the protagonist builds meaningful bonds with multiple female companions across a single narrative arc. It is characterized by wish-fulfillment power fantasy, deep character relationships, and richly constructed secondary worlds. The Fateforged Shared Universe takes that foundation and builds something genuinely rare on top of it: a fully interconnected multi-series world where characters cross over, timelines interlock, and every book you read makes the next one richer.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's romantic fantasy fiction in which the protagonist builds meaningful bonds with multiple female companions across a single narrative arc. It is characterized by wish-fulfillment power fantasy, deep character relationships, and richly constructed secondary worlds. The Fateforged Shared Universe takes that foundation and builds something genuinely rare on top of it: a fully interconnected multi-series world where characters cross over, timelines interlock, and every book you read makes the next one richer.
 
 If you've been hovering at the edge of the Fateforged universe wondering where to jump in — this is the post for you.
 
@@ -26,7 +26,7 @@ The best entry point depends entirely on which harem fantasy flavor you love mos
 The most immediately accessible series for readers coming from mainstream harem LitRPG or isekai fiction. A modern man is transported to a fantasy empire and has to build his power, his court, and his harem from scratch. If you've loved JC Kang's portal fantasy work or Michael-Scott Earle's empire-building epics, this is your door into Fateforged. Start here if you want a clean beginning with big stakes from book one.
 
 **2. Dungeon Champions** *(Adam Lance & Leon West)*
-For the [harem LitRPG](/blog/what-is-harem-litrpg) crowd. Dungeon diving, companion bonds, and a team-building structure that rewards readers who love both the fantasy and the system mechanics. *Dungeon Champions: Book Two* currently holds a 5.0★ rating on Harem-Lit.com, and the series is praised for balancing adventuring action with genuine relationship depth. Fans of Blaise Corvin or Harmon Cooper's dungeon-focused work will feel right at home.
+For the [harem LitRPG](/blog/what-is-litrpg-harem/) crowd. Dungeon diving, companion bonds, and a team-building structure that rewards readers who love both the fantasy and the system mechanics. *Dungeon Champions: Book Two* currently holds a 5.0★ rating on Harem-Lit.com, and the series is praised for balancing adventuring action with genuine relationship depth. Fans of Blaise Corvin or Harmon Cooper's dungeon-focused work will feel right at home.
 
 **3. Isle of the Amazonian Elves** *(Adam Lance & Leon West)*
 Pure adventure-romance energy. A protagonist stranded on an island of amazon elves — isolated setting, fast-paced relationships, and a plot that moves. *Isle of the Amazonian Elves: A Fateforged Adventure* scores 5.0★ from community readers and is one of the shorter, punchy entry points into the universe if you want to dip a toe in without committing to a long series first.

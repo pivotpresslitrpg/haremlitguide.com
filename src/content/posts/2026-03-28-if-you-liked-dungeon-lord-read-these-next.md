@@ -8,11 +8,11 @@ tags: ["dungeon lord", "dungeon builder", "dark harem fantasy", "harem litrpg", 
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romantic adventure fiction in which a male protagonist builds deep bonds — romantic, loyal, and often magical — with a growing cast of compelling women. It is characterized by power progression, rich world-building, and the emotional weight of a found-family dynamic that grows alongside the hero's strength.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's romantic adventure fiction in which a male protagonist builds deep bonds — romantic, loyal, and often magical — with a growing cast of compelling women. It is characterized by power progression, rich world-building, and the emotional weight of a found-family dynamic that grows alongside the hero's strength.
 
 Dungeon Lord sits in a sweet spot that a lot of readers fall hard for: dark-edged world-building, a morally complex protagonist claiming his domain, and a harem that feels earned rather than handed to him. If that's the experience you're chasing again, you're in the right place.
 
-Based on our analysis of 50,000+ titles in the harem and [harem LitRPG](/blog/what-is-harem-litrpg) space, readers who rate Dungeon Lord highly return overwhelmingly to three sub-flavors: dungeon-building power fantasy, isekai conquest narratives, and dark magic progression stories. According to community data from Harem-Lit.com, dungeon-builder titles have a 34% higher completion rate than the genre average — readers don't just start them, they devour them. The picks below are ranked by reader rating on Harem-Lit.com and editorial fit to Dungeon Lord's specific vibe.
+Based on our analysis of 50,000+ titles in the harem and [harem LitRPG](/blog/what-is-litrpg-harem/) space, readers who rate Dungeon Lord highly return overwhelmingly to three sub-flavors: dungeon-building power fantasy, isekai conquest narratives, and dark magic progression stories. According to community data from Harem-Lit.com, dungeon-builder titles have a 34% higher completion rate than the genre average — readers don't just start them, they devour them. The picks below are ranked by reader rating on Harem-Lit.com and editorial fit to Dungeon Lord's specific vibe.
 
 ## What to Read After Dungeon Lord (Ranked by Community Rating)
 
@@ -38,7 +38,7 @@ Another Fateforged entry from Adam Lance and Leon West, *Dungeon Champions* lean
 Michael-Scott Earle is one of the genre's defining voices, and *Shadow Sun Survival* has that same siege mentality — a hero building power in a hostile world while the bonds around him deepen. Essential reading for any Dungeon Lord fan exploring the wider [best harem fantasy books](/lists/best-harem-fantasy-books) shelf.
 
 **8. Blaise Corvin's Delvers LLC**
-For readers drawn to Dungeon Lord's LitRPG scaffolding, Blaise Corvin's *Delvers LLC* is a community perennial. According to reader ratings on Harem-Lit.com, it consistently ranks in the top 15% of [harem LitRPG](/blog/what-is-harem-litrpg) titles for long-term series engagement.
+For readers drawn to Dungeon Lord's LitRPG scaffolding, Blaise Corvin's *Delvers LLC* is a community perennial. According to reader ratings on Harem-Lit.com, it consistently ranks in the top 15% of [harem LitRPG](/blog/what-is-litrpg-harem/) titles for long-term series engagement.
 
 ---
 

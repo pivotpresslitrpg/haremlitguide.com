@@ -8,7 +8,7 @@ tags: ["Annabelle Hawthorne", "harem fantasy", "romance fantasy", "King of the F
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of romantic fantasy fiction in which a central protagonist develops deep bonds — romantic, emotional, and often magical — with multiple love interests across an epic narrative arc. It is characterized by layered relationship dynamics, immersive world-building, and a power-fantasy core that rewards readers who want their adventure served alongside genuine emotional investment.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of romantic fantasy fiction in which a central protagonist develops deep bonds — romantic, emotional, and often magical — with multiple love interests across an epic narrative arc. It is characterized by layered relationship dynamics, immersive world-building, and a power-fantasy core that rewards readers who want their adventure served alongside genuine emotional investment.
 
 Annabelle Hawthorne is exactly the kind of author this genre needs more of. Her writing sits at the sweet spot between swoony romantic fantasy and genuinely engaging adventure — the kind of books you pick up for the harem premise and stay for because you actually care about every character on the page.
 

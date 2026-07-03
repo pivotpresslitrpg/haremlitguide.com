@@ -8,7 +8,7 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds meaningful relationships with multiple women across an epic adventure. It is characterized by power fantasy progression, richly developed female companions, and immersive world-building that rewards long-form reading.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds meaningful relationships with multiple women across an epic adventure. It is characterized by power fantasy progression, richly developed female companions, and immersive world-building that rewards long-form reading.
 
 Most harem fantasy series are islands unto themselves — great books, but with no larger world connecting them. The Fateforged Shared Universe is something genuinely different, and if you haven't been paying attention to it, now is the time to start.
 
@@ -26,7 +26,7 @@ The Fateforged universe currently spans five active series, each co-authored by 
 2. **Trailer Park Elves** (Adam Lance & Michael Dalton) — One of the genre's most creative premises: elves living in modern rural America, blending urban fantasy warmth with harem romance.
 3. **King of the Fae Islands** (Adam Lance & Annabelle Hawthorne) — A fae realm adventure with lush world-building, ethereal companions, and the kind of mythology-rich atmosphere that fans of J.S. Devivre's more otherworldly work will love.
 4. **Isle of the Amazonian Elves** (Adam Lance & Leon West) — A stranded-on-an-island survival story with a warrior-women harem that hits hard for fans of JC Kang's action-forward romance style.
-5. **Dungeon Champions** (Adam Lance & Leon West) — Classic [harem LitRPG](/blog/what-is-harem-litrpg) dungeon-diving with a companion harem system that's scratching the same itch as the best of Blaise Corvin and Harmon Cooper's dungeon crawl work.
+5. **Dungeon Champions** (Adam Lance & Leon West) — Classic [harem LitRPG](/blog/what-is-litrpg-harem/) dungeon-diving with a companion harem system that's scratching the same itch as the best of Blaise Corvin and Harmon Cooper's dungeon crawl work.
 
 Each series has its own tone and setting — but they share DNA. That's what makes the Fateforged universe worth understanding at a structural level, not just a series-by-series level.
 

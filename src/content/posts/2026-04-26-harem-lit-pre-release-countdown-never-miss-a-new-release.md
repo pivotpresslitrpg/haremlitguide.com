@@ -26,7 +26,7 @@ When you visit a book's detail page for an upcoming release, you now see a live 
 
 According to community data from Harem-Lit.com, this kind of countdown feature correlates with strong first-week engagement. Readers who are actively anticipating a release — who've been watching the countdown — tend to leave reviews, rate books, and update reading shelves faster than readers who discover the book after launch. That activity in the first week is exactly what gets a new release surfaced to other community members.
 
-For series like **Dungeon Champions**, **King of the Fae Islands**, and **Isekai Emperor** — all part of the [Fateforged universe](/blog/why-the-fateforged-universe-is-a-fan-favorite-in-harem-fantasy) — the pre-release countdown means the community builds anticipation together in real time rather than dispersing after announcement and hoping everyone remembers the drop date.
+For series like **Dungeon Champions**, **King of the Fae Islands**, and **Isekai Emperor** — all part of the [Fateforged universe](/blog/2026-03-31-why-the-fateforged-universe-is-a-fan-favorite-in-harem-fantasy/) — the pre-release countdown means the community builds anticipation together in real time rather than dispersing after announcement and hoping everyone remembers the drop date.
 
 ## Why This Matters for Harem Fantasy Specifically
 
@@ -44,7 +44,7 @@ If you're following a specific author's series, the platform's shelf and notific
 
 ## Looking Ahead
 
-The pre-release countdown feature is a signal that [Harem-Lit.com](https://harem-lit.com) is building toward being more than a catalog — it's becoming the community hub where harem fantasy readers track the genre in real time. Combined with the community ratings system, reading shelves, and the [social discovery features](/blog/harem-lit-looking-for-friends-find-your-reading-crew) the platform has been expanding, the pre-release calendar adds a forward-facing dimension that general-purpose reading platforms don't offer for this genre.
+The pre-release countdown feature is a signal that [Harem-Lit.com](https://harem-lit.com) is building toward being more than a catalog — it's becoming the community hub where harem fantasy readers track the genre in real time. Combined with the community ratings system, reading shelves, and the [social discovery features](/blog/2026-04-16-harem-lit-looking-for-friends-find-your-reading-crew/) the platform has been expanding, the pre-release calendar adds a forward-facing dimension that general-purpose reading platforms don't offer for this genre.
 
 For readers who want to stay current with harem fantasy releases — and that's most of us — this is the feature that makes [Harem-Lit.com](https://harem-lit.com) genuinely essential to keep open.
 

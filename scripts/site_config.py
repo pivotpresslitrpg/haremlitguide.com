@@ -93,7 +93,18 @@ CONFIG = {
                 'A gacha-style card collecting game on Harem-Lit.com featuring character art '
                 'from harem fantasy novels. Cards come in rarities from Common to Legendary, '
                 'with daily free pulls, a shard system for targeting specific cards, '
-                'author-submitted artwork, and NPC card battle teams.'
+                'author-submitted artwork, and NPC card battle teams. Duplicate Unique cards '
+                'now shatter into Prismatic Adoration Coins — a prestige currency spent on '
+                'exclusive full-scope cosmetics for your favorite cards.'
+            ),
+        },
+        {
+            'name': 'Universes Browser',
+            'description': (
+                'A public Universes browse page on Harem-Lit.com that maps shared-universe '
+                'harem fantasy — see which series belong to the same connected world, with '
+                '"Part of the X universe" backlinks on every book detail page so readers can '
+                'trace crossovers and reading orders across the Fateforged universe and beyond.'
             ),
         },
         {
@@ -122,15 +133,41 @@ CONFIG = {
         },
     ],
 
+    # Internal links may ONLY point to the stable pages enumerated below. Dated blog
+    # posts (reviews, roundups, spotlights) have URLs containing a date the generator
+    # cannot predict — linking to them produces 404s.
     'internal_link_guidance': (
-        "Include natural internal links where relevant:\n"
-        "- When mentioning harem fantasy definition, link to /blog/what-is-harem-fantasy/\n"
-        "- When mentioning harem LitRPG, link to /blog/what-is-harem-litrpg/\n"
-        "- When recommending books, link to the appropriate list page (e.g., /lists/best-harem-fantasy-books/)\n"
-        "- When mentioning completed series, link to /lists/best-completed-harem-series/\n"
-        "- When mentioning cultivation novels, link to /lists/best-cultivation-novels/\n"
-        "- When discussing new releases, link to /new-releases/\n"
-        "- Format as markdown links: [text](/path/) or [text](https://full-url) — internal paths always end with a trailing slash\n\n"
+        "INTERNAL LINKING RULES — follow these EXACTLY:\n\n"
+        "Only link to the stable pages listed below. These are the ONLY internal URLs "
+        "guaranteed to exist. Every path ends with a trailing slash.\n\n"
+        "NEVER link to a dated blog post (book reviews, new-release roundups, author "
+        "spotlights, Fateforged feature posts, platform-feature posts). Their URLs start "
+        "with a date you cannot know, so any such link will 404. To reference another "
+        "article, describe it in prose with no link. Do NOT invent paths not on this list.\n\n"
+        "Genre explainer pages — link when first defining the sub-genre:\n"
+        "- /blog/what-is-haremlit/\n"
+        "- /blog/what-is-litrpg-harem/\n"
+        "- /blog/what-is-isekai-harem/\n"
+        "- /blog/what-is-monster-girl-harem/\n"
+        "- /blog/what-is-progression-fantasy-harem/\n"
+        "- /blog/what-is-dungeon-crawl-harem/\n"
+        "- /blog/what-is-academy-harem/\n"
+        "- /blog/what-is-base-building-harem/\n"
+        "- /blog/what-is-empire-building-harem/\n"
+        "- /blog/what-is-gamelit-harem/\n"
+        "- /blog/what-is-shared-universe-harem/\n"
+        "- /blog/what-is-slice-of-life-harem/\n"
+        "- /blog/what-is-superhero-harem/\n"
+        "- /blog/what-is-urban-fantasy-harem/\n\n"
+        "Ranked list pages — link when recommending books in that category:\n"
+        "- /lists/best-harem-fantasy-books/\n"
+        "- /lists/best-harem-litrpg/\n"
+        "- /lists/best-cultivation-novels/\n"
+        "- /lists/best-completed-harem-series/\n"
+        "- /lists/books-like-azarinth-healer/\n"
+        "- /lists/best-mens-adventure-romance/\n\n"
+        "Other stable pages: /new-releases/ , /blog/ (article index), /lists/ (all lists).\n\n"
+        "Format as markdown links to an exact path above: [text](/exact-path/).\n\n"
         "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
         "to https://harem-lit.com — put it on the platform name the first time it is "
         "mentioned, e.g. [Harem-Lit.com](https://harem-lit.com). A bare unlinked "

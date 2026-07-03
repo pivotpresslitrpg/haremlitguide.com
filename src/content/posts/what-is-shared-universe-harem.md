@@ -70,4 +70,4 @@ Start with whichever series premise appeals to you most — don't worry about re
 
 ---
 
-Ready to explore connected worlds? Browse our [latest releases](/new-releases/) for new shared universe entries, or check out our [Fateforged Universe reading order guide](/blog/fateforged-universe-reading-order-every-series-every-book-one-connected-world/) for the most detailed map available. The complete [HaremLit subgenre guide](https://harem-lit.com/guides/haremlit-subgenres) covers every corner of the genre.
+Ready to explore connected worlds? Browse our [latest releases](/new-releases/) for new shared universe entries, or check out our [Fateforged Universe reading order guide](/blog/2026-03-13-fateforged-universe-reading-order-every-series-every-book-one-connected-world/) for the most detailed map available. The complete [HaremLit subgenre guide](https://harem-lit.com/guides/haremlit-subgenres) covers every corner of the genre.

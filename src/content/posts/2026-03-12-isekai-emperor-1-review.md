@@ -10,7 +10,7 @@ featured: true
 
 ## What Is Isekai Emperor — and Why Does It Work So Well?
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a genre built on male protagonists who earn the loyalty, affection, and partnership of multiple compelling women across an adventure arc. It is characterized by power progression, world-building ambition, and romantic tension that rewards investment over time. *Isekai Emperor* by Adam Lance and Michael Dalton hits every one of those notes — and then adds goblin population management on top, which sounds absurd but absolutely works.
+[Harem fantasy](/blog/2026-03-20-what-is-harem-fantasy-the-complete-guide-to-the-genre/) is a genre built on male protagonists who earn the loyalty, affection, and partnership of multiple compelling women across an adventure arc. It is characterized by power progression, world-building ambition, and romantic tension that rewards investment over time. *Isekai Emperor* by Adam Lance and Michael Dalton hits every one of those notes — and then adds goblin population management on top, which sounds absurd but absolutely works.
 
 Based on our analysis of 50,000+ titles indexed across the genre, the books that consistently outperform in reader retention are the ones that nail the opening hook inside the first three chapters. *Isekai Emperor* does this with uncommon confidence.
 
@@ -32,7 +32,7 @@ According to community ratings on [Harem-Lit.com](https://harem-lit.com), isekai
 
 The lore delivery here is surprisingly elegant. Rather than dumping exposition, the authors filter everything through Thomas's increasingly exasperated skepticism. He keeps trying to poke holes in Emily's story — *crystal bassinets? Dragon taunting?* — and she keeps answering completely sincerely, which makes the world feel both absurd and internally consistent. By the time Thomas signs the contract, you're leaning forward alongside him.
 
-The core premise — a kingdom suffering population decline, a half-goblin prince with engineering and diplomatic skills, and a mandate to rebuild through alliances and, yes, breeding — is well-constructed for the long game. This isn't just "guy gets a harem." The harem is the *mechanism* of the political and civilizational challenge. That's a meaningful structural difference from a lot of titles in the space, and it earns the [LitRPG](/blog/what-is-harem-litrpg) and [progression fantasy](/blog/what-is-progression-fantasy-harem) tags the series carries.
+The core premise — a kingdom suffering population decline, a half-goblin prince with engineering and diplomatic skills, and a mandate to rebuild through alliances and, yes, breeding — is well-constructed for the long game. This isn't just "guy gets a harem." The harem is the *mechanism* of the political and civilizational challenge. That's a meaningful structural difference from a lot of titles in the space, and it earns the [LitRPG](/blog/what-is-litrpg-harem/) and [progression fantasy](/blog/what-is-progression-fantasy-harem) tags the series carries.
 
 The GameLit elements — character sheets, city-building metrics, population management — are described in the front matter as deliberately light-touch. This is the right call. The game layer adds texture and structure without turning the romance into a spreadsheet.
 
