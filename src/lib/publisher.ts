@@ -47,7 +47,7 @@ export function findPivotPressAffiliations(
   values: readonly (string | null | undefined)[],
 ): string[] {
   const haystack = normalize(values.filter(Boolean).join(' '));
-  return AFFILIATION_TERMS.filter((term) => haystack.includes(normalize(term).trim()))
+  return AFFILIATION_TERMS.filter((term) => haystack.includes(normalize(term)))
     .map(String);
 }
 
