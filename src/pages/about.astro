@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { pivotPressUrl } from '../lib/publisher';
 ---
 
 <BaseLayout
@@ -24,10 +25,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <section class="border-t border-[#2e2e2e] pt-8">
         <h2 class="text-xl font-bold text-white mb-4">Editorial Approach</h2>
         <p class="text-[#aaa] leading-relaxed">
-          Our editorial rankings draw on community data from
+          Data-ranked lists use community data from
           <a href="https://harem-lit.com" target="_blank" rel="noopener" class="text-[#ec4899] hover:underline">Harem-Lit.com</a>,
-          the community tracking platform for harem fantasy readers. Every list is grounded in
-          community ratings, not internal promotion.
+          preserve the source order after genre eligibility and a two-book-per-author cap, and
+          never apply publisher weighting. Reviews, guides, and author spotlights are editorial.
         </p>
       </section>
 
@@ -42,10 +43,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </section>
 
       <section class="border-t border-[#2e2e2e] pt-8">
+        <h2 class="text-xl font-bold text-white mb-4">Ownership &amp; Publisher Relationships</h2>
+        <p class="text-[#aaa] leading-relaxed">
+          HaremLit Guide is owned and operated by
+          <a href={pivotPressUrl('about-ownership')} target="_blank" rel="noopener" class="text-[#ec4899] hover:underline">Pivot Press Publishing</a>.
+          Articles and author spotlights that discuss an affiliated author, series, or title carry a disclosure.
+        </p>
+        <p class="text-[#aaa] leading-relaxed mt-4">
+          Data-ranked lists preserve the disclosed method regardless of publisher. We do not sell
+          rank positions or accept third-party sponsored rankings.
+        </p>
+      </section>
+
+      <section class="border-t border-[#2e2e2e] pt-8">
         <h2 class="text-xl font-bold text-white mb-4">Amazon Affiliate Links</h2>
         <p class="text-[#aaa] leading-relaxed">
           Links to Amazon on this site are affiliate links. If you click through and make a purchase,
-          we may earn a small commission at no extra cost to you.
+          we may earn a small commission at no extra cost to you. Affiliate revenue does not change ranking order.
         </p>
       </section>
 

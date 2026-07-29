@@ -1,5 +1,5 @@
 ---
-title: "Why the Fateforged Universe Has Become a Harem Fantasy Fan Favorite"
+title: "Why Fateforged Works: The Shared Universe's Five-Series Appeal"
 description: "The Fateforged shared universe spans isekai empires, fae islands, and dungeon dives across five interlocking series. Here's why harem fantasy readers keep coming back."
 date: "2026-05-28"
 type: "fateforged"

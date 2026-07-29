@@ -18,7 +18,7 @@ function filterReverseHarem(books: Book[]): Book[] {
 // ---------------------------------------------------------------------------
 // Per-author cap
 // Prevents any single author from dominating a list.
-// Applied before editorial curation so the full pool is balanced.
+// Applied before slicing so the final list is not dominated by one catalog.
 // ---------------------------------------------------------------------------
 
 function capPerAuthor(books: Book[], max = 2): Book[] {
@@ -32,60 +32,17 @@ function capPerAuthor(books: Book[], max = 2): Book[] {
   });
 }
 
-// ---------------------------------------------------------------------------
-// Editorial curation layer
-// Guarantees ≥25% of the final list comes from priority authors when available.
-// Books are only promoted from the broader fetch pool — nothing is fabricated.
-// Pattern: 1 priority book for every 3 others → natural ~25% distribution.
-// ---------------------------------------------------------------------------
-
-const EDITORIAL_PRIORITY: { author: string }[] = [
-  { author: 'Adam Lance' },
-  { author: 'Aaron Renfroe' },
-  { author: 'Annabelle Hawthorne' },
-  { author: 'Leon West' },
-  { author: 'Michael Dalton' },
-  { author: 'Neil Bimbeau' },
-  { author: 'Sean Oswald' },
-  { author: 'Virgil Knightley' },
+/** A visibly editorial, mixed-publisher author spotlight. It never changes rankings. */
+export const FEATURED_AUTHORS: string[] = [
+  'Bruce Sentar',
+  'Adam Lance',
+  'Deacon Frost',
+  'Annabelle Hawthorne',
+  'K.D. Robertson',
+  'Leon West',
+  'Cebelius',
+  'Michael Dalton',
 ];
-
-/** Curated authors to spotlight in the Featured Authors funnel module. */
-export const FEATURED_AUTHORS: string[] = EDITORIAL_PRIORITY.map((e) => e.author);
-
-function applyEditorialCuration(books: Book[]): Book[] {
-  if (books.length < 3) return books;
-
-  const isPriority = (b: Book) =>
-    EDITORIAL_PRIORITY.some(e =>
-      b.authors.some(a => a.toLowerCase().includes(e.author.toLowerCase()))
-    );
-
-  const priorityBooks = books.filter(isPriority);
-  const otherBooks = books.filter(b => !isPriority(b));
-
-  if (priorityBooks.length === 0) return books;
-
-  const total = books.length;
-  const targetPriority = Math.round(total * 0.25);
-  const actualPriority = Math.min(priorityBooks.length, targetPriority);
-  const actualOthers = total - actualPriority;
-
-  const selectedPriority = priorityBooks.slice(0, actualPriority);
-  const selectedOthers = otherBooks.slice(0, actualOthers);
-
-  // Interleave: [priority, other, other, other, priority, other, other, other, ...]
-  const result: Book[] = [];
-  let pi = 0, oi = 0;
-  while (pi < selectedPriority.length || oi < selectedOthers.length) {
-    if (pi < selectedPriority.length) result.push(selectedPriority[pi++]);
-    for (let i = 0; i < 3 && oi < selectedOthers.length; i++) {
-      result.push(selectedOthers[oi++]);
-    }
-  }
-
-  return result;
-}
 
 // ---------------------------------------------------------------------------
 // Types
@@ -156,7 +113,7 @@ export async function getBooks(options: {
     const res = await feedFetch(`/api/blog-feed/books?${params}`);
     if (!res?.ok) return [];
     const all = capPerAuthor(filterReverseHarem(unwrapItems(await res.json())));
-    return applyEditorialCuration(all).slice(0, requestedLimit);
+    return all.slice(0, requestedLimit);
   } catch { return []; }
 }
 

@@ -10,7 +10,7 @@ featured: true
 
 HaremLit Guide is now live.
 
-We're an independent editorial site covering the best in harem fantasy and men's romance fiction. The genre publishes hundreds of books a year — our goal is to help you find the ones worth your time.
+We're an editorial site owned and operated by Pivot Press Publishing, covering harem fantasy and men's romance fiction. The genre publishes hundreds of books a year — our goal is to help you find the ones worth your time.
 
 ## What We Cover
 

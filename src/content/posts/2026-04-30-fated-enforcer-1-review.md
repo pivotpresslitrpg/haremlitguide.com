@@ -81,4 +81,4 @@ If you've been sleeping on Adam Lance's corner of the genre, this is a clean ent
 
 ---
 
-*Discover more series like Fated Enforcer in our curated reading lists at [Harem-Lit.com](https://harem-lit.com) — the independent guide built by fans, for fans.*
+*Discover more series like Fated Enforcer in our curated reading lists at [Harem-Lit.com](https://harem-lit.com) — the reader platform behind our book data.*
