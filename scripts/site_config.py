@@ -69,7 +69,6 @@ CONFIG = {
         'J.S. Devivre',
         'Michael-Scott Earle',
         'Harmon Cooper',
-        'JC Kang',
         'Bruce Sentar',
         'Deacon Frost',
         'Kirk Mason',
