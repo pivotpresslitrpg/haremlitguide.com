@@ -1,0 +1,42 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "The existence and economics of review-acquisition services show feasibility and testable signatures, not attribution to any author or proof that a review is false.",
+  "allowed_numbers": [
+    "2024",
+    "2026",
+    "28",
+    "30",
+    "100",
+    "90",
+    "365",
+    "2,375",
+    "20",
+    "25",
+    "43",
+    "264",
+    "16.3%"
+  ],
+  "required_phrases": [
+    "does not prove misconduct",
+    "target-enriched archive"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "authors control the accounts",
+    "every repeated reviewer"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G202101910",
+    "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+  ],
+  "source_artifacts": [
+    {
+      "label": "Review-service market scan, frozen July 2026",
+      "sha256": "A6FC96AF7AE79829278C1E4740E48DBB7B69476CD55C00E9BE4F17C5A49A3A24"
+    },
+    {
+      "label": "Public-safe market concentration and reviewer-pattern paper v0.9",
+      "sha256": "207EA65A12595918DFF0C0F29428370CE67835E7BC99A1AF47CE67AFD8027CF8"
+    }
+  ]
+}

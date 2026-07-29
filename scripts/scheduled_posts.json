@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "publish_date": "2026-08-01",
+      "slug": "what-six-months-of-harem-fantasy-market-data-actually-shows",
+      "post_type": "guide",
+      "draft": "scheduled_posts/what-six-months-of-harem-fantasy-market-data-actually-shows.md",
+      "manifest": "research_sources/harem-market-2026-08-01.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-08-06",
+      "slug": "arc-teams-review-exchanges-and-paid-reviews-what-readers-should-know",
+      "post_type": "guide",
+      "draft": "scheduled_posts/arc-teams-review-exchanges-and-paid-reviews-what-readers-should-know.md",
+      "manifest": "research_sources/review-pathways-2026-08-06.json",
+      "status": "scheduled"
+    }
+  ]
+}

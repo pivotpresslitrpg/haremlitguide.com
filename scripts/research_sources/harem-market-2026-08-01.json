@@ -1,0 +1,53 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "The targeted cohort shows measurable concentration, persistence, and release cadence. It does not establish named misconduct or a market-wide rate.",
+  "allowed_numbers": [
+    "2026",
+    "23",
+    "22",
+    "28",
+    "16",
+    "88",
+    "7",
+    "408",
+    "3,620",
+    "11.27%",
+    "522",
+    "9,047",
+    "5.77%",
+    "6.13%",
+    "40",
+    "25,000",
+    "29",
+    "45",
+    "21",
+    "8",
+    "15",
+    "4",
+    "10,000",
+    "11",
+    "3",
+    "45.45%",
+    "20.68%",
+    "2,500",
+    "90"
+  ],
+  "required_phrases": [
+    "does not prove misconduct",
+    "rank-derived estimate, not a sales ledger"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "review farm",
+    "authors control the accounts"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G201648140"
+  ],
+  "source_artifacts": [
+    {
+      "label": "Public-safe market concentration and reviewer-pattern paper v0.9",
+      "sha256": "207EA65A12595918DFF0C0F29428370CE67835E7BC99A1AF47CE67AFD8027CF8"
+    }
+  ]
+}
