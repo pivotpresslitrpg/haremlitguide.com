@@ -38,11 +38,9 @@ If you're new to the author, here's a simple reading path the source material su
 2. **Read *Nesting Day*** as your epilogue and send-off from the Academy arc.
 3. **Pick up Otherworld Adventures** if you want to stay in the world — and with four books in and strong ratings, there's real runway here.
 
-## Who Else Is Writing in This Space?
+## Explore More Harem Fantasy
 
-If Deacon Frost's brand of character-driven harem fantasy appeals to you, the broader genre has a lot to offer. Authors like [JC Kang](https://harem-lit.com) and Michael-Scott Earle have built long-running series with similar emotional investment, and Harmon Cooper is always worth a look for readers who like their harem fantasy with personality baked in. In the Fateforged shared universe, Adam Lance and Leon West's *Dungeon Champions* and Adam Lance and Annabelle Hawthorne's *King of the Fae Islands* scratch a similar itch if you're drawn to expansive world-building with ensemble casts.
-
-For a broader look at what the genre has to offer, our [best harem fantasy books](/lists/best-harem-fantasy-books/) list is a solid place to browse, and our [best completed harem series](/lists/best-completed-harem-series/) list is especially worth checking if the finished Otherworld Academy arc is what drew you in.
+For a broader look at what the genre has to offer, our [best harem fantasy books](/lists/best-harem-fantasy-books/) list is a solid place to browse, and our [best completed harem series](/lists/best-completed-harem-series/) list is especially useful if the finished Otherworld Academy arc is what drew you in.
 
 You can find Deacon Frost's full catalog and community ratings over at [Harem-Lit.com](https://harem-lit.com), where the community tracks new releases, leaves reviews, and keeps the conversation going. If you're the kind of reader who likes to know what's landing before you commit — it's the right place to check in.
 
