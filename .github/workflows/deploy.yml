@@ -9,11 +9,17 @@ on:
     - cron: '0 11 * * 6'   # Saturday at 11am UTC
   workflow_dispatch:
 
+concurrency:
+  group: deploy-production
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-node@v4
         with:
@@ -40,14 +46,24 @@ jobs:
           BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}
 
       - name: Deploy to Cloudflare Pages
-        run: npx wrangler pages deploy dist --project-name=haremlitguide
+        run: npx wrangler pages deploy dist --project-name=haremlitguide --branch=main
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Verify newest article on the custom domain
+        run: |
+          CHANGED_FILE=$(git diff --name-only HEAD^ HEAD -- 'src/content/posts/20*.md' | head -1)
+          LATEST_FILE=${CHANGED_FILE:-$(find src/content/posts -maxdepth 1 -type f -name '20*.md' | sort | tail -1)}
+          test -n "$LATEST_FILE"
+          SLUG=$(basename "$LATEST_FILE" .md)
+          LATEST_ARTICLE_URL="https://haremlitguide.com/blog/${SLUG}/"
+          curl --retry 5 --retry-delay 4 --retry-all-errors --fail --silent --show-error "$LATEST_ARTICLE_URL" -o /dev/null
+          echo "LATEST_ARTICLE_URL=$LATEST_ARTICLE_URL" >> "$GITHUB_ENV"
 
       - name: Notify IndexNow
         if: success()
         run: |
           curl -s -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d '{"host":"haremlitguide.com","key":"hlg5d2e8f1a3b7c9","urlList":["https://haremlitguide.com/","https://haremlitguide.com/lists/","https://haremlitguide.com/new-releases/","https://haremlitguide.com/blog/","https://haremlitguide.com/sitemap-index.xml"]}' || true
+            -d "{\"host\":\"haremlitguide.com\",\"key\":\"hlg5d2e8f1a3b7c9\",\"urlList\":[\"https://haremlitguide.com/\",\"https://haremlitguide.com/lists/\",\"https://haremlitguide.com/new-releases/\",\"https://haremlitguide.com/blog/\",\"$LATEST_ARTICLE_URL\",\"https://haremlitguide.com/sitemap-index.xml\"]}" || true

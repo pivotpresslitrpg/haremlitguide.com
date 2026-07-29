@@ -1,14 +1,22 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import BookCard from '../components/BookCard.astro';
+import PostCard from '../components/PostCard.astro';
 import FeaturedAuthors from '../components/FeaturedAuthors.astro';
 import { getBooks, getRecentBooks, platformUrl, PLATFORM_NAME } from '../lib/api';
 import { listConfig } from '../lib/lists';
+import { getCollection } from 'astro:content';
 
-const [topBooks, recentBooks] = await Promise.all([
+const today = new Date().toISOString().slice(0, 10);
+const [topBooks, recentBooks, allPosts] = await Promise.all([
   getBooks({ sort: 'top_rated', limit: 5 }),
   getRecentBooks(30, 6),
+  getCollection('posts').catch(() => [])
 ]);
+const latestPosts = allPosts
+  .filter(post => post.data.date <= today)
+  .sort((a, b) => b.data.date.localeCompare(a.data.date))
+  .slice(0, 6);
 
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -72,6 +80,27 @@ const orgSchema = {
 
     <!-- Main column -->
     <div class="lg:col-span-2 space-y-12">
+
+      <!-- Latest posts -->
+      {latestPosts.length > 0 && (
+        <section>
+          <div class="flex items-center justify-between mb-5">
+            <h2 class="text-xl font-bold text-white">Latest Guides</h2>
+            <a href="/blog/" class="text-sm text-[var(--color-brand)] hover:underline">All posts →</a>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {latestPosts.map(post => (
+              <PostCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.id.replace(/\.md$/, '')}
+                date={post.data.date}
+                type={post.data.type}
+              />
+            ))}
+          </div>
+        </section>
+      )}
 
       <!-- New releases -->
       {recentBooks.length > 0 && (
