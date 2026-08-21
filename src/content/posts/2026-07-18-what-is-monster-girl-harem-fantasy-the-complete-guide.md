@@ -4,7 +4,7 @@ description: "Monster girl harem is one of the most beloved sub-genres in men's 
 date: "2026-07-18"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Monster Girls", "Monster Girl Harem", "HaremLit", "Fantasy Romance", "Men's Romance", "Isekai", "LitRPG"]
+tags: ["monster girls", "Monster Girl Harem", "HaremLit", "fantasy romance", "men's romance", "isekai", "LitRPG"]
 featured: false
 ---
 

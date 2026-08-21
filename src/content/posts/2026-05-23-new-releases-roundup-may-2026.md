@@ -4,7 +4,7 @@ description: "From cozy slice-of-life harems to monster girl LitRPG and isekai a
 date: "2026-05-23"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "LitRPG", "slice of life harem", "isekai", "men's romance", "haremlit"]
+tags: ["new releases", "harem fantasy", "LitRPG", "slice of life harem", "isekai", "men's romance", "HaremLit"]
 featured: false
 ---
 
@@ -26,10 +26,10 @@ Tate Bull dropped both **The Shake Up Part 1** and **Part 2** (Hometown Harem) e
 
 ## Best New Isekai Harem LitRPG Releases
 
-[Harem LitRPG](/blog/what-is-harem-litrpg) fans have two strong options this month. **The Academy's Conduit** and its sequel **The Academy's Conduit 2** by Alex Prone deliver back-to-back isekai academy action with the kind of satisfying progression systems that readers of Blaise Corvin or JC Kang's more system-heavy work tend to gravitate toward. Two books in one month is a strong signal — Prone clearly had this story mapped and ready to run.
+[Harem LitRPG](/blog/what-is-litrpg-harem/) fans have two strong options this month. **The Academy's Conduit** and its sequel **The Academy's Conduit 2** by Alex Prone deliver back-to-back isekai academy action with the kind of satisfying progression systems that readers of Blaise Corvin or JC Kang's more system-heavy work tend to gravitate toward. Two books in one month is a strong signal — Prone clearly had this story mapped and ready to run.
 
 Also worth flagging: **Zenith Academy Book 6** by Cassius Lange continues one of the more reliable isekai academy series in the space. Six books deep and still delivering consistent quality is no small achievement — check out our [best harem fantasy books](/lists/best-harem-fantasy-books) list for context on where long-running series like this tend to land with the community.
 
-**Combat Healer 5: Monster Girl Berserker** by Kaizer Wolf and Kurtis Eckstein rounds out the [LitRPG](/blog/what-is-harem-litrpg) picks. The Combat Healer Hexer series has been quietly building a loyal readership, and monster girl content done with genuine craft rather than shock value is rarer than you'd think. This one delivers.
+**Combat Healer 5: Monster Girl Berserker** by Kaizer Wolf and Kurtis Eckstein rounds out the [LitRPG](/blog/what-is-litrpg-harem/) picks. The Combat Healer Hexer series has been quietly building a loyal readership, and monster girl content done with genuine craft rather than shock value is rarer than you'd think. This one delivers.
 
 Whether you're after a cozy read or a full dungeon crawl, May's shelf is stacked. Head over to [Harem-Lit.com](https://harem-lit.com) for community ratings, series tracking, and reader lists — then dive in. There's never been a better time to find your next favorite series.

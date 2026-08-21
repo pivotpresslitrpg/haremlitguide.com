@@ -4,11 +4,11 @@ description: "From monster-girl cyberpunk to swashbuckling thieves and galaxy-sp
 date: "2026-04-07"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "litrpg", "science fiction harem", "monster girls", "harem adventure", "men's romance"]
+tags: ["new releases", "harem fantasy", "LitRPG", "science fiction harem", "monster girls", "harem adventure", "men's romance"]
 featured: false
 ---
 
-[Harem fantasy]((/blog/what-is-harem-fantasy)) is a subgenre of men's romantic adventure fiction in which a male protagonist builds deep bonds — romantic, magical, or otherwise — with a growing cast of compelling female characters. It is characterized by power progression, richly built worlds, and an emotional core that rewards long-series investment.
+[Harem fantasy]((/blog/what-is-haremlit/)) is a subgenre of men's romantic adventure fiction in which a male protagonist builds deep bonds — romantic, magical, or otherwise — with a growing cast of compelling female characters. It is characterized by power progression, richly built worlds, and an emotional core that rewards long-series investment.
 
 Based on our analysis of 50,000+ titles tracked across the community, April is shaping up to be one of the stronger release months of 2026. Whether you're a longtime devotee of the genre or just finding your footing, there's a lot here to get excited about. Head over to [/new-releases](/new-releases) for the full catalogue, but let's dig into the highlights worth talking about right now.
 

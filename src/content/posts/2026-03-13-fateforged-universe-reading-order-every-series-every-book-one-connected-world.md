@@ -4,7 +4,7 @@ description: "Your complete reading order guide to the Fateforged shared univers
 date: "2026-03-13"
 type: "fateforged"
 author: "The HaremLit Guide"
-tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Isekai Emperor", "Trailer Park Elves", "King of the Fae Islands", "Isle of the Amazonian Elves", "Dungeon Champions", "Harem Fantasy", "LitRPG", "Reading Order"]
+tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leon West", "Isekai Emperor", "Trailer Park Elves", "King of the Fae Islands", "Isle of the Amazonian Elves", "Dungeon Champions", "harem fantasy", "LitRPG", "reading order"]
 featured: false
 ---
 

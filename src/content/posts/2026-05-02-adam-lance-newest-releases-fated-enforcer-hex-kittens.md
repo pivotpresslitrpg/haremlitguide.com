@@ -4,7 +4,7 @@ description: "Adam Lance just stacked three of his strongest releases into a sin
 date: "2026-05-02"
 type: "author_spotlight"
 author: "The HaremLit Guide"
-tags: ["Adam Lance", "Fated Enforcer", "Hex Kittens", "Fateforged", "Tabletverse", "harem fantasy", "harem LitRPG", "author spotlight", "new releases"]
+tags: ["Adam Lance", "Fated Enforcer", "Hex Kittens", "Fateforged", "Tabletverse", "harem fantasy", "harem litrpg", "author spotlight", "new releases"]
 featured: true
 ---
 

@@ -28,7 +28,7 @@ The Fateforged universe currently spans five active series, each with its own to
 
 4. **Isle of the Amazonian Elves** (Adam Lance & Leon West) — Stranded on an island populated by amazon elves, the protagonist has to navigate survival, culture clash, and a very complicated harem situation. Leon West's influence gives this series a grittier edge.
 
-5. **Dungeon Champions** (Adam Lance & Leon West) — The same duo goes full [harem LitRPG](/blog/what-is-harem-litrpg/) here, with dungeon-diving, companion mechanics, and the kind of progression systems that hook readers for the long haul.
+5. **Dungeon Champions** (Adam Lance & Leon West) — The same duo goes full [harem LitRPG](/blog/what-is-litrpg-harem/) here, with dungeon-diving, companion mechanics, and the kind of progression systems that hook readers for the long haul.
 
 According to community data from [Harem-Lit.com](https://harem-lit.com), readers who pick up two or more Fateforged series rate their overall satisfaction 34% higher than readers who follow a single series in isolation — which tracks perfectly with the shared-universe design philosophy. The more you read, the more rewarding it gets.
 

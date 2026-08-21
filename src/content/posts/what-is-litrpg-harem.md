@@ -4,7 +4,7 @@ description: "LitRPG harem blends RPG game mechanics — stats, skill trees, lev
 date: "2026-03-21"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["litrpg harem", "litrpg", "harem litrpg", "game mechanics", "stat sheets", "leveling", "Dungeon Diving", "Bruce Sentar", "Irrelevant Jack", "Prax Venter", "Dungeon Champions", "Adam Lance", "Leon West", "rpg fantasy", "skill trees"]
+tags: ["LitRPG Harem", "LitRPG", "harem litrpg", "game mechanics", "stat sheets", "leveling", "dungeon diving", "Bruce Sentar", "Irrelevant Jack", "Prax Venter", "Dungeon Champions", "Adam Lance", "Leon West", "rpg fantasy", "skill trees"]
 featured: false
 faq:
   - q: "What's the difference between LitRPG harem and GameLit harem?"

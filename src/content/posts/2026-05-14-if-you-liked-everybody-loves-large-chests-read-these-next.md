@@ -4,7 +4,7 @@ description: "Fans of ELLC's absurdist dungeon humor, monstrous protagonists, an
 date: "2026-05-14"
 type: "books_like"
 author: "The HaremLit Guide"
-tags: ["harem fantasy", "litrpg", "dungeon core", "monster protagonist", "absurdist humor", "progression fantasy", "recommendations"]
+tags: ["harem fantasy", "LitRPG", "dungeon core", "monster protagonist", "absurdist humor", "progression fantasy", "recommendations"]
 featured: false
 ---
 

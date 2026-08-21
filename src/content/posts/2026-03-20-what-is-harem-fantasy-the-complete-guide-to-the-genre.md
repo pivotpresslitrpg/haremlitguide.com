@@ -4,7 +4,7 @@ description: "Harem fantasy is one of the fastest-growing sub-genres in men's ro
 date: "2026-03-20"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Harem Fantasy", "Men's Romance", "Fantasy Romance", "Genre Guide", "Getting Started"]
+tags: ["harem fantasy", "men's romance", "fantasy romance", "Genre Guide", "Getting Started"]
 featured: false
 ---
 

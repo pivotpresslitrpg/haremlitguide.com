@@ -18,7 +18,7 @@ The Allure Card Collector is a gacha-style digital card game embedded directly i
 
 ## Why a Card Collector Works for This Genre Specifically
 
-Most genre communities rally around covers and fan art informally — Discord servers, Reddit threads, the occasional fan wiki. What the Allure Card Collector does is give that impulse a structured home. [Harem fantasy](/blog/what-is-harem-fantasy/) is, at its core, a character-driven genre. Readers don't just follow plots — they follow *people*. The companions in a great harem series are as discussed and debated as the magic systems. A card collecting format taps directly into that investment.
+Most genre communities rally around covers and fan art informally — Discord servers, Reddit threads, the occasional fan wiki. What the Allure Card Collector does is give that impulse a structured home. [Harem fantasy](/blog/what-is-haremlit/) is, at its core, a character-driven genre. Readers don't just follow plots — they follow *people*. The companions in a great harem series are as discussed and debated as the magic systems. A card collecting format taps directly into that investment.
 
 According to community data from Harem-Lit.com, character-focused content generates roughly 40% higher engagement than plot-summary posts across the platform's reader activity metrics. The card collector converts that existing energy into something interactive.
 
@@ -26,7 +26,7 @@ According to community data from Harem-Lit.com, character-focused content genera
 
 The shard system is the feature that separates casual players from dedicated collectors. Rather than relying purely on pull luck, players can accumulate shards tied to specific cards — meaning if you're chasing a Legendary card from, say, Michael-Scott Earle's *Dark Elf* series or a rare pull from one of JC Kang's *Chronicles of Talent* characters, you have a targeted path to get there. According to community data from Harem-Lit.com, players using shard targeting complete their target-card acquisitions at a rate approximately 60% faster than pure-pull players.
 
-That design philosophy respects the reader's time — which, frankly, is something [harem LitRPG](/blog/what-is-harem-litrpg/) readers especially appreciate given how deep into progression systems they already are.
+That design philosophy respects the reader's time — which, frankly, is something [harem LitRPG](/blog/what-is-litrpg-harem/) readers especially appreciate given how deep into progression systems they already are.
 
 ## Which Series Are Represented in the Card Pool?
 

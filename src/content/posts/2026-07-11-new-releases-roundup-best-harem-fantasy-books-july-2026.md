@@ -4,7 +4,7 @@ description: "Our editorial picks from the latest harem fantasy and men's romanc
 date: "2026-07-11"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "litrpg", "slice of life", "superhero harem", "progression fantasy", "men's romance"]
+tags: ["new releases", "harem fantasy", "LitRPG", "slice of life", "superhero harem", "progression fantasy", "men's romance"]
 featured: false
 ---
 

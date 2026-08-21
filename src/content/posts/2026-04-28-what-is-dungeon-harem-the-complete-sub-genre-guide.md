@@ -4,7 +4,7 @@ description: "Dungeon harem combines the power fantasy of dungeon-building or du
 date: "2026-04-28"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Dungeon Harem", "HaremLit", "LitRPG", "Dungeon Core", "Fantasy Harem", "Progression Fantasy", "Genre Guide"]
+tags: ["Dungeon Harem", "HaremLit", "LitRPG", "dungeon core", "Fantasy Harem", "progression fantasy", "Genre Guide"]
 featured: false
 ---
 

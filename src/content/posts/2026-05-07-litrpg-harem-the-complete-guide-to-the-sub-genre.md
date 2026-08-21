@@ -4,7 +4,7 @@ description: "Everything you need to know about LitRPG harem fiction — what it
 date: "2026-05-07"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["LitRPG Harem", "LitRPG", "Harem Fantasy", "Sub-Genre Guide", "Recommendations", "Getting Started"]
+tags: ["LitRPG Harem", "LitRPG", "harem fantasy", "Sub-Genre Guide", "recommendations", "Getting Started"]
 featured: false
 ---
 

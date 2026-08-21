@@ -10,7 +10,7 @@ featured: false
 
 [Harem fantasy](https://harem-lit.com) is a subgenre of men's romance and fantasy fiction in which a single male protagonist builds meaningful relationships with multiple women across the course of a series. It is characterized by power-fantasy progression, romantic and intimate development, and immersive worldbuilding — whether that world is a medieval kingdom, a digital game system, or a college campus on spring break.
 
-Based on our analysis of 50,000+ titles tracked across the community, June 2026 has been a notably strong month for the genre. New entries are landing across multiple subgenres at once, which means whether you're a [LitRPG devotee](/blog/what-is-harem-litrpg/) or a slice-of-life enthusiast, something on this list is probably your next read.
+Based on our analysis of 50,000+ titles tracked across the community, June 2026 has been a notably strong month for the genre. New entries are landing across multiple subgenres at once, which means whether you're a [LitRPG devotee](/blog/what-is-litrpg-harem/) or a slice-of-life enthusiast, something on this list is probably your next read.
 
 ## Best New Harem Fantasy Releases This Month
 
@@ -35,4 +35,4 @@ Ranked by community rating on Harem-Lit.com at time of publication:
 
 According to community data from Harem-Lit.com, months with three or more 5.0★ debuts represent fewer than 15% of all monthly update windows tracked since the platform launched — so June 2026 is genuinely punching above its weight.
 
-Browse the full [new releases](/new-releases/) listing for everything that dropped this month, and if you're newer to the genre and wondering where to start, the [what is harem fantasy](/blog/what-is-harem-fantasy/) primer is the best first stop. There's never been a better time to find your next series — come dig in.
+Browse the full [new releases](/new-releases/) listing for everything that dropped this month, and if you're newer to the genre and wondering where to start, the [what is harem fantasy](/blog/what-is-haremlit/) primer is the best first stop. There's never been a better time to find your next series — come dig in.

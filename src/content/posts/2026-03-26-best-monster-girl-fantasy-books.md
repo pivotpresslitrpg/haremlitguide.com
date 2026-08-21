@@ -56,6 +56,6 @@ Not strictly monster girl, but the "non-human characters in a grounded human set
 
 The monster girl subgenre is active and well-tracked on [Harem-Lit.com](https://harem-lit.com), where you can filter by companion type (dragon, kitsune, lamia, etc.) and community rating to find titles that match exactly what you're looking for. The community there is particularly good at flagging new authors who are doing interesting things with non-human companion design.
 
-For the broader landscape, our [best harem LitRPG](/lists/best-harem-litrpg) and [best isekai harem](/lists/best-isekai-harem-novels) lists both have strong monster girl representation — worth browsing if you want to explore the subgenre across different settings and tones.
+For the broader landscape, our [best harem LitRPG](/lists/best-harem-litrpg) and [best isekai harem](/lists/best-harem-fantasy-books/) lists both have strong monster girl representation — worth browsing if you want to explore the subgenre across different settings and tones.
 
 Monster girl fantasy rewards readers who bring genuine curiosity to its creative premises. The authors who do it best clearly love what they're building — and that affection comes through in the work. Find a series that matches your preferred tone (cozy? adventurous? LitRPG-adjacent?) and let yourself settle in.

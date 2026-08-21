@@ -4,7 +4,7 @@ description: "Harem-Lit.com just rolled out a wave of community-requested librar
 date: "2026-04-14"
 type: "platform_spotlight"
 author: "The HaremLit Guide"
-tags: ["Harem-Lit.com", "platform features", "library features", "waifu cards", "community updates", "2026", "site updates"]
+tags: ["harem-lit.com", "platform features", "library features", "waifu cards", "community updates", "2026", "site updates"]
 featured: true
 faq:
   - q: "What is the new Series View on Harem-Lit.com?"

@@ -10,7 +10,7 @@ featured: true
 
 # Isle of the Amazonian Elves Review: The Fateforged Series That Puts Family at the Heart of Harem Fantasy
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romantic adventure fiction in which a male protagonist builds meaningful bonds — romantic, emotional, and often magical — with a group of women across an epic narrative arc. It is characterized by wish-fulfillment power progression, richly built fantasy worlds, and an emphasis on loyalty, found family, and intimate connection.
+[Harem fantasy](/blog/what-is-haremlit/) is a subgenre of men's romantic adventure fiction in which a male protagonist builds meaningful bonds — romantic, emotional, and often magical — with a group of women across an epic narrative arc. It is characterized by wish-fulfillment power progression, richly built fantasy worlds, and an emphasis on loyalty, found family, and intimate connection.
 
 *Isle of the Amazonian Elves* by **Adam Lance and Leon West** is the newest entry in the sprawling **Fateforged** shared universe, and from its very first pages it announces itself as something a little different from what you might expect. This is harem fantasy with weight to it — real stakes, genuine grief, and a world that feels like it has been bleeding quietly for a long time before the story begins.
 

@@ -36,7 +36,7 @@ Based on our analysis of 50,000+ titles catalogued on [Harem-Lit.com](https://ha
 
 ## The World-Building: Appalachian Gothic Done Smart
 
-Here's what Adam Lance does that a lot of [harem fantasy](/blog/what-is-harem-fantasy/) writers don't bother with: he earns his atmosphere. Libusen, West Virginia isn't just "spooky small town." It's Swiss-German immigrant heritage, Fasnacht festivals, hex symbols spraypainted in obvious panic on the cheaper buildings (the nice painted ones are decorative; the crude ones are *afraid of something*), and a Reddit thread with sixty-five suspicious comments burying a single honest post. The detail work is specific enough to feel researched and loose enough to feel like fiction.
+Here's what Adam Lance does that a lot of [harem fantasy](/blog/what-is-haremlit/) writers don't bother with: he earns his atmosphere. Libusen, West Virginia isn't just "spooky small town." It's Swiss-German immigrant heritage, Fasnacht festivals, hex symbols spraypainted in obvious panic on the cheaper buildings (the nice painted ones are decorative; the crude ones are *afraid of something*), and a Reddit thread with sixty-five suspicious comments burying a single honest post. The detail work is specific enough to feel researched and loose enough to feel like fiction.
 
 The moment Nick pulls into town and says "nothing good happens in a town like this" while comparing it to David Lynch — that's a writer trusting his reader. You don't need the horror explained when the imagery does the job.
 
@@ -52,7 +52,7 @@ Three data points that tell you what kind of book this is:
 
 If you're coming to this from J.S. Devivre's urban fantasy harem work, or from JC Kang's more structured supernatural builds, Hex Kittens occupies a slightly different register — looser, more comedic, more explicitly episodic. The "rotating directors" structure (this is a genuine three-author collaboration with Neil Bimbeau) means each installment has its own personality while the characters stay consistent. Think of it as harem fantasy structured like prestige TV, not a novel series.
 
-Readers who enjoyed the road-trip energy of Harmon Cooper's work, or who want something with the wit of Blaise Corvin but set in contemporary supernatural America rather than secondary-world fantasy, will find this fits exactly right. It's also worth noting this is deliberately [progression-lite, not LitRPG](/blog/what-is-harem-litrpg/) — no stat screens, no leveling UI. Just magic, monsters, and charisma.
+Readers who enjoyed the road-trip energy of Harmon Cooper's work, or who want something with the wit of Blaise Corvin but set in contemporary supernatural America rather than secondary-world fantasy, will find this fits exactly right. It's also worth noting this is deliberately [progression-lite, not LitRPG](/blog/what-is-litrpg-harem/) — no stat screens, no leveling UI. Just magic, monsters, and charisma.
 
 ---
 

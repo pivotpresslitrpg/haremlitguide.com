@@ -4,11 +4,11 @@ description: "From isekai monster girl adventures to necromancer power fantasy, 
 date: "2026-04-30"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "haremlit", "isekai", "litrpg", "monster girls", "necromancer", "cultivation"]
+tags: ["new releases", "harem fantasy", "HaremLit", "isekai", "LitRPG", "monster girls", "necromancer", "cultivation"]
 featured: false
 ---
 
-[Harem fantasy]((/blog/what-is-harem-fantasy)) is a subgenre of men's romance and power fantasy fiction in which a male protagonist builds deep bonds — romantic, magical, or both — with multiple female characters across an adventure-driven narrative. It is characterized by wish-fulfillment mechanics, rapid power progression, and richly realized companion casts that grow alongside the hero's journey.
+[Harem fantasy]((/blog/what-is-haremlit/)) is a subgenre of men's romance and power fantasy fiction in which a male protagonist builds deep bonds — romantic, magical, or both — with multiple female characters across an adventure-driven narrative. It is characterized by wish-fulfillment mechanics, rapid power progression, and richly realized companion casts that grow alongside the hero's journey.
 
 According to community data from [Harem-Lit.com](https://harem-lit.com), the harem fantasy shelf has seen a surge of series continuations in Q1–Q2 2026, with ongoing series entries outnumbering debut novels by roughly 3 to 1 among this month's community-tracked releases. That's a sign of a healthy genre — readers are staying loyal, and authors are delivering. Let's dig into what landed on shelves worth your attention.
 

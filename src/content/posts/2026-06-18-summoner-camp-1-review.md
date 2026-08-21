@@ -20,7 +20,7 @@ featured: true
 
 *Summoner Camp* drops protagonist Reggie Hickson into Thistlewick School of Wizardcraft and Witchery — yes, the name is a knowing wink — where he arrives as a fish-out-of-water Earthling and promptly proceeds to test out of two full years of magical curriculum before breakfast. His harem of four monster-girl companions (Tizzy the antlered jackalope girl, Kasirah the winged warrior, Asenath the lion-tailed sphinx, and Bekkah the rainbow-winged flier) are more than arm candy. They're his cabin-mates, his cheerleaders, his sparring partners, and — increasingly — his genuine emotional anchor in a world he's still mapping.
 
-The premise is a classic [harem fantasy](/blog/what-is-harem-fantasy/) setup: talented outsider, magical school, a rotating cast of supernatural women. But the execution is where *Summoner Camp* earns its place on the shelf.
+The premise is a classic [harem fantasy](/blog/what-is-haremlit/) setup: talented outsider, magical school, a rotating cast of supernatural women. But the execution is where *Summoner Camp* earns its place on the shelf.
 
 ---
 

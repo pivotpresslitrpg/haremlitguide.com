@@ -4,7 +4,7 @@ description: "Harem-Lit.com has launched a 'Looking for Friends' discovery featu
 date: "2026-04-16"
 type: "platform_spotlight"
 author: "The HaremLit Guide"
-tags: ["Harem-Lit.com", "community features", "Looking for Friends", "friends system", "platform updates", "reader community", "2026"]
+tags: ["harem-lit.com", "community features", "Looking for Friends", "friends system", "platform updates", "reader community", "2026"]
 featured: true
 faq:
   - q: "What is the Looking for Friends feature on Harem-Lit.com?"

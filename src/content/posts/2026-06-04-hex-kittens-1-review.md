@@ -10,7 +10,7 @@ featured: true
 
 # Hex Kittens Review: The Supernatural Harem Series That Plays It Like a TV Show
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds deep, romantic connections with multiple women across the course of a series. It is characterized by wish-fulfillment power fantasy, genuine emotional investment in the female cast, and a strong adventure or action backbone that drives the plot forward.
+[Harem fantasy](/blog/what-is-haremlit/) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds deep, romantic connections with multiple women across the course of a series. It is characterized by wish-fulfillment power fantasy, genuine emotional investment in the female cast, and a strong adventure or action backbone that drives the plot forward.
 
 *Hex Kittens* by Adam Lance opens with a man getting strangled by a troll in a sequined dress whose sentient silicone breast implants won't stop arguing with her mid-fight. If that sentence made you grin, you already know whether this book is for you.
 
@@ -34,7 +34,7 @@ The action writing is clean and spatial. The alley fight in the prelude — Nick
 
 ## The Harem Setup: How Does It Build?
 
-The romance architecture here is episodic by design. The author's note upfront is refreshingly candid: *Hex Kittens* is structured like a TV show with a rotating creative team, keeping the format bite-sized and bingeable. This is a deliberate progression-lite approach — no [LitRPG](/blog/what-is-harem-litrpg) stat screens, no leveling system cluttering the margins — which makes the emotional and romantic beats land with more weight than they might in a crunch-heavier format.
+The romance architecture here is episodic by design. The author's note upfront is refreshingly candid: *Hex Kittens* is structured like a TV show with a rotating creative team, keeping the format bite-sized and bingeable. This is a deliberate progression-lite approach — no [LitRPG](/blog/what-is-litrpg-harem/) stat screens, no leveling system cluttering the margins — which makes the emotional and romantic beats land with more weight than they might in a crunch-heavier format.
 
 Salma, the slime companion, earns her place in the cast within the first chapter. She's not a pet or a prop — she's a perspective with opinions, history, and a dry wit that plays beautifully off Nick's bruised pragmatism. The blonde cheerleader introduced in Chapter 2 gets a proper combatant's entrance: she's already mid-hunt, she correctly identifies that Nick isn't a civilian within thirty seconds, and she only pretends to need his protection as a social reflex. That's a character with layers baked in from the first scene. The groundwork for a harem dynamic built on mutual competence rather than helpless adoration is clearly intentional.
 

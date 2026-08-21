@@ -4,11 +4,11 @@ description: "Loved The New World? Here are the best harem fantasy series to rea
 date: "2026-07-02"
 type: "books_like"
 author: "The HaremLit Guide"
-tags: ["isekai", "harem fantasy", "litrpg", "men's romance", "portal fantasy", "books like", "The New World"]
+tags: ["isekai", "harem fantasy", "LitRPG", "men's romance", "portal fantasy", "books like", "The New World"]
 featured: false
 ---
 
-[Harem fantasy]((/blog/what-is-harem-fantasy/) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds meaningful bonds with multiple female love interests across the course of an epic adventure. It is characterized by wish-fulfillment power fantasy, genuine relationship development, and high-stakes world-building that rewards readers who stick around for the long haul.
+[Harem fantasy]((/blog/what-is-haremlit/) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds meaningful bonds with multiple female love interests across the course of an epic adventure. It is characterized by wish-fulfillment power fantasy, genuine relationship development, and high-stakes world-building that rewards readers who stick around for the long haul.
 
 If *The New World* hooked you — and honestly, how could it not — you already know exactly what that combination feels like at its best. The question is: what do you read the moment you close that final page? Based on our analysis of 50,000+ titles in the [harem fantasy](https://harem-lit.com) space, here are the recommendations readers of *The New World* consistently love most.
 
@@ -35,7 +35,7 @@ Another collaboration between Lance and Dalton, this one drops the isekai trappi
 For readers who like their portal fantasy with a harder edge, *The Crash* relocates the "man dropped into a new world" premise to deep space. It's lean, propulsive, and earns its 5.0★ community rating — a great palate-cleanser between longer epic series.
 
 **7. Academy Life as an Archmage by Max Pants**
-*Ardenth Academy Book 1* is the pick for fans who want the world-building and multiple love interests wrapped in an academy fantasy structure. It's one of the [best harem LitRPG](/blog/what-is-harem-litrpg/) entries to debut this cycle, and the magic system alone is worth the read.
+*Ardenth Academy Book 1* is the pick for fans who want the world-building and multiple love interests wrapped in an academy fantasy structure. It's one of the [best harem LitRPG](/blog/what-is-litrpg-harem/) entries to debut this cycle, and the magic system alone is worth the read.
 
 ## Where to Find More Reads Like These
 

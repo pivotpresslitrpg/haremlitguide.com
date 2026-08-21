@@ -4,11 +4,11 @@ description: "What is portal fantasy romance in haremlit? Learn the defining tra
 date: "2026-06-16"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Portal Fantasy Romance", "Isekai", "Harem Fantasy", "Sub-Genre Guide", "Gateway Books", "Another World"]
+tags: ["Portal Fantasy Romance", "isekai", "harem fantasy", "Sub-Genre Guide", "Gateway Books", "Another World"]
 featured: false
 ---
 
-Portal fantasy romance is a sub-genre of [harem fantasy](/blog/what-is-harem-fantasy/) in which the protagonist is transported from their ordinary world into a fantastical one — and builds a harem of companions, lovers, or allies within that new realm. It is characterized by a fish-out-of-water power arc, richly built secondary worlds with their own rules and magic systems, and the emotional intensity that comes from a hero who has nothing left to lose and everything to gain.
+Portal fantasy romance is a sub-genre of [harem fantasy](/blog/what-is-haremlit/) in which the protagonist is transported from their ordinary world into a fantastical one — and builds a harem of companions, lovers, or allies within that new realm. It is characterized by a fish-out-of-water power arc, richly built secondary worlds with their own rules and magic systems, and the emotional intensity that comes from a hero who has nothing left to lose and everything to gain.
 
 If you've ever wished you could step through a door and wake up somewhere the rules are different — somewhere your particular brand of competence suddenly *matters* — portal fantasy romance was written for you.
 
@@ -50,7 +50,7 @@ Ranked by a combination of community rating and gateway accessibility, according
 
 6. **Trailer Park Elves (Adam Lance & Michael Dalton)** — A clever reversal of the portal fantasy formula: the fantastical comes *to* the hero's mundane world before pulling him deeper in. Dalton and Lance bring real wit to the setup. Great for readers who want their isekai with a side of Southern Gothic absurdism.
 
-7. **Dungeon Lord by Hugo Houston** — Hugo Houston's series remains one of the community's most-recommended starter picks for readers coming from LitRPG backgrounds. If you want your portal fantasy with a strong [harem LitRPG](/blog/what-is-harem-litrpg/) flavor, *Dungeon Lord* is the bridge title.
+7. **Dungeon Lord by Hugo Houston** — Hugo Houston's series remains one of the community's most-recommended starter picks for readers coming from LitRPG backgrounds. If you want your portal fantasy with a strong [harem LitRPG](/blog/what-is-litrpg-harem/) flavor, *Dungeon Lord* is the bridge title.
 
 8. **Land of the Lust by Aaron Crash** — Aaron Crash writes portal fantasy with relentless energy and creature-filled world-building. *Land of the Lust* is unambiguous about what it is and delivers on every promise. Not a slow burn — more of an immediate ignition.
 

@@ -4,11 +4,11 @@ description: "The freshest harem fantasy and men's romance releases worth your a
 date: "2026-06-04"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "isekai", "light novel", "gamelit", "sci-fi harem", "monster girls", "slice of life"]
+tags: ["new releases", "harem fantasy", "isekai", "light novel", "GameLit", "sci-fi harem", "monster girls", "slice of life"]
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a genre in which a central male protagonist builds meaningful bonds — romantic, adventurous, or both — with a cast of compelling female characters. It is characterized by wish-fulfillment worldbuilding, power progression, and a strong emphasis on relationship dynamics over combat alone.
+[Harem fantasy](/blog/what-is-haremlit/) is a genre in which a central male protagonist builds meaningful bonds — romantic, adventurous, or both — with a cast of compelling female characters. It is characterized by wish-fulfillment worldbuilding, power progression, and a strong emphasis on relationship dynamics over combat alone.
 
 The shelves have been busy this month. Based on our analysis of 50,000+ titles tracked across the community, isekai slow-life and monster-focused series are seeing a notable surge in new entries — and several releases this month land squarely in that sweet spot readers keep coming back for. Here's what's worth your attention from the latest wave of [new releases](/new-releases).
 
@@ -24,7 +24,7 @@ The isekai light novel space belongs almost entirely to Sebastian Guzman this mo
 
 Ranked by community interest and release scope:
 
-1. **An Unprecedented Prospect Omnibus: Books 1-3** — The best entry point if you're new to Guzman's [GameLit isekai](/blog/what-is-harem-litrpg) work. Collecting the first three volumes of a well-regarded series in one place is always a gift.
+1. **An Unprecedented Prospect Omnibus: Books 1-3** — The best entry point if you're new to Guzman's [GameLit isekai](/blog/what-is-litrpg-harem/) work. Collecting the first three volumes of a well-regarded series in one place is always a gift.
 2. **My Cottage Was Transferred to Another World Volume 5** — The ongoing slow-life series continues. According to community data from Harem-Lit.com, slow-life isekai titles in this style average 18% longer reader retention across a series than action-focused isekai in the same release window.
 3. **I Dug So Hard I Transmigrated to Another World Volume 1** — A fresh start with a farming-town survival hook. The premise is quirky in exactly the right way.
 4. **Isekai Cheat Appraiser: A Slow Life of Wandering & Treasure-Hunting Volume 1** — Wandering + treasure-hunting + appraisal skills is a classic isekai combo, and Guzman plays it with comfortable confidence.

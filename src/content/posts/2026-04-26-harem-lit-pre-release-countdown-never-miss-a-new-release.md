@@ -4,7 +4,7 @@ description: "Harem-Lit.com has added live pre-release countdowns and stub book 
 date: "2026-04-26"
 type: "platform_feature"
 author: "The HaremLit Guide"
-tags: ["Harem-Lit.com", "new releases", "pre-release", "platform features", "harem fantasy", "upcoming books", "book tracking"]
+tags: ["harem-lit.com", "new releases", "pre-release", "platform features", "harem fantasy", "upcoming books", "book tracking"]
 featured: false
 ---
 

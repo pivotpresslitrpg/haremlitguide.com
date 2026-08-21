@@ -4,7 +4,7 @@ description: "Isekai romance is one of the fastest-growing sub-genres in harem f
 date: "2026-04-14"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Isekai Romance", "Harem Fantasy", "Isekai", "Men's Romance", "LitRPG", "Portal Fantasy", "Genre Guide"]
+tags: ["Isekai Romance", "harem fantasy", "isekai", "men's romance", "LitRPG", "portal fantasy", "Genre Guide"]
 featured: false
 ---
 

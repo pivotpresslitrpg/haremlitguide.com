@@ -4,7 +4,7 @@ description: "GameLit harem features game-inspired worlds with quests, classes, 
 date: "2026-04-04"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["gamelit", "gamelit harem", "game-inspired fantasy", "quests", "character classes", "harem fantasy", "Binding Words", "Daniel Schinhofen", "Accidental Goblin King", "Leon West", "Goblin Apocalypse", "Michael Dalton", "Backyard Dungeon", "Logan Jacobs", "lite rpg", "adventure fantasy"]
+tags: ["GameLit", "gamelit harem", "game-inspired fantasy", "quests", "character classes", "harem fantasy", "Binding Words", "Daniel Schinhofen", "Accidental Goblin King", "Leon West", "Goblin Apocalypse", "Michael Dalton", "Backyard Dungeon", "Logan Jacobs", "lite rpg", "adventure fantasy"]
 featured: false
 faq:
   - q: "What's the difference between GameLit and LitRPG?"

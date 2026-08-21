@@ -4,7 +4,7 @@ description: "Dungeon crawl harem combines classic dungeon delving — monsters,
 date: "2026-03-24"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["dungeon crawl", "dungeon crawl harem", "dungeon delving", "party combat", "harem fantasy", "boss fights", "loot", "Dungeon Diving", "Bruce Sentar", "Dungeon Champions", "Adam Lance", "Leon West", "Isle of the Amazonian Elves", "Halls of Magic", "Annabelle Hawthorne"]
+tags: ["dungeon crawl", "dungeon crawl harem", "dungeon delving", "party combat", "harem fantasy", "boss fights", "loot", "dungeon diving", "Bruce Sentar", "Dungeon Champions", "Adam Lance", "Leon West", "Isle of the Amazonian Elves", "Halls of Magic", "Annabelle Hawthorne"]
 featured: false
 faq:
   - q: "How is dungeon crawl harem different from LitRPG harem?"

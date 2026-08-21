@@ -1,0 +1,210 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FaqBlock from '../components/FaqBlock.astro';
+import ProfessionalCTA from '../components/ProfessionalCTA.astro';
+import { organizationSchema, SELF_URL } from '../lib/network';
+import {
+  ROLES,
+  BETA_RATE_NOTE,
+  REVIEW_NOTE,
+  professionalUrl,
+  PLATFORM_NAME,
+} from '../lib/professionals';
+
+const title = 'HaremLit Industry Professionals: Editors, Narrators, Cover Artists & Beta Readers';
+const description =
+  'How harem fantasy and men’s romance authors find genre-fluent editors, narrators, cover artists, and beta readers — and how professionals apply to be listed on Harem-Lit.com.';
+
+const faq = [
+  {
+    q: 'What is an industry professional on Harem-Lit?',
+    a: 'An industry professional is someone paid to work on a book: an editor, audiobook narrator, cover artist, or beta reader. They list themselves in a vetted public directory on Harem-Lit.com with their rates, availability, genre comfort, and hard limits, and authors contact them directly through the site.',
+  },
+  {
+    q: 'Where exactly do I apply?',
+    a: 'The application lives at harem-lit.com/apply/industry-professional. Pick the role you work in, and the wizard walks you through profile, role details, and review. Plan 20–30 minutes the first time — everything auto-saves, so you can close the tab and come back.',
+  },
+  {
+    q: 'How much do HaremLit beta readers earn?',
+    a: 'Beta readers set their own rates, usually quoted per 50,000 words. The platform’s guidance to applicants cites an industry norm of roughly $250–500 USD per 50,000 words for a full beta pass, with rush turnaround typically 1.5–2× standard. You choose whether your rates display exactly, as a range, or on request.',
+  },
+  {
+    q: 'What do I need to qualify as a beta reader?',
+    a: 'You must confirm you have read at least 25 books in the HaremLit, monster-girl, reverse-harem, or isekai-harem space. Your feedback is expected to draw on that genre fluency. The application then asks for your feedback types, turnaround, delivery format, and comfort zones.',
+  },
+  {
+    q: 'Do I have to declare heat level and hard limits?',
+    a: 'Yes, and it works in your favor. Heat-level comfort and hard limits are required fields on the beta reader application, so you are only ever matched with books you can honestly evaluate. Authors see your boundaries before they make contact, which removes the awkward conversation entirely.',
+  },
+  {
+    q: 'What does a cover artist need to apply?',
+    a: 'A hosted gallery of 5–10 images, an honest AI-use disclosure on each one, and a recorded rights attestation that the work is yours to license. Your originals stay private — the platform strips metadata and publishes only moderated display copies after approval. Listed prices must include a commercial publishing license.',
+  },
+  {
+    q: 'What is alpha reading, and is it a separate role?',
+    a: 'Alpha reading is a faster, story-first pass on an early draft, aimed at big structural problems rather than beat-level notes. It is not a separate role — it is an opt-in service you can add to your beta reader profile.',
+  },
+  {
+    q: 'Does it cost anything, and how long does approval take?',
+    a: 'Applying and being listed are free, and browsing the directory is free for authors. A human reviews applications within about 7 days, and your profile is public only after approval.',
+  },
+];
+
+const pageUrl = `${SELF_URL}/for-professionals/`;
+
+const orgSchema = organizationSchema({
+  name: 'HaremLit Guide',
+  description: 'Reader guides and ranked lists for harem fantasy and men’s romance fiction.',
+  knowsAbout: [
+    'Harem Fantasy',
+    "Men's Romance",
+    'Beta reading',
+    'Alpha reading',
+    'Book cover art',
+    'Audiobook narration',
+    'Developmental editing',
+  ],
+});
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(({ q, a }) => ({
+    '@type': 'Question',
+    name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'For professionals', item: pageUrl },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} schema={[orgSchema, faqSchema, breadcrumbSchema]}>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'For professionals' }]} />
+
+    <p class="mt-5 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">
+      The professional side of the shelf
+    </p>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-bold leading-tight text-white">
+      Editors, narrators, cover artists and beta readers who know HaremLit
+    </h1>
+
+    <div class="prose mt-6">
+      <p>
+        A HaremLit industry professional is someone paid to work on a book rather than to read it —
+        an editor, audiobook narrator, cover artist, or beta reader. They now have a home:
+        a vetted directory on <a href={professionalUrl('directory', 'hub-intro')} target="_blank" rel="noopener">{PLATFORM_NAME}</a>,
+        where every profile lists rates, availability, genre comfort, and boundaries, and authors
+        reach out directly.
+      </p>
+      <p>
+        This page is the standing reference for both sides of that arrangement — what each role
+        does, what it pays, and how to get listed. Bookmark this rather than any single article.
+      </p>
+
+      <h2>Why a genre-specific directory matters here</h2>
+      <p>
+        HaremLit asks unusual things of the people who work on it. An editor may need to track a
+        romance arc, a plot arc, and a game system at once. A beta reader may need to catch both a
+        relationship continuity slip and broken arithmetic. A narrator may be voicing a large
+        recurring cast across a nine-book series. A cover artist has to communicate subgenre, tone,
+        heat, and fantasy promise in a single thumbnail.
+      </p>
+      <p>
+        General freelance marketplaces are not built for any of that, and the old fallback —
+        asking around and hoping the volunteer does not vanish — has failed enough authors to be a
+        running joke. Every professional in the directory has been reviewed and approved before
+        appearing, which makes it a genuinely useful starting point. It does not replace samples,
+        references, or a written contract.
+      </p>
+
+      <h2>The comfort and boundary system</h2>
+      <p>
+        This is the part other directories do not have, and it is worth understanding before you
+        apply or hire. Beta reader applications require heat-level comfort and hard limits as
+        fields — the topics a reader will not take on, stated once and respected permanently.
+        Subgenre familiarity is captured too.
+      </p>
+      <p>
+        For readers, that means never being handed a book you cannot fairly assess. For authors, it
+        means feedback from someone who is genuinely comfortable with your content rather than
+        quietly gritting their teeth and reporting that it was not for them.
+      </p>
+
+      <h2>The roles, and what each one asks of you</h2>
+    </div>
+
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full min-w-[560px] border-collapse text-sm">
+        <thead>
+          <tr>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">Role</th>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">The work</th>
+            <th class="border-b border-[var(--color-border)] pb-2 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">What you need</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ROLES.map((role) => (
+            <tr class="align-top">
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 font-semibold text-white">
+                <a href={professionalUrl('apply', role.applyContent)} target="_blank" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">
+                  {role.name}
+                </a>
+              </td>
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 leading-relaxed text-[#bbb]">{role.work}</td>
+              <td class="border-b border-[var(--color-border)] py-3 leading-relaxed text-[#999]">
+                {role.requirement ?? 'A portfolio and the work to back it.'}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="prose mt-8">
+      <h2>What it pays</h2>
+      <p>{BETA_RATE_NOTE}</p>
+      <p>
+        Narration is quoted per finished hour and cover work per tier, with one rule shaping every
+        artist quote: listed prices must include a commercial publishing license, so you are
+        pricing for commercial use from the start rather than discovering it later.
+      </p>
+      <p>
+        Authors and publishers on paid plans can also post a casting call — a private paid brief
+        matched to approved professionals who fit the project. Your private rates and hard limits
+        are never shown to the poster.
+      </p>
+
+      <h2>Applying, start to finish</h2>
+      <p>{REVIEW_NOTE}</p>
+      <p>
+        Once you are approved you get a public profile, a dashboard with profile views, unique
+        visitors, contact reveals and the search terms that found you, matched access to paid
+        casting calls, and a pause button for when your queue is full or life happens.
+      </p>
+    </div>
+
+    <div class="mt-12 flex flex-col gap-4">
+      <ProfessionalCTA mode="hire" surface="hub" />
+      <ProfessionalCTA mode="earn" surface="hub" />
+      <ProfessionalCTA mode="create" surface="hub" />
+    </div>
+
+    <FaqBlock items={faq} heading="Questions we get asked" />
+
+    <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+      Working on LitRPG or progression fantasy too? The same program runs on LitRPGTools.com, and
+      <a href="https://litrpgcritic.com/for-professionals/" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white"> LitRPG Critic</a>
+      covers it for that side of the genre.
+    </p>
+  </div>
+</BaseLayout>

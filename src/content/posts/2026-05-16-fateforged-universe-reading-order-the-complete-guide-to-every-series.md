@@ -8,7 +8,7 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-[Harem fantasy]((/blog/what-is-harem-fantasy)) is a subgenre of romantic fantasy fiction in which a single male protagonist builds meaningful relationships with multiple female companions over the course of an ongoing story. It is characterized by adventure-driven plots, power progression, and deeply developed relationship arcs that reward long-term readers.
+[Harem fantasy]((/blog/what-is-haremlit/)) is a subgenre of romantic fantasy fiction in which a single male protagonist builds meaningful relationships with multiple female companions over the course of an ongoing story. It is characterized by adventure-driven plots, power progression, and deeply developed relationship arcs that reward long-term readers.
 
 Most harem fantasy series stand alone. The Fateforged universe is different — and that difference is exactly what makes it worth talking about.
 

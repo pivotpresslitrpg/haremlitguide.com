@@ -4,11 +4,11 @@ description: "Cultivation harem blends the power-progression systems of xianxia 
 date: "2026-06-25"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Cultivation Harem", "Xianxia", "Wuxia", "LitRPG", "Harem Fantasy", "Power Progression", "Eastern Fantasy"]
+tags: ["Cultivation Harem", "xianxia", "Wuxia", "LitRPG", "harem fantasy", "power progression", "Eastern fantasy"]
 featured: false
 ---
 
-Cultivation harem is a sub-genre of [harem fantasy](/blog/what-is-harem-fantasy/) in which the protagonist advances through structured tiers of magical or martial power — a process called "cultivation" — while building deep bonds with a growing cast of female companions. It is characterized by rigid power hierarchies, elemental or spiritual energy systems (typically called qi, mana, or essence), and romantic relationships that deepen as the hero's strength increases.
+Cultivation harem is a sub-genre of [harem fantasy](/blog/what-is-haremlit/) in which the protagonist advances through structured tiers of magical or martial power — a process called "cultivation" — while building deep bonds with a growing cast of female companions. It is characterized by rigid power hierarchies, elemental or spiritual energy systems (typically called qi, mana, or essence), and romantic relationships that deepen as the hero's strength increases.
 
 If you've ever wanted a fantasy series where the protagonist genuinely *earns* his power and his relationships over hundreds of chapters of hard-fought growth, cultivation harem was built for you.
 
@@ -16,7 +16,7 @@ If you've ever wanted a fantasy series where the protagonist genuinely *earns* h
 
 Cultivation, in its original form, comes from Chinese fantasy traditions — xianxia and wuxia — where protagonists refine their bodies and spirits to achieve immortality or transcendence. In harem fiction, that framework gets turbo-charged. The hero doesn't just get stronger; every breakthrough unlocks new story possibilities, new companions, and new stakes. According to community data from [Harem-Lit.com](https://harem-lit.com), cultivation harem titles average 15% higher reader engagement scores than the broader harem fantasy category, driven by readers who return obsessively for the next power-level payoff.
 
-The core loop is deeply satisfying: struggle, breakthrough, bond, repeat. It scratches the same itch as a great RPG progression system — which is exactly why cultivation harem and [harem LitRPG](/blog/what-is-harem-litrpg/) overlap so often.
+The core loop is deeply satisfying: struggle, breakthrough, bond, repeat. It scratches the same itch as a great RPG progression system — which is exactly why cultivation harem and [harem LitRPG](/blog/what-is-litrpg-harem/) overlap so often.
 
 ## Who Is Cultivation Harem For?
 

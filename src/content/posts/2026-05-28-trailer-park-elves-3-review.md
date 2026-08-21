@@ -12,7 +12,7 @@ featured: true
 
 # Trailer Park Elves Book 3 Review: The Harem Fantasy Comedy Series You Didn't Know You Needed
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a genre defined by one protagonist building deep, meaningful relationships with multiple romantic partners inside a richly realized fantasy world. It is characterized by progression mechanics, a found-family ensemble dynamic, and a power fantasy grounded in genuine emotional stakes. *Trailer Park Elves* does all of that — and then sets the whole thing in a pocket-dimension mobile home park run by a man whose primary superpower is being extremely stubborn and mildly Canadian.
+[Harem fantasy](/blog/what-is-haremlit/) is a genre defined by one protagonist building deep, meaningful relationships with multiple romantic partners inside a richly realized fantasy world. It is characterized by progression mechanics, a found-family ensemble dynamic, and a power fantasy grounded in genuine emotional stakes. *Trailer Park Elves* does all of that — and then sets the whole thing in a pocket-dimension mobile home park run by a man whose primary superpower is being extremely stubborn and mildly Canadian.
 
 That's the pitch. It's a very good pitch.
 
@@ -20,7 +20,7 @@ That's the pitch. It's a very good pitch.
 
 ## What Is Trailer Park Elves? The Series at a Glance
 
-*Trailer Park Elves* is a [harem LitRPG](/blog/what-is-harem-litrpg) urban fantasy comedy series by **Adam Lance and Michael Dalton**, set in the Fateforged shared universe. It follows Colton Winchester, an ordinary human who is yanked out of mundane life and dropped into a job he never applied for: manager of Enchanted Garden Villas, a rundown trailer park wedged between Earth and the Fae Wilds, full of elves, goblins, trolls, and other magical folk who've landed on hard times.
+*Trailer Park Elves* is a [harem LitRPG](/blog/what-is-litrpg-harem/) urban fantasy comedy series by **Adam Lance and Michael Dalton**, set in the Fateforged shared universe. It follows Colton Winchester, an ordinary human who is yanked out of mundane life and dropped into a job he never applied for: manager of Enchanted Garden Villas, a rundown trailer park wedged between Earth and the Fae Wilds, full of elves, goblins, trolls, and other magical folk who've landed on hard times.
 
 By Book 3, Colton is Level 5, he's got six permanent repair giraffes, a snarky Tablet that complains about not getting enough compliments, and a growing constellation of girlfriends ranging from a dragon-kin junkyard operator to a cat-girl succubus tattoo artist. He has also, entirely by accident, disrupted a fae criminal booze-laundering operation — and the people behind it are now very much aware of that.
 

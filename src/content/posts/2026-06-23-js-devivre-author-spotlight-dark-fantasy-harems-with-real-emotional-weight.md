@@ -33,7 +33,7 @@ Recurring themes across the work include:
 
 The best entry point for new readers is the beginning of Devivre's primary series, where the world-building foundation is freshest and the character introductions land with full impact. According to reader ratings on [Harem-Lit.com](https://harem-lit.com), the first volume consistently scores as the highest-rated entry point in the catalogue — a strong signal that Devivre hooks readers fast and holds them.
 
-If you're coming to Devivre from a [harem LitRPG](/blog/what-is-harem-litrpg/) background, know that the work sits closer to pure dark fantasy than game-lit. There are no status screens or leveling menus — just immersive world-building and genuine stakes. Readers who enjoy the emotional richness of cultivation-adjacent storytelling will also find a lot to love; for more in that vein, our [best cultivation novels list](/lists/best-cultivation-novels/) is worth a browse.
+If you're coming to Devivre from a [harem LitRPG](/blog/what-is-litrpg-harem/) background, know that the work sits closer to pure dark fantasy than game-lit. There are no status screens or leveling menus — just immersive world-building and genuine stakes. Readers who enjoy the emotional richness of cultivation-adjacent storytelling will also find a lot to love; for more in that vein, our [best cultivation novels list](/lists/best-cultivation-novels/) is worth a browse.
 
 ## How Does J.S. Devivre Compare to Other Harem Fantasy Authors?
 

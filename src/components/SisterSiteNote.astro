@@ -1,0 +1,42 @@
+---
+// Contextual cross-site pointer.
+//
+// Only renders when the post's own subject overlaps a sister site's beat, so
+// this reads as a friendly hand-off rather than a house ad.
+interface Props {
+  tags?: string[];
+  title?: string;
+}
+
+const { tags = [], title = '' } = Astro.props;
+const hay = [...tags, title].join(' ').toLowerCase();
+
+const RULES = [
+  {
+    hints: ['litrpg', 'progression fantasy', 'dungeon core', 'gamelit', 'system apocalypse'],
+    site: 'LitRPG Critic',
+    url: 'https://litrpgcritic.com',
+    note: 'goes deeper on the LitRPG and progression side of this crossover, if that is the half you came for.',
+  },
+  {
+    hints: ['cultivation', 'isekai', 'power fantasy', 'xianxia'],
+    site: 'Fantasy Ranked',
+    url: 'https://fantasyranked.com',
+    note: 'ranks these titles against the wider power fantasy field — useful when you want the comparison rather than the guide.',
+  },
+];
+
+const match = RULES.find((rule) => rule.hints.some((h) => hay.includes(h))) ?? null;
+---
+
+{match && (
+  <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+    <span class="font-semibold text-[#aaa]">Also worth a look:</span>{' '}
+    <a
+      href={match.url}
+      class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white"
+      rel="noopener"
+    >{match.site}</a>{' '}
+    {match.note}
+  </p>
+)}

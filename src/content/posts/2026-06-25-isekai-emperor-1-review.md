@@ -22,9 +22,9 @@ featured: true
 
 The hook is sharp. Thomas isn't a blank slate power fantasy; he's a guy with genuine skills — civil engineering, architectural design, a real instinct for spatial thinking — that the story is clearly going to put to use. When the book opens on his trashed apartment, surrounded by empty bottles and the brilliant-but-unorthodox designs that just got him fired, you get an immediate sense of who he is: someone whose gifts don't fit neatly into conventional structures. That's not accidental framing. It's setup.
 
-The world he's being pulled into is the Fae Wilds — a [harem LitRPG](/blog/what-is-harem-litrpg/) setting where goblins, elves, celestials, and stranger beings live under a GameLit system of character levels, classes, and attribute progression. The central conflict isn't a dark lord or a dungeon to clear. It's a population crisis. Multiple supernatural species are in demographic decline, and Thomas — as the half-human, half-goblin son of a cursed king — is the answer nobody planned for.
+The world he's being pulled into is the Fae Wilds — a [harem LitRPG](/blog/what-is-litrpg-harem/) setting where goblins, elves, celestials, and stranger beings live under a GameLit system of character levels, classes, and attribute progression. The central conflict isn't a dark lord or a dungeon to clear. It's a population crisis. Multiple supernatural species are in demographic decline, and Thomas — as the half-human, half-goblin son of a cursed king — is the answer nobody planned for.
 
-That's a genuinely fresh premise in the [harem fantasy space](/blog/what-is-harem-fantasy/).
+That's a genuinely fresh premise in the [harem fantasy space](/blog/what-is-haremlit/).
 
 ---
 
@@ -71,7 +71,7 @@ Fans of Michael-Scott Earle's world-building ambition or Blaise Corvin's blend o
 - **Blaise Corvin's Delvers LLC** — for LitRPG with genuine heart
 - **Harmon Cooper's Fantasy Online** — for slice-of-life warmth in a GameLit wrapper
 - **JC Kang's harem fantasy works** — for political world-building layered under the romance
-- Any reader who wants their [harem LitRPG](/blog/what-is-harem-litrpg/) to also have something to *say* about leadership, legacy, and what it means to build something worth keeping
+- Any reader who wants their [harem LitRPG](/blog/what-is-litrpg-harem/) to also have something to *say* about leadership, legacy, and what it means to build something worth keeping
 
 ---
 

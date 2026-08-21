@@ -4,7 +4,7 @@ description: "Monster girl harem features romance between a protagonist and non-
 date: "2026-03-17"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["monster girl", "monster girl harem", "interspecies romance", "elves", "catgirls", "lamia", "kitsune", "harem fantasy", "Radley's Home for Horny Monsters", "Annabelle Hawthorne", "Monster Girl Islands", "Logan Jacobs", "Slime Keeper", "Leon West", "Monster Masseur", "Virgil Knightley", "non-human romance"]
+tags: ["monster girl", "Monster Girl Harem", "interspecies romance", "elves", "catgirls", "lamia", "kitsune", "harem fantasy", "Radley's Home for Horny Monsters", "Annabelle Hawthorne", "Monster Girl Islands", "Logan Jacobs", "Slime Keeper", "Leon West", "Monster Masseur", "Virgil Knightley", "non-human romance"]
 featured: false
 faq:
   - q: "What counts as a monster girl?"

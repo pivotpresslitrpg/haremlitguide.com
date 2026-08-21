@@ -4,7 +4,7 @@ description: "Harem fantasy is one of the fastest-growing corners of men's ficti
 date: "2026-07-09"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Harem Fantasy", "Men's Romance", "Fantasy", "Genre Guide", "Gateway Books", "Isekai", "LitRPG"]
+tags: ["harem fantasy", "men's romance", "fantasy", "Genre Guide", "Gateway Books", "isekai", "LitRPG"]
 featured: false
 ---
 

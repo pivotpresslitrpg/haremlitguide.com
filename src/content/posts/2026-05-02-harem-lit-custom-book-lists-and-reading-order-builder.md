@@ -4,7 +4,7 @@ description: "Two new Harem-Lit.com features changed how readers organize what t
 date: "2026-05-02"
 type: "platform_feature"
 author: "The HaremLit Guide"
-tags: ["Harem-Lit.com", "platform features", "custom lists", "reading order", "harem fantasy", "shared universe", "Fateforged", "author tools"]
+tags: ["harem-lit.com", "platform features", "custom lists", "reading order", "harem fantasy", "shared universe", "Fateforged", "author tools"]
 featured: false
 ---
 

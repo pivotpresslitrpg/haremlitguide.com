@@ -8,13 +8,13 @@ tags: ["new releases", "harem fantasy", "LitRPG", "cultivation", "sci-fi harem",
 featured: false
 ---
 
-[Harem fantasy](https://harem-lit.com) is a subgenre of men's romance and fantasy fiction in which the male protagonist builds meaningful bonds — romantic, adventurous, or both — with multiple female characters across the course of a series. It is characterized by power-fantasy progression, a strong found-family dynamic, and an emphasis on male wish fulfillment done right. Based on our analysis of 50,000+ titles tracked across the genre, [harem fantasy](/blog/what-is-harem-fantasy/) is one of the fastest-growing corners of indie fiction — and this week's new releases are a pretty great argument for why.
+[Harem fantasy](https://harem-lit.com) is a subgenre of men's romance and fantasy fiction in which the male protagonist builds meaningful bonds — romantic, adventurous, or both — with multiple female characters across the course of a series. It is characterized by power-fantasy progression, a strong found-family dynamic, and an emphasis on male wish fulfillment done right. Based on our analysis of 50,000+ titles tracked across the genre, [harem fantasy](/blog/what-is-haremlit/) is one of the fastest-growing corners of indie fiction — and this week's new releases are a pretty great argument for why.
 
 Let's get into what's fresh on the shelf.
 
 ## What Are the Best New Harem Fantasy Releases Right Now?
 
-The strongest new entry this week is **Powercard: A Deck-Building LitRPG Harem Adventure** by R.A. Lichblade. This one's doing something genuinely creative: blending the strategic satisfaction of deck-building games with [harem LitRPG](/blog/what-is-harem-litrpg/) progression. If you've ever wanted your card game to come with romance and stat sheets, Lichblade has you covered. It's a tight, high-concept premise executed with real enthusiasm, and it's already generating buzz among readers who like their power systems crunchy.
+The strongest new entry this week is **Powercard: A Deck-Building LitRPG Harem Adventure** by R.A. Lichblade. This one's doing something genuinely creative: blending the strategic satisfaction of deck-building games with [harem LitRPG](/blog/what-is-litrpg-harem/) progression. If you've ever wanted your card game to come with romance and stat sheets, Lichblade has you covered. It's a tight, high-concept premise executed with real enthusiasm, and it's already generating buzz among readers who like their power systems crunchy.
 
 Also turning heads: **Many Hearts, One Sword 1: Ironheart Apocalypse** by Dante King and Ryan Zhao. Dante King is one of the most reliably entertaining names in the space — prolific, pacy, and great at building harem dynamics that feel earned rather than handed to the protagonist. This new series opener delivers the apocalyptic urgency you'd expect from the title, with solid worldbuilding and the kind of first-volume momentum that hooks you into a series for the long haul.
 

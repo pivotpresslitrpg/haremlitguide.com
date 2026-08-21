@@ -4,11 +4,11 @@ description: "What is modern supernatural romance in harem fiction? Learn how th
 date: "2026-06-02"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["Modern Supernatural Romance", "Paranormal Romance", "Urban Fantasy", "Harem Fantasy", "Men's Romance", "Supernatural Harem", "Sub-Genre Guide"]
+tags: ["Modern Supernatural Romance", "Paranormal Romance", "urban fantasy", "harem fantasy", "men's romance", "Supernatural Harem", "Sub-Genre Guide"]
 featured: false
 ---
 
-Modern supernatural romance is a sub-genre of [harem fantasy](/blog/what-is-harem-fantasy) set in a recognizable contemporary world — our world, more or less — where the supernatural bleeds through: vampires, witches, shifters, demons, fae, and creatures older than memory walking the same streets as smartphones and coffee shops. It is characterized by grounded, relatable protagonists drawn into hidden magical societies, romantic tension with powerful supernatural women, and a persistent sense that the extraordinary is lurking just beneath the ordinary surface of everyday life.
+Modern supernatural romance is a sub-genre of [harem fantasy](/blog/what-is-haremlit/) set in a recognizable contemporary world — our world, more or less — where the supernatural bleeds through: vampires, witches, shifters, demons, fae, and creatures older than memory walking the same streets as smartphones and coffee shops. It is characterized by grounded, relatable protagonists drawn into hidden magical societies, romantic tension with powerful supernatural women, and a persistent sense that the extraordinary is lurking just beneath the ordinary surface of everyday life.
 
 If you've ever looked at a city skyline at night and felt like something was watching back, this genre was written for you.
 

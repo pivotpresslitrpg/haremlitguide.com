@@ -172,7 +172,7 @@ CONFIG = {
         "- /lists/best-completed-harem-series/\n"
         "- /lists/books-like-azarinth-healer/\n"
         "- /lists/best-mens-adventure-romance/\n\n"
-        "Other stable pages: /new-releases/ , /blog/ (article index), /lists/ (all lists).\n\n"
+        "Other stable pages: /for-professionals/ (industry-professional hub — link it whenever a post discusses editors, narrators, cover artists, beta readers, or hiring help), /tags/ (topic index), /editorial/ (editorial standards), /new-releases/ , /blog/ (article index), /lists/ (all lists).\n\n"
         "Format as markdown links to an exact path above: [text](/exact-path/).\n\n"
         "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
         "to https://harem-lit.com — put it on the platform name the first time it is "
@@ -204,6 +204,9 @@ CONFIG = {
         '/new-releases/',
         '/blog/',
         '/lists/',
+        '/for-professionals/',
+        '/tags/',
+        '/editorial/',
     ),
 
     'geo_guidance': (

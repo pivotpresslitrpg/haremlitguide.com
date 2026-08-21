@@ -4,7 +4,7 @@ description: "From isekai LitRPG adventures to dark throne room drama, here's wh
 date: "2026-04-16"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "litrpg", "isekai", "dungeon fantasy", "April 2026"]
+tags: ["new releases", "harem fantasy", "LitRPG", "isekai", "dungeon fantasy", "April 2026"]
 featured: false
 ---
 

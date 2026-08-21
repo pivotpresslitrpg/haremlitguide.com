@@ -4,7 +4,7 @@ description: "Loved the mythic Greek world-building and slow-burn power fantasy 
 date: "2026-04-21"
 type: "books_like"
 author: "The HaremLit Guide"
-tags: ["virtuous sons", "greek mythology", "cultivation", "progression fantasy", "harem fantasy", "power fantasy", "litRPG", "recommendations"]
+tags: ["virtuous sons", "greek mythology", "cultivation", "progression fantasy", "harem fantasy", "power fantasy", "LitRPG", "recommendations"]
 featured: false
 ---
 

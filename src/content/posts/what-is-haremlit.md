@@ -4,7 +4,7 @@ description: "HaremLit is a fantasy and sci-fi subgenre where the protagonist bu
 date: "2026-03-17"
 type: "genre_explainer"
 author: "The HaremLit Guide"
-tags: ["haremlit", "harem lit", "harem fantasy", "mens romance", "harem books", "what is haremlit", "why choose", "reverse harem", "fantasy romance", "power fantasy"]
+tags: ["HaremLit", "harem lit", "harem fantasy", "mens romance", "harem books", "what is haremlit", "why choose", "reverse harem", "fantasy romance", "power fantasy"]
 featured: true
 faq:
   - q: "Is HaremLit the same as reverse harem or Why Choose?"

@@ -8,7 +8,7 @@ tags: ["Blaise Corvin", "harem fantasy", "LitRPG", "Secret of the Old Ones", "De
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy/) is a subgenre of fantasy romance and adventure fiction in which the protagonist builds meaningful relationships with multiple female characters across a single narrative arc. It is characterized by power progression systems, richly constructed worlds, and a blend of action, romance, and found-family dynamics that keeps readers turning pages well past midnight.
+[Harem fantasy](/blog/what-is-haremlit/) is a subgenre of fantasy romance and adventure fiction in which the protagonist builds meaningful relationships with multiple female characters across a single narrative arc. It is characterized by power progression systems, richly constructed worlds, and a blend of action, romance, and found-family dynamics that keeps readers turning pages well past midnight.
 
 Blaise Corvin is one of those authors whose name gets dropped in every serious conversation about the genre. If you've spent any time in harem fantasy communities, you've seen the recommendation appear again and again — and for very good reason. Based on our analysis of 50,000+ titles tracked across the community, Corvin consistently ranks among the most-recommended authors for readers transitioning from mainstream fantasy into the harem subgenre.
 
@@ -23,7 +23,7 @@ According to reader ratings on [Harem-Lit.com](https://harem-lit.com), Corvin's 
 Ranked by community rating on Harem-Lit.com, Corvin's most acclaimed works are:
 
 1. **Secret of the Old Ones** — his magnum opus, a sprawling dark fantasy with deeply developed lore, morally complex factions, and some of the best worldbuilding in the genre
-2. **Delvers LLC** — a more accessible, humor-forward [harem LitRPG](/blog/what-is-harem-litrpg/) series that blends game mechanics with genuine heart
+2. **Delvers LLC** — a more accessible, humor-forward [harem LitRPG](/blog/what-is-litrpg-harem/) series that blends game mechanics with genuine heart
 3. **Nora** — a cultivation-influenced story that fans of progression fantasy will find deeply satisfying (see also our [best cultivation novels list](/lists/best-cultivation-novels/))
 
 For new readers, **Delvers LLC** is the perfect entry point. It hits the ground running with a fresh isekai premise, two protagonists with excellent banter, and a tone that's welcoming without being simplistic. It's the kind of series you recommend to a friend who says "I've never read harem fantasy before — where do I start?" and then you watch them devour the whole catalog in a week.

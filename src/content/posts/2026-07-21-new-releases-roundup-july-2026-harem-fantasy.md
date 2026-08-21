@@ -4,7 +4,7 @@ description: "From magic academies and kingdom builders to sci-fi space operas a
 date: "2026-07-21"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "harem fantasy", "litrpg", "kingdom building", "academy fantasy", "slice of life", "sci-fi harem", "gamelit"]
+tags: ["new releases", "harem fantasy", "LitRPG", "kingdom building", "academy fantasy", "slice of life", "sci-fi harem", "GameLit"]
 featured: false
 ---
 

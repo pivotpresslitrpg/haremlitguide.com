@@ -8,13 +8,13 @@ tags: ["Fateforged", "Adam Lance", "Michael Dalton", "Annabelle Hawthorne", "Leo
 featured: false
 ---
 
-[Harem fantasy](/blog/what-is-harem-fantasy) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds deep bonds — romantic, magical, or both — with multiple compelling female characters. It is characterized by power progression, richly built fantasy worlds, and relationship dynamics that sit at the emotional center of every story.
+[Harem fantasy](/blog/what-is-haremlit/) is a subgenre of men's romance and fantasy fiction in which a male protagonist builds deep bonds — romantic, magical, or both — with multiple compelling female characters. It is characterized by power progression, richly built fantasy worlds, and relationship dynamics that sit at the emotional center of every story.
 
 Within that genre, shared universes are rare. Really rare. Most harem fantasy series are solo efforts — one author, one world, one protagonist's journey. That's part of what makes the Fateforged universe such a genuinely exciting thing to talk about. It's one of the most ambitious connected-world projects in the entire harem lit space, and based on community engagement at [Harem-Lit.com](https://www.harem-lit.com), it's resonating deeply with readers who want more.
 
 ## What Is the Fateforged Universe?
 
-The Fateforged universe is a multi-series, multi-author shared harem fantasy setting with a connected timeline, crossover characters, and interlocking lore that rewards readers who explore more than one series. It spans five distinct series across wildly different fantasy subgenres — from isekai to fae realms to [dungeon-diving LitRPG](/blog/what-is-harem-litrpg) — all anchored by author Adam Lance as the creative constant across every entry.
+The Fateforged universe is a multi-series, multi-author shared harem fantasy setting with a connected timeline, crossover characters, and interlocking lore that rewards readers who explore more than one series. It spans five distinct series across wildly different fantasy subgenres — from isekai to fae realms to [dungeon-diving LitRPG](/blog/what-is-litrpg-harem/) — all anchored by author Adam Lance as the creative constant across every entry.
 
 According to community data from Harem-Lit.com, the Fateforged series collectively rank among the most-discussed shared universe titles in the harem fantasy category, with reader threads regularly running longer than the genre average for similarly sized series.
 
@@ -28,7 +28,7 @@ Every series in the Fateforged universe brings something distinct to the table. 
 
 2. **King of the Fae Islands** (Adam Lance & Annabelle Hawthorne) — Fae realms, island politics, and a protagonist navigating a world where beauty and danger are inseparable. Annabelle Hawthorne brings a distinct romantic sensibility that makes this series feel lush in a way the others don't.
 
-3. **Dungeon Champions** (Adam Lance & Leon West) — [Harem LitRPG](/blog/what-is-harem-litrpg) at its most focused. Dungeon diving with a companion harem, tight game-system mechanics, and the kind of escalating stakes that make this genre so addictive. Leon West's co-authorship here is a genuine strength.
+3. **Dungeon Champions** (Adam Lance & Leon West) — [Harem LitRPG](/blog/what-is-litrpg-harem/) at its most focused. Dungeon diving with a companion harem, tight game-system mechanics, and the kind of escalating stakes that make this genre so addictive. Leon West's co-authorship here is a genuine strength.
 
 4. **Isle of the Amazonian Elves** (Adam Lance & Leon West) — Stranded-on-an-island premise with amazon elves. It sounds like pure pulp fun — because it is — but it's also smarter than it looks, with world-building that connects meaningfully to the broader Fateforged timeline.
 

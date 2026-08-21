@@ -4,7 +4,7 @@ description: "From a completed academy LitRPG to a chosen-one comedy that actual
 date: "2026-07-16"
 type: "new_releases"
 author: "The HaremLit Guide"
-tags: ["new releases", "top 10", "harem fantasy", "LitRPG harem", "isekai", "urban fantasy", "men's romance"]
+tags: ["new releases", "top 10", "harem fantasy", "LitRPG Harem", "isekai", "urban fantasy", "men's romance"]
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "Fated Enforcer by Adam Lance blends urban fantasy, GameLit, and ha
 date: "2026-04-30"
 type: "book_report"
 author: "The HaremLit Guide"
-tags: ["Fated Enforcer", "Adam Lance", "harem fantasy", "urban fantasy", "action", "GameLit", "Fateforged universe"]
+tags: ["Fated Enforcer", "Adam Lance", "harem fantasy", "urban fantasy", "action", "GameLit", "Fateforged Universe"]
 featured: true
 ---
 

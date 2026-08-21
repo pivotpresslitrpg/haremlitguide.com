@@ -10,7 +10,7 @@ featured: true
 
 # Fated Enforcer Book 2 Review: The Urban Harem Fantasy That Makes GameLit Feel Alive
 
-[Harem fantasy]((/blog/what-is-harem-fantasy) is a subgenre of men's romance and power fantasy in which a protagonist builds meaningful bonds — romantic, magical, or both — with a group of compelling women. It is characterized by character-driven relationship arcs, escalating power progression, and worlds where the personal and the epic are inseparable.
+[Harem fantasy]((/blog/what-is-haremlit/) is a subgenre of men's romance and power fantasy in which a protagonist builds meaningful bonds — romantic, magical, or both — with a group of compelling women. It is characterized by character-driven relationship arcs, escalating power progression, and worlds where the personal and the epic are inseparable.
 
 *Fated Enforcer Book 2* by Adam Lance does all of that, and it does it with a confidence and warmth that sets it apart from the crowded [harem LitRPG](/blog/what-is-litrpg-harem/) shelf.
 
