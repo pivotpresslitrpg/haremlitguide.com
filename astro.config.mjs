@@ -11,6 +11,8 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      // /search/ is a noindex utility page; keep it out of the sitemap too.
+      filter: (page) => !page.includes('/search/'),
       serialize(item) {
         const buildDate = new Date().toISOString();
         const dateMatch = item.url.match(/\/blog\/(\d{4}-\d{2}-\d{2})-/);
