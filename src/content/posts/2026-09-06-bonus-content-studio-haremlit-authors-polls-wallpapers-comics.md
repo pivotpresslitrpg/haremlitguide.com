@@ -31,7 +31,7 @@ The HaremLit-flavored features are the ones I'd start with:
 
 - **Wallpapers as follower freebies.** Post a wallpaper and tick the option to offer the original file. Followers get the full-resolution download. Readers *collect* these.
 - **One fan poll per post.** Single choice, attached to the post. Ask which love interest gets a side story, which setting the next series opens in, which title wins. It's the Discord poll, except everyone who follows you sees it.
-- **Page-by-page comics.** Upload several finished pages and readers see them top to bottom in order. The Studio asks how your comic is prepared, a single panel or a full multi-panel page, and tells you to combine panels into a finished page first, because it doesn't compose panel grids for you.
+- **Page-by-page comics.** Upload finished pages and readers see them top to bottom in order, or build the pages on the site: the new Author Studio composer gives you panel templates, speech-bubble lettering you edit in place, layers, image masks, and snapping, and exports each page as a full-resolution PNG.
 - **Deleted scenes, attached to the book they came from.** Readers open them in context.
 
 Who can publish: authors with a claimed, approved profile, and narrators or other creators with an approved public [Industry Professional profile](/for-professionals/). If the person who voiced your audiobook wants to post outtakes, they can, under their own name.
