@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Isle of the Amazonian Elves",
+  "book_number": 1,
+  "authors": [
+    "Adam Lance",
+    "Leon West"
+  ],
+  "voice": "Tessa",
+  "fictional_gender": "female",
+  "evidence_scope": "author progression note; Kess’s hunting prelude; Chapter 3 island arrival; closing household passage",
+  "source_artifacts": [
+    {
+      "label": "ae1 supplied manuscript",
+      "sha256": "1a640de5cd39f414dd7ffe6b13cb234b21e84545aacf2dda492e3b59efbbd365"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.goodreads.com/book/show/247052482-isle-of-the-amazonian-elves",
+      "checked_at": "2026-09-15",
+      "scope": "Goodreads feedback is divided. Zaralith, who discloses beta-reading, appreciates the brothers’ friendship and lighter systems; Clayton dislikes Mike’s attitude and questions the power balance. Those contrasting individual responses are more useful than treating the premise as universally appealing."
+    }
+  ],
+  "allowed_numbers": [
+    "1",
+    "3",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.goodreads.com/book/show/247052482-isle-of-the-amazonian-elves",
+    "https://harem-lit.com"
+  ]
+}

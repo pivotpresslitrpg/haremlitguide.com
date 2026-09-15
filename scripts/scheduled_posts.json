@@ -18,6 +18,94 @@
       "manifest": "research_sources/review-pathways-2026-08-06.json",
       "status": "published",
       "published_at": "2026-08-22"
+    },
+    {
+      "publish_date": "2026-09-21",
+      "slug": "isle-of-the-amazonian-elves-1-warrior-women-with-a-community-to-save",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/isle-of-the-amazonian-elves-1-warrior-women-with-a-community-to-save.md",
+      "manifest": "research_sources/isle-of-the-amazonian-elves-1-warrior-women-with-a-community-to-save.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-22",
+      "slug": "isekai-emperor-1-a-goblin-kingdom-with-benefits",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/isekai-emperor-1-a-goblin-kingdom-with-benefits.md",
+      "manifest": "research_sources/isekai-emperor-1-a-goblin-kingdom-with-benefits.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-24",
+      "slug": "dungeon-champions-1-party-chemistry-starts-before-the-romance",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/dungeon-champions-1-party-chemistry-starts-before-the-romance.md",
+      "manifest": "research_sources/dungeon-champions-1-party-chemistry-starts-before-the-romance.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-26",
+      "slug": "fates-enforcer-1-a-supernatural-job-with-inconvenient-attractions",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/fates-enforcer-1-a-supernatural-job-with-inconvenient-attractions.md",
+      "manifest": "research_sources/fates-enforcer-1-a-supernatural-job-with-inconvenient-attractions.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-28",
+      "slug": "isle-of-the-amazonian-elves-2-the-family-fantasy-acquires-consequences",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/isle-of-the-amazonian-elves-2-the-family-fantasy-acquires-consequences.md",
+      "manifest": "research_sources/isle-of-the-amazonian-elves-2-the-family-fantasy-acquires-consequences.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-29",
+      "slug": "isekai-emperor-2-royal-duties-and-very-personal-diplomacy",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/isekai-emperor-2-royal-duties-and-very-personal-diplomacy.md",
+      "manifest": "research_sources/isekai-emperor-2-royal-duties-and-very-personal-diplomacy.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-01",
+      "slug": "dungeon-champions-2-a-shared-home-is-not-instant-harmony",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/dungeon-champions-2-a-shared-home-is-not-instant-harmony.md",
+      "manifest": "research_sources/dungeon-champions-2-a-shared-home-is-not-instant-harmony.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-03",
+      "slug": "fates-enforcer-2-date-night-after-the-fireballs",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/fates-enforcer-2-date-night-after-the-fireballs.md",
+      "manifest": "research_sources/fates-enforcer-2-date-night-after-the-fireballs.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-06",
+      "slug": "isekai-emperor-3-when-the-household-becomes-a-dynasty",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/isekai-emperor-3-when-the-household-becomes-a-dynasty.md",
+      "manifest": "research_sources/isekai-emperor-3-when-the-household-becomes-a-dynasty.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-08",
+      "slug": "dungeon-champions-3-sadie-makes-the-party-personal",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/dungeon-champions-3-sadie-makes-the-party-personal.md",
+      "manifest": "research_sources/dungeon-champions-3-sadie-makes-the-party-personal.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-10",
+      "slug": "fates-enforcer-3-soul-bonds-at-the-negotiating-table",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/fates-enforcer-3-soul-bonds-at-the-negotiating-table.md",
+      "manifest": "research_sources/fates-enforcer-3-soul-bonds-at-the-negotiating-table.json",
+      "status": "scheduled"
     }
   ]
 }

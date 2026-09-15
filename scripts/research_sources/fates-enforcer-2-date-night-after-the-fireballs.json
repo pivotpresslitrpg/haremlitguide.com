@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Fate’s Enforcer",
+  "book_number": 2,
+  "authors": [
+    "Adam Lance",
+    "Anne Ominous"
+  ],
+  "voice": "Grant",
+  "fictional_gender": "male",
+  "evidence_scope": "opening character and cosmology notes; Chapter 4, Official Date Capacity; closing homecoming",
+  "source_artifacts": [
+    {
+      "label": "fe2 supplied manuscript",
+      "sha256": "4daf677ed90c94c9f7a4796bea2595d744bb46d6f84c73fd00944e1ae28e60d5"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/haremfantasynovels/comments/1g91j07",
+      "checked_at": "2026-09-15",
+      "scope": "The linked discussion concerns the first book: readers disagree about Alex’s priorities and whether its romantic cast works for them. It is background reception, not a review of this sequel. No accessible book-specific reader assessment was established for this installment during this research pass."
+    }
+  ],
+  "allowed_numbers": [
+    "2",
+    "4",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/haremfantasynovels/comments/1g91j07",
+    "https://harem-lit.com"
+  ]
+}

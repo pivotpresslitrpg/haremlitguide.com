@@ -3,6 +3,10 @@ name: Deploy to Cloudflare Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Generate Blog Post"]
+    types: [completed]
+    branches: [main]
   schedule:
     - cron: '0 11 * * 2'   # Tuesday at 11am UTC
     - cron: '0 11 * * 4'   # Thursday at 11am UTC
@@ -15,6 +19,10 @@ concurrency:
 
 jobs:
   deploy:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

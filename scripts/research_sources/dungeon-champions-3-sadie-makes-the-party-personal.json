@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Dungeon Champions",
+  "book_number": 3,
+  "authors": [
+    "Adam Lance",
+    "Leon West"
+  ],
+  "voice": "Rhea",
+  "fictional_gender": "female",
+  "evidence_scope": "opening recaps and author mechanics notes; Chapter 1, A Friend In Me",
+  "source_artifacts": [
+    {
+      "label": "dc3 supplied manuscript",
+      "sha256": "cf4f0939d35da46fe7574bc5505d461827a5b50231011b8b417329a783e42c85"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/haremfantasynovels/comments/1rzpo51/more_fate_forged_reviews_032126/",
+      "checked_at": "2026-09-15",
+      "scope": "The linked multi-book Reddit discussion contains both appreciation for the cast’s distinct cultures and dissatisfaction with repeated stat material. One commenter finds the third book weaker than the earlier installments. These reactions are retained as counterpoints, not converted into a numerical audience verdict."
+    }
+  ],
+  "allowed_numbers": [
+    "3",
+    "1",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/haremfantasynovels/comments/1rzpo51/more_fate_forged_reviews_032126/",
+    "https://harem-lit.com"
+  ]
+}

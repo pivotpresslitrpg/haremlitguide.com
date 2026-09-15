@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Dungeon Champions",
+  "book_number": 1,
+  "authors": [
+    "Adam Lance",
+    "Leon West"
+  ],
+  "voice": "Rhea",
+  "fictional_gender": "female",
+  "evidence_scope": "opening class and premise material; Chapter 7, Cats And Catgirls; harem-system glossary",
+  "source_artifacts": [
+    {
+      "label": "dc1 supplied manuscript",
+      "sha256": "203fd0991482105c1c06c68d21633a581b623944762e24b69673b30b8bb08990"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.goodreads.com/en/book/show/219495603-dungeon-champions-book-one",
+      "checked_at": "2026-09-15",
+      "scope": "In an indexed Goodreads review, Jake objects to how quickly emotional intimacy develops and to the quantity of stat material. That response identifies a real reader-fit question: a large page count does not automatically make a romance feel gradual. It is one reader’s assessment, not a consensus."
+    }
+  ],
+  "allowed_numbers": [
+    "1",
+    "7",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.goodreads.com/en/book/show/219495603-dungeon-champions-book-one",
+    "https://harem-lit.com"
+  ]
+}

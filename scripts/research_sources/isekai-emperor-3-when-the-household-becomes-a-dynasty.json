@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Isekai Emperor",
+  "book_number": 3,
+  "authors": [
+    "Adam Lance",
+    "Michael Dalton"
+  ],
+  "voice": "Cole",
+  "fictional_gender": "male",
+  "evidence_scope": "opening character and Inner Circle material; Chapter 1, Stratagems and Dreams; glossary",
+  "source_artifacts": [
+    {
+      "label": "ie3 supplied manuscript",
+      "sha256": "0788bbdac39fe122720e8fc95584f0c10218e7c6f523281af6b9efe7201414ba"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.goodreads.com/en/book/show/211484032-isekai-emperor-3",
+      "checked_at": "2026-09-15",
+      "scope": "An indexed Goodreads review criticizes the execution of the adult scenes, describing them as less emotionally engaging than desired. That is a useful warning about reader taste, not a universal verdict. Only the indexed excerpt was accessible; the direct page fetch was blocked."
+    }
+  ],
+  "allowed_numbers": [
+    "3",
+    "1",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.goodreads.com/en/book/show/211484032-isekai-emperor-3",
+    "https://harem-lit.com"
+  ]
+}

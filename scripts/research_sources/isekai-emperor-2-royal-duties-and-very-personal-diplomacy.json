@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Isekai Emperor",
+  "book_number": 2,
+  "authors": [
+    "Adam Lance",
+    "Michael Dalton"
+  ],
+  "voice": "Cole",
+  "fictional_gender": "male",
+  "evidence_scope": "opening kingdom and character recap; Chapter 3, Cunning Candi; vassal glossary",
+  "source_artifacts": [
+    {
+      "label": "ie2 supplied manuscript",
+      "sha256": "eb115d33c57b7e5b2faa0a01762553e096b1f2d20cb67ca994bfb55dd0944659"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.goodreads.com/en/book/show/210249806-isekai-emperor-2",
+      "checked_at": "2026-09-15",
+      "scope": "In the indexed Goodreads reviews, Steve finds the book entertaining but objects to long breaks for sex and mechanics; Lunar identifies travel pacing as a weakness. Those are specific reader reservations, not a representative survey. The direct page fetch was blocked, so only the visible indexed review excerpts were used."
+    }
+  ],
+  "allowed_numbers": [
+    "2",
+    "3",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.goodreads.com/en/book/show/210249806-isekai-emperor-2",
+    "https://harem-lit.com"
+  ]
+}

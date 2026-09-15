@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Fate’s Enforcer",
+  "book_number": 3,
+  "authors": [
+    "Adam Lance",
+    "Anne Ominous"
+  ],
+  "voice": "Grant",
+  "fictional_gender": "male",
+  "evidence_scope": "opening reading-order and character notes; Chapter 1, Power Plays",
+  "source_artifacts": [
+    {
+      "label": "fe3 supplied manuscript",
+      "sha256": "563548d8c5ad7f581bfe12c227dfff2e49c3c4fed0c2878d445b6cee7554e231"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/haremfantasynovels/comments/1ro01x9/review_dun_dun_duuuun_030826/",
+      "checked_at": "2026-09-15",
+      "scope": "A comment in the linked discussion says Fate’s Enforcer felt more dependent on background reading than expected. That is series-level feedback, not a book-specific appraisal of this finale. It usefully qualifies the manuscripts’ statement that connected series are optional."
+    }
+  ],
+  "allowed_numbers": [
+    "3",
+    "1",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/haremfantasynovels/comments/1ro01x9/review_dun_dun_duuuun_030826/",
+    "https://harem-lit.com"
+  ]
+}

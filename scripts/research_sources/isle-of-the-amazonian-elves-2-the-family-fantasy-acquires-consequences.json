@@ -1,0 +1,47 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Isle of the Amazonian Elves",
+  "book_number": 2,
+  "authors": [
+    "Adam Lance",
+    "Leon West"
+  ],
+  "voice": "Tessa",
+  "fictional_gender": "female",
+  "evidence_scope": "TRT and Lifeweb Guardian recap; Chapter 2, Logistical Challenges; closing threat passage",
+  "source_artifacts": [
+    {
+      "label": "ae2 supplied manuscript",
+      "sha256": "4bee6cd1eaea07ba5c7cd37ba31c0ae51611d2e6cef79ea2f3a0c34cf9c9fe30"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.goodreads.com/book/show/247052482-isle-of-the-amazonian-elves",
+      "checked_at": "2026-09-15",
+      "scope": "The linked reader feedback concerns the first book, where responses differ over the brothers, Mike’s confidence, and the power system. It is series context only. No accessible reader review specifically assessing this sequel was established during this pass, so none is implied."
+    }
+  ],
+  "allowed_numbers": [
+    "2",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.goodreads.com/book/show/247052482-isle-of-the-amazonian-elves",
+    "https://harem-lit.com"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Isekai Emperor",
+  "book_number": 1,
+  "authors": [
+    "Adam Lance",
+    "Michael Dalton"
+  ],
+  "voice": "Cole",
+  "fictional_gender": "male",
+  "evidence_scope": "opening material; Chapter 2, Your kingdom is in Peril; the species and vassal glossary",
+  "source_artifacts": [
+    {
+      "label": "ie1 supplied manuscript",
+      "sha256": "51ffc9cb24cd70823e9760bd97a835e61c80fba5ff22c67bc1f11c184ba278ec"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/haremfantasynovels/comments/1bp1fmu",
+      "checked_at": "2026-09-15",
+      "scope": "Reader replies to the original release thread describe a relaxed balance of kingdom building and everyday life. The opening post is author promotion, not a review; those replies are individual reactions, not evidence that everyone finds the pacing satisfying."
+    }
+  ],
+  "allowed_numbers": [
+    "1",
+    "2",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/haremfantasynovels/comments/1bp1fmu",
+    "https://harem-lit.com"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "researched_at": "2026-09-15",
+  "series": "Dungeon Champions",
+  "book_number": 2,
+  "authors": [
+    "Adam Lance",
+    "Leon West"
+  ],
+  "voice": "Rhea",
+  "fictional_gender": "female",
+  "evidence_scope": "opening recap and mechanics notes; Chapter 3, Courage And Hope; harem-system glossary",
+  "source_artifacts": [
+    {
+      "label": "dc2 supplied manuscript",
+      "sha256": "6d44df7757bec14ebfc868d62e986c184424ae91186e53cb2cf46b280ab05257"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/haremfantasynovels/comments/1rzpo51/more_fate_forged_reviews_032126/",
+      "checked_at": "2026-09-15",
+      "scope": "In a series-level Reddit review, Heathen129 appreciates the monster cultures but criticizes Jordan’s habit of postponing important conversations. That is especially relevant to an ensemble romance: ignored communication can read as a character flaw rather than suspense. The discussion covers multiple books, not just this volume."
+    }
+  ],
+  "allowed_numbers": [
+    "2",
+    "3",
+    "15",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus",
+    "owned by Pivot Press Publishing"
+  ],
+  "forbidden_phrases": [
+    "verified purchase",
+    "independent review",
+    "I stayed up all night",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/haremfantasynovels/comments/1rzpo51/more_fate_forged_reviews_032126/",
+    "https://harem-lit.com"
+  ]
+}

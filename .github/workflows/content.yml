@@ -2,6 +2,7 @@ name: Generate Blog Post
 
 on:
   schedule:
+    - cron: '0 9 * * 1'  # Monday: source-locked campaign only; no generator fallback
     - cron: '0 9 * * 2'  # Tuesday 9am UTC
     - cron: '0 9 * * 4'  # Thursday 9am UTC
     - cron: '0 9 * * 6'  # Saturday 9am UTC
@@ -38,7 +39,7 @@ jobs:
         run: python scripts/publish_scheduled_post.py --git-push
 
       - name: Generate post
-        if: steps.scheduled.outputs.published != 'true'
+        if: steps.scheduled.outputs.published != 'true' && github.event.schedule != '0 9 * * 1'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}
