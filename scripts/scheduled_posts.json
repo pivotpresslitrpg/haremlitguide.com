@@ -25,7 +25,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/isle-of-the-amazonian-elves-1-warrior-women-with-a-community-to-save.md",
       "manifest": "research_sources/isle-of-the-amazonian-elves-1-warrior-women-with-a-community-to-save.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-09-21"
     },
     {
       "publish_date": "2026-09-22",
