@@ -43,7 +43,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/dungeon-champions-1-party-chemistry-starts-before-the-romance.md",
       "manifest": "research_sources/dungeon-champions-1-party-chemistry-starts-before-the-romance.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-09-24"
     },
     {
       "publish_date": "2026-09-26",
