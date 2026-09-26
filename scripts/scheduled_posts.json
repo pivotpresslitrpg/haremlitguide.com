@@ -52,7 +52,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/fates-enforcer-1-a-supernatural-job-with-inconvenient-attractions.md",
       "manifest": "research_sources/fates-enforcer-1-a-supernatural-job-with-inconvenient-attractions.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-09-26"
     },
     {
       "publish_date": "2026-09-28",
