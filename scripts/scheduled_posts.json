@@ -79,7 +79,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/dungeon-champions-2-a-shared-home-is-not-instant-harmony.md",
       "manifest": "research_sources/dungeon-champions-2-a-shared-home-is-not-instant-harmony.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-01"
     },
     {
       "publish_date": "2026-10-03",
