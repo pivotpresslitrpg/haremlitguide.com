@@ -88,7 +88,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/fates-enforcer-2-date-night-after-the-fireballs.md",
       "manifest": "research_sources/fates-enforcer-2-date-night-after-the-fireballs.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-03"
     },
     {
       "publish_date": "2026-10-06",
