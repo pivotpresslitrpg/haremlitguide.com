@@ -106,7 +106,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/dungeon-champions-3-sadie-makes-the-party-personal.md",
       "manifest": "research_sources/dungeon-champions-3-sadie-makes-the-party-personal.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-08"
     },
     {
       "publish_date": "2026-10-10",
