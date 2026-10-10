@@ -115,7 +115,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/fates-enforcer-3-soul-bonds-at-the-negotiating-table.md",
       "manifest": "research_sources/fates-enforcer-3-soul-bonds-at-the-negotiating-table.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-10"
     }
   ]
 }
